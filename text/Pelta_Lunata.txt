@@ -4,12 +4,14 @@ Base Type: Buckler
 Item Level: 3
 Level Required: 2
 Required Strength: 12
-+30 Defense
-+10 to Vitality
-+2 to Strength
-+10 to Energy
++30 to Life
++20 to Vitality
++20 to Strength
++25-30 to Energy
 +30-40% Enhanced Defense
 20% Increased Chance of Blocking
 +40% Faster Block Rate
 Durability: 12-8 of 12-8
+Damage Reduced by 6-8
+Replenish Life +15
 

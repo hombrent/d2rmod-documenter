@@ -236,7 +236,7 @@ Iratha's Finery
     +15 to Dexterity
 
     == Set Bonus for 2 Items ==
-    +10 to Dexterity
+    +20 to Dexterity
 
 
 == Set Bonus for 2 Items ==
@@ -618,6 +618,7 @@ Tancred's Battlegear
     Required Strength: 80
     +50 to Life
     +20 to Strength
+    +27% Faster Hit Recovery
     Curse Resist +25-34%
 
     == Set Bonus for 2 Items ==
@@ -1292,11 +1293,11 @@ Natalya's Odium
     Required Strength: 149
     +500-600 Defense
     +12-8 to Life (Based on Character Level)
-    +1-3 to [Class Skill Tab] Skills
+    +2-3 to [Class Skill Tab] Skills
     Poison Length Reduced by 150-75%
     Poison Resist +25%
-    +1-3 to [Class Skill Tab] Skills
-    +1-3 to [Class Skill Tab] Skills
+    +2-3 to [Class Skill Tab] Skills
+    +2-3 to [Class Skill Tab] Skills
 
     == Set Bonus for 2 Items ==
     +15 to Strength
@@ -1403,15 +1404,16 @@ Aldur's Watchtower
     Aldur's Gauntlet
     Base Type: Jagged Star
     Item Level: 29
-    Level Required: 42
+    Level Required: 55
     Set: Aldur's Watchtower
     Required Strength: 74
-    Adds 40-62 Damage
-    Adds 50-75 Lightning Damage
+    Adds 100-50 Damage
+    Damage +50-75
     10% Life stolen per hit
     +45% Increased Attack Speed
     +300% Enhanced Damage
     5% Mana stolen per hit
+    +30% Faster Cast Rate
 
     == Set Bonus for 2 Items ==
     +15 to Strength
@@ -1532,7 +1534,7 @@ Immortal King
     +25 to Strength
 
     == Set Bonus for 2 Items ==
-    +105 Defense
+    Damage Reduced by 30%
 
     == Set Bonus for 3 Items ==
     +25% Faster Hit Recovery
@@ -1556,7 +1558,6 @@ Immortal King
     +20-30 to Dexterity
     12% Chance to cast level 20 Static Field when struck
     +40 to Life
-    +10-15 to Vitality
 
     == Set Bonus for 2 Items ==
     +25% Increased Attack Speed
@@ -1584,6 +1585,7 @@ Immortal King
     Damage Reduced by 3-5%
     Magic Resist +30-40%
     +10% Faster Cast Rate
+    +10-15 to Vitality
 
     == Set Bonus for 2 Items ==
     25% Better Chance of Getting Magic Items
@@ -1703,7 +1705,7 @@ Tal Rasha's Wrappings
     -15% to Enemy Lightning Resistance
 
     == Set Bonus for 5 Items ==
-    +15% to Cold Skill Damage
+    -15% to Enemy Cold Resistance
 
 
     ============================
@@ -2193,80 +2195,83 @@ The Disciple
     Telling of Beads
     Base Type: Amulet
     Item Level: 39
-    Level Required: 30
+    Level Required: 56
     Set: The Disciple
     Poison Resist +35-50%
     +1 to All Skills
-    Cold Resist +18%
-    Attacker Takes Damage of 10-8
+    Cold Resist +30%
+    +10% Faster Cast Rate
 
 
     ============================
     Laying of Hands
     Base Type: Bramble Mitts
     Item Level: 39
-    Level Required: 63
+    Level Required: 56
     Set: The Disciple
     Required Strength: 50
     +25 Defense
     +20% Increased Attack Speed
     Fire Resist +50%
     +150-200% Damage to Demons
-    10-3% Chance to cast level 10-3 Holy Bolt on striking
+    10-16% Chance to cast level 10-16 Holy Bolt on striking
 
 
     ============================
     Rite of Passage
     Base Type: Demonhide Boots
     Item Level: 39
-    Level Required: 29
+    Level Required: 56
     Set: The Disciple
     Required Strength: 20
     +25 Defense
     +30% Faster Run/Walk
     Cannot Be Frozen
-    +15-25 to Life
+    20% Better Chance of Getting Magic Items
 
 
     ============================
     Spiritual Custodian
     Base Type: Dusk Shroud
     Item Level: 39
-    Level Required: 43
+    Level Required: 56
     Set: The Disciple
     Required Strength: 77
     +305-415 Defense
-    Fire Resist +24%
-    25% Chance to cast level 3 Nova when struck
-    +24-34 Poison Damage over 2.0 Seconds
+    Lightning Resist +50%
+    25% Chance to cast level 20 Nova when struck
+    +1-2 to All Skills
+    +20% Faster Cast Rate
 
 
     ============================
     Credendum
     Base Type: Mithril Coil
     Item Level: 39
-    Level Required: 65
+    Level Required: 56
     Set: The Disciple
     Required Strength: 106
-    +50 Defense
+    Damage Reduced by 10-5%
     +10 to Strength
     +10 to Dexterity
     All Resistances +15
 
 
 == Set Bonus for 2 Items ==
-+150 Defense
++150 to Mana
 
 == Set Bonus for 3 Items ==
-+21 Poison Damage over 3.0 Seconds
++30% to Poison Skill Damage
 
 == Set Bonus for 4 Items ==
-+10 to Strength
++8 to Strength (Based on Character Level)
++8 to Dexterity (Based on Character Level)
 
 == Set Bonus for full Items ==
 All Resistances +50
 +2 to All Skills
-+100 to Mana
++100 to Life
++15% to Experience Gained
 
 ============================
 Heaven's Brethren
@@ -2275,24 +2280,27 @@ Heaven's Brethren
     Dangoon's Teaching
     Base Type: Reinforced Mace
     Item Level: 55
-    Level Required: 68
+    Level Required: 65
     Set: Heaven's Brethren
     Required Strength: 145
     Required Dexterity: 46
     +# to Maximum Damage (Based on Character Level)
     +40% Increased Attack Speed
-    10-3% Chance to cast level 10-3 Frost Nova on striking
+    10-20% Chance to cast level 10-20 Meteor on striking
     Adds 20-30 Fire Damage
+    25% Chance of Crushing Blow
+    +1 to Zeal
+    +200% Enhanced Damage
 
 
     ============================
     Heaven's Taebaek
     Base Type: Ward
     Item Level: 55
-    Level Required: 81
+    Level Required: 65
     Set: Heaven's Brethren
     Required Strength: 185
-    +50 Defense
+    +500 Defense
     +100 to Mana
     Lightning Resist +30%
     Attacker Takes Damage of 30
@@ -2306,26 +2314,27 @@ Heaven's Brethren
     Haemosu's Adament
     Base Type: Cuirass
     Item Level: 55
-    Level Required: 44
+    Level Required: 65
     Set: Heaven's Brethren
     Required Strength: 65
     +500 Defense
-    +35 Defense vs. Missile
-    +75 to Life
-    +40 Defense vs. Melee
+    +250 Defense vs. Missile
+    +200 to Life
+    +300 Defense vs. Melee
     Requirements -20%
+    All Resistances +45
 
 
     ============================
     Ondal's Almighty
     Base Type: Spired Helm
     Item Level: 55
-    Level Required: 69
+    Level Required: 65
     Set: Heaven's Brethren
     Required Strength: 192
     +50 Defense
     Requirements -40%
-    10-3% Chance to cast level 10-3 Weaken on striking
+    Level 15 Prayer Aura When Equipped
     +10 to Strength
     +15 to Dexterity
     +24% Faster Hit Recovery
@@ -2353,7 +2362,7 @@ Orphan's Call
     Guillaume's Face
     Base Type: Winged Helm
     Item Level: 41
-    Level Required: 34
+    Level Required: 35
     Set: Orphan's Call
     Required Strength: 115
     +120% Enhanced Defense
@@ -2367,33 +2376,34 @@ Orphan's Call
     Wilhelm's Pride
     Base Type: Battle Belt
     Item Level: 41
-    Level Required: 42
+    Level Required: 35
     Set: Orphan's Call
     Required Strength: 88
     +75% Enhanced Defense
     5% Mana stolen per hit
-    Cold Resist +10%
+    Cold Resist +25%
     5% Life stolen per hit
+    +6 to Increased Endurance
 
 
     ============================
     Magnus' Skin
     Base Type: Sharkskin Gloves
     Item Level: 41
-    Level Required: 37
+    Level Required: 35
     Set: Orphan's Call
     Required Strength: 20
     +50% Enhanced Defense
-    Fire Resist +15%
+    Fire Resist +25%
     +20% Increased Attack Speed
-    +100 to Attack Rating
+    +500 to Attack Rating
 
 
     ============================
     Wihtstan's Guard
     Base Type: Round Shield
     Item Level: 41
-    Level Required: 29
+    Level Required: 35
     Set: Orphan's Call
     Required Strength: 53
     +175% Enhanced Defense
@@ -2405,16 +2415,16 @@ Orphan's Call
 
 
 == Set Bonus for 2 Items ==
-+35 to Life
++100 to Life
 
 == Set Bonus for 3 Items ==
-Attacker Takes Damage of 20 (Based on Character Level)
+Increase Maximum Life 5%
 
 == Set Bonus for 4 Items ==
 +100 Defense
 
 == Set Bonus for full Items ==
-+50 to Life
++15% to Experience Gained
 +10 to Dexterity
 +20 to Strength
 +100 Defense
@@ -2426,65 +2436,71 @@ Hwanin's Majesty
     Hwanin's Splendor
     Base Type: Grand Crown
     Item Level: 28
-    Level Required: 45
+    Level Required: 34
     Set: Hwanin's Majesty
     Required Strength: 103
-    Replenish Life +20
+    Replenish Life +50
     Magic Damage Reduced by 10
     Cold Resist +37%
     +100% Enhanced Defense
+    Damage Reduced by 10
 
 
     ============================
     Hwanin's Refuge
     Base Type: Tigulated Mail
     Item Level: 28
-    Level Required: 30
+    Level Required: 34
     Set: Hwanin's Majesty
     Required Strength: 86
-    +200 Defense
-    Poison Resist +27%
-    +100 to Life
-    10% Chance to cast level 3 Static Field when struck
+    +450 Defense
+    Poison Resist +60%
+    +175 to Life
+    10% Chance to cast level 7 Static Field when struck
+    Damage Reduced by 10%
 
 
     ============================
     Hwanin's Seal
     Base Type: Belt
     Item Level: 28
-    Level Required: 35
+    Level Required: 34
     Set: Hwanin's Majesty
     Required Strength: 25
-    Adds 3-33 Lightning Damage
+    Adds 1-300 Lightning Damage
     Prevent Monster Heal
     +# Defense (Based on Character Level)
-    12% Damage Taken Goes To Mana
+    Damage Reduced by 7%
 
 
     ============================
     Hwanin's Justice
     Base Type: Bill
     Item Level: 28
-    Level Required: 28
+    Level Required: 34
     Set: Hwanin's Majesty
     Required Strength: 95
     +330 to Attack Rating
     Repairs 1 durability in # seconds
-    10-3% Chance to cast level 10-3 Ice Blast on striking
+     14-10% Chance to cast level  14-10 Nova on striking
     +40% Increased Attack Speed
     +200% Enhanced Damage
-    Adds 25-5 Lightning Damage
+    Adds 1-300 Lightning Damage
+
+    == Set Bonus for 5 Items ==
+    Level 10 holy shock Aura When Equipped
 
 
 == Set Bonus for 2 Items ==
-+100 Defense
+10% Life stolen per hit
 
 == Set Bonus for 3 Items ==
-+200 Defense
+10% Life stolen per hit
+Damage Reduced by 5%
 
 == Set Bonus for full Items ==
 +2 to All Skills
-20% Life stolen per hit
++100 to Life
 +30% Faster Run/Walk
 All Resistances +30
 
@@ -2495,12 +2511,12 @@ Sazabi's Grand Tribute
     Sazabi's Cobalt Redeemer
     Base Type: Cryptic Sword
     Item Level: 34
-    Level Required: 73
+    Level Required: 61
     Set: Sazabi's Grand Tribute
     Required Strength: 99
     Required Dexterity: 109
     +250% Enhanced Damage
-    Adds 25-35 Cold Damage
+    25% Deadly Strike
     +40% Increased Attack Speed
     +318% Damage to Demons
     Repairs 1 durability in # seconds
@@ -2512,38 +2528,41 @@ Sazabi's Grand Tribute
     Sazabi's Ghost Liberator
     Base Type: Balrog Skin
     Item Level: 34
-    Level Required: 67
+    Level Required: 61
     Set: Sazabi's Grand Tribute
     Required Strength: 165
     +400 Defense
     +30% Faster Hit Recovery
     +25 to Strength
     +300 to Attack Rating against Demons
-    +50-75 to Life
+    +150 to Life
+    Cold Resist +20-25%
+    Damage Reduced by 10%
 
 
     ============================
     Sazabi's Mental Sheath
     Base Type: Basinet
     Item Level: 34
-    Level Required: 43
+    Level Required: 61
     Set: Sazabi's Grand Tribute
     Required Strength: 82
     +100 Defense
-    +1 to All Skills
-    Fire Resist +15-20%
-    Lightning Resist +15-20%
+    +2 to All Skills
+    Fire Resist +20-25%
+    Lightning Resist +20-25%
+    20% Chance of Crushing Blow
 
 
 == Set Bonus for 2 Items ==
 +40% Faster Run/Walk
-Poison Length Reduced by 75%
+Poison Length Reduced by 200%
 
 == Set Bonus for full Items ==
 All Resistances +30
 15% Life stolen per hit
 Increase Maximum Life 27%
-+1 to All Skills
++2 to All Skills
 
 ============================
 Bul-Kathos' Children
@@ -2552,7 +2571,7 @@ Bul-Kathos' Children
     Bul-Kathos' Sacred Charge
     Base Type: Colossus Blade
     Item Level: 50
-    Level Required: 61
+    Level Required: 64
     Set: Bul-Kathos' Children
     Required Strength: 189
     Required Dexterity: 110
@@ -2569,7 +2588,7 @@ Bul-Kathos' Children
     Bul-Kathos' Tribal Guardian
     Base Type: Colossal Sword
     Item Level: 50
-    Level Required: 54
+    Level Required: 64
     Set: Bul-Kathos' Children
     Required Strength: 182
     Required Dexterity: 95
@@ -2595,51 +2614,57 @@ Cow King's Leathers
     Cow King's Horns
     Base Type: War Hat
     Item Level: 20
-    Level Required: 25
+    Level Required: 22
     Set: Cow King's Leathers
     Required Strength: 20
-    +75 Defense
+    Damage Reduced by 10-5%
     Half Freeze Duration
     35% Damage Taken Goes To Mana
-    Attacker Takes Damage of 10
+    +25 to Strength
+    Durability: 35 of 35
 
 
     ============================
     Cow King's Hide
-    Base Type: Studded Leather
+    Base Type: Trellised Armor
     Item Level: 20
-    Level Required: 18
+    Level Required: 22
     Set: Cow King's Leathers
-    Required Strength: 27
-    All Resistances +18
-    +60% Enhanced Defense
-    +30 to Life
-    18% Chance to cast level 5 Chain Lightning when struck
+    Required Strength: 61
+    Lightning Resist +75%
+    +200% Enhanced Defense
+    +100 to Life
+    100% Chance to cast level 20 Charged Bolt when struck
+    +20% Faster Run/Walk
+    Damage Reduced by 10%
+
+    == Set Bonus for 3 Items ==
+    Level 1 Conviction Aura When Equipped
 
 
     ============================
     Cow King's Hoofs
-    Base Type: Heavy Boots
+    Base Type: Sharkskin Boots
     Item Level: 20
-    Level Required: 13
+    Level Required: 22
     Set: Cow King's Leathers
-    Required Strength: 18
+    Required Strength: 47
     +25-35 Defense
     +30% Faster Run/Walk
     25% Better Chance of Getting Magic Items
     +20 to Dexterity
-    Adds 25-35 Fire Damage
+    Adds 1-450 Lightning Damage
 
 
 == Set Bonus for 2 Items ==
-Poison Resist +25%
-+100 Defense
++50% to Lightning Skill Damage
++40 Defense (Based on Character Level)
 
 == Set Bonus for full Items ==
-+100 Maximum Stamina
-+20 to Strength
+All Resistances +45
 100% Extra Gold from Monsters
-100% Better Chance of Getting Magic Items
+125% Better Chance of Getting Magic Items
++5% to Experience Gained
 
 ============================
 Naj's Ancient Set
@@ -2648,7 +2673,7 @@ Naj's Ancient Set
     Naj's Puzzler
     Base Type: Elder Staff
     Item Level: 43
-    Level Required: 78
+    Level Required: 59
     Set: Naj's Ancient Set
     Required Strength: 44
     Required Dexterity: 37
@@ -2665,35 +2690,36 @@ Naj's Ancient Set
     Naj's Light Plate
     Base Type: Hellforge Plate
     Item Level: 43
-    Level Required: 71
+    Level Required: 59
     Set: Naj's Ancient Set
     Required Strength: 196
     Requirements -60%
     +65 to Life
     All Resistances +25
     45% Damage Taken Goes To Mana
-    +1 to All Skills
+    +0-6 to [Class] Skill Levels
     +300 Defense
+    +30% Faster Cast Rate
 
 
     ============================
     Naj's Circlet
     Base Type: Circlet
     Item Level: 43
-    Level Required: 28
+    Level Required: 59
     Set: Naj's Ancient Set
-    +75 Defense
-    Adds 25-35 Fire Damage
+    +75 to Mana
+    +0-6 to [Class] Skill Levels
     +15 to Strength
-    12% Chance to cast level 5 Chain Lightning when struck
+    +30% Faster Cast Rate
 
 
 == Set Bonus for 2 Items ==
-+175 Defense
++30% Faster Cast Rate
 ( 1.5% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
 
 == Set Bonus for full Items ==
-+1 to All Skills
++3 to All Skills
 Replenish Life +20
 +15 to Dexterity
 All Resistances +50
@@ -2705,22 +2731,22 @@ McAuley's Folly
     McAuley's Paragon
     Base Type: Cap
     Item Level: 20
-    Level Required: 25
+    Level Required: 24
     Set: McAuley's Folly
     35% Better Chance of Getting Magic Items
-    Attacker Takes Damage of 8
-    +# Defense (Based on Character Level)
+    +2 to Necromancer Skill Levels
+    +33% Piercing Attack
 
 
     ============================
     McAuley's Riprap
     Base Type: Heavy Boots
     Item Level: 20
-    Level Required: 20
+    Level Required: 24
     Set: McAuley's Folly
     Required Strength: 18
     +40% Faster Run/Walk
-    +100 to Attack Rating
+    Fire Resist +15%
     +5 to Strength
     +10 to Dexterity
 
@@ -2729,36 +2755,1236 @@ McAuley's Folly
     McAuley's Taboo
     Base Type: Heavy Gloves
     Item Level: 20
-    Level Required: 28
+    Level Required: 24
     Set: McAuley's Folly
-    +20-25 Defense
-    +20% Increased Attack Speed
+    +10% Faster Cast Rate
+    +3 to Mana after each Kill
     +40 to Life
-    +8-10 Poison Damage over 3.0 Seconds
+    +2 to Teeth ([Class] only)
 
 
     ============================
     McAuley's Superstition
     Base Type: Bone Wand
     Item Level: 20
-    Level Required: 25
+    Level Required: 24
     Set: McAuley's Folly
-    +75% Enhanced Damage
-    +25 to Mana
-    8% Mana stolen per hit
-    +20% Faster Cast Rate
-    Adds 25-75 Cold Damage
+    +45% Faster Cast Rate
+    +2 to Bone Wall ([Class] only)
+    +2 to Bone Spear ([Class] only)
+    +2 to Bone Prison ([Class] only)
+    +50 to Mana
+
+    == Set Bonus for 3 Items ==
+    Level 1 Meditation Aura When Equipped
 
 
 == Set Bonus for 2 Items ==
-+50 Defense
+Increase Maximum Mana 5%
 
 == Set Bonus for 3 Items ==
-+75 to Attack Rating
+All Resistances +15
 
 == Set Bonus for full Items ==
-+1 to All Skills
-50% Better Chance of Getting Magic Items
++2 to [Class Skill Tab] Skills
+125% Better Chance of Getting Magic Items
 +50 to Mana
-4% Life stolen per hit
++15% to Experience Gained
+
+============================
+Nadin's Winning Strategy
+
+    ============================
+    Nadin's Determination
+    Base Type: amulet
+    Item Level: 85
+    Level Required: 90
+    Set: Nadin's Winning Strategy
+    +0-6 to [Class] Skill Levels
+    +10% Faster Cast Rate
+    All Resistances +10
+    +3 to Mana after each Kill
+
+
+    ============================
+    Nadin's Passion
+    Base Type: ring
+    Item Level: 85
+    Level Required: 90
+    Set: Nadin's Winning Strategy
+    +0-6 to [Class] Skill Levels
+    5% Mana stolen per hit
+    5% Life stolen per hit
+    +3 Life after each Kill
+    +5 to all Attributes
+
+
+== Set Bonus for full Items ==
++10% to Experience Gained
++10% Faster Cast Rate
++25% Faster Run/Walk
++24% Faster Hit Recovery
+
+============================
+Sanctuary's Blessing Caster
+
+    ============================
+    Astral Bond
+    Base Type: thresher
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Caster
+    Required Strength: 152
+    Required Dexterity: 118
+    +3-4 to All Skills
+    Requirements -100%
+    +65-75% Faster Cast Rate
+    Poison Length Reduced by 100%
+    Level 15-20 meditation Aura When Equipped
+    Increase Maximum Life 10-20%
+    Increase Maximum Mana 10-20%
+    +15-5 to Mana after each Kill
+
+
+    ============================
+    Hope Caster
+    Base Type: ring
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Caster
+    +100 to Life
+    +10-20% Faster Run/Walk
+    +10% Faster Cast Rate
+    Magic Damage Reduced by 10
+    +10-20 to Vitality
+
+
+    ============================
+    Despair Caster
+    Base Type: ring
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Caster
+    +100 to Mana
+    +100 Defense vs. Missile
+    +100 Defense vs. Melee
+    +10-30 to Energy
+    Damage Reduced by 10
+
+
+    ============================
+    Equilibrium Caster
+    Base Type: amulet
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Caster
+    +1-2 to All Skills
+    Magic Resist +25%
+    +10-20 to all Attributes
+    +15% Faster Cast Rate
+    All Resistances -20
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
+200% Extra Gold from Monsters
+Cannot Be Frozen
+Curse Resist +20%
+
+============================
+Sanctuary's Blessing Melee
+
+    ============================
+    The Decimation
+    Base Type: thresher
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Melee
+    Required Strength: 152
+    Required Dexterity: 118
+    +3-4 to All Skills
+    +50% Increased Attack Speed
+    +25-35% Faster Hit Recovery
+    Damage Reduced by 10-3%
+    +220-280% Enhanced Damage
+    Level 10-15 concentration Aura When Equipped
+    Increase Maximum Life 20-5%
+    20-22% Chance to cast level 20-22 Amplify Damage on attack
+
+
+    ============================
+    Hope Melee
+    Base Type: ring
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Melee
+    +100 to Life
+    +10-20% Faster Run/Walk
+    +10% Increased Attack Speed
+    Magic Damage Reduced by 10
+    +10-20 to Vitality
+
+
+    ============================
+    Despair Melee
+    Base Type: ring
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Melee
+    +100 to Mana
+    +100 Defense vs. Missile
+    +100 Defense vs. Melee
+    +10-30 to Energy
+    Damage Reduced by 10
+
+
+    ============================
+    Equilibrium Melee
+    Base Type: amulet
+    Item Level: 85
+    Level Required: 85
+    Set: Sanctuary's Blessing Melee
+    +1-2 to All Skills
+    Magic Resist +25%
+    +10-20 to all Attributes
+    All Resistances -20
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
+200% Extra Gold from Monsters
+Cannot Be Frozen
+Curse Resist +20%
+
+============================
+The Ascension
+
+    ============================
+    Ying
+    Base Type: ring
+    Item Level: 85
+    Level Required: 95
+    Set: The Ascension
+    All Resistances +10-20
+    +1-10% Strength
+    +1-10% Dexterity
+
+
+    ============================
+    Yang
+    Base Type: ring
+    Item Level: 85
+    Level Required: 95
+    Set: The Ascension
+    Increase Maximum Life 1-10%
+    Increase Maximum Mana 1-10%
+    +20-5 Life after each Kill
+    -20 to Mana after each Kill
+
+
+    ============================
+    Inner Peace
+    Base Type: amulet
+    Item Level: 85
+    Level Required: 95
+    Set: The Ascension
+    +2 to All Skills
+    +20% Faster Cast Rate
+    Replenish Life +20-5
+
+
+    ============================
+    Demigod
+    Base Type: colossus girdle
+    Item Level: 85
+    Level Required: 95
+    Set: The Ascension
+    Required Strength: 185
+    +1 to All Skills
+    +20-26% Faster Cast Rate
+    +10-15 to all Attributes
+    Damage Reduced by 10-15%
+    Requirements -100%
+    +100-150 Defense
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
+
+Curse Resist +50%
+150% Better Chance of Getting Magic Items
+
+============================
+Fake Ascension
+
+    ============================
+    Demigod Replica
+    Base Type: colossus girdle
+    Item Level: 85
+    Level Required: 95
+    Set: Fake Ascension
+    Required Strength: 185
+    +1 to All Skills
+    +10% Faster Cast Rate
+    +5 to all Attributes
+    Damage Reduced by 5%
+    Requirements -100%
+    +200-300 Defense
+
+
+============================
+Sigurds Nobility
+
+    ============================
+    Sigurd's Grip
+    Base Type: ogre gauntlets
+    Item Level: 85
+    Level Required: 85
+    Set: Sigurds Nobility
+    Required Strength: 185
+    +50% Strength
+    +30% Increased Attack Speed
+    10-20% Deadly Strike
+    35-50% Bonus to Attack Rating
+    Poison Resist +35-50%
+    +100 Defense
+    Adds 100-75 Damage
+    Requirements -20%
+
+
+    ============================
+    Sigurd's Deflector
+    Base Type: monarch
+    Item Level: 85
+    Level Required: 85
+    Set: Sigurds Nobility
+    Required Strength: 156
+    +50% Faster Block Rate
+    50% Increased Chance of Blocking
+    Cannot Be Frozen
+    Damage Reduced by 20-5%
+    +100-150% Enhanced Defense
+    Level 1 salvation Aura When Equipped
+
+
+    ============================
+    Sigurd's Saveguard
+    Base Type: mithril coil
+    Item Level: 85
+    Level Required: 85
+    Set: Sigurds Nobility
+    Required Strength: 106
+    Damage Reduced by 10-20%
+    +24-42% Faster Hit Recovery
+    +50% Energy
+    10-15% Damage Taken Goes To Mana
+    +150-250 Defense
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
+Curse Resist +100%
+100% Better Chance of Getting Magic Items
++50% Faster Run/Walk
+
+============================
+Humanity's End
+
+    ============================
+    Wicked Seduction
+    Base Type: troll belt
+    Item Level: 85
+    Level Required: 85
+    Set: Humanity's End
+    Required Strength: 151
+    +20% Faster Cast Rate
+    All Resistances -30
+    +20-30 to Mana after each Kill
+    +20-30 Life after each Kill
+    Poison Length Reduced by 50%
+    +66% Enhanced Defense
+
+
+    ============================
+    Underworlds Mirror
+    Base Type: troll nest
+    Item Level: 85
+    Level Required: 85
+    Set: Humanity's End
+    Required Strength: 106
+    +1 to All Skills
+    All Resistances -10-40
+    Increase Maximum Life 15-40%
+    Increase Maximum Mana 15-40%
+    Level 1-3 conviction Aura When Equipped
+    +666 Defense
+
+
+    ============================
+    Devil's Bargain
+    Base Type: bone visage
+    Item Level: 85
+    Level Required: 85
+    Set: Humanity's End
+    Required Strength: 106
+    +20-26% Faster Cast Rate
+    +1 to All Skills
+    Requirements -10-50%
+    +66% Enhanced Defense
+    +1-66 to Life
+    +1-66 to Mana
+
+
+    ============================
+    Stolen Jewelry
+    Base Type: ring
+    Item Level: 85
+    Level Required: 85
+    Set: Humanity's End
+    20-30% Better Chance of Getting Magic Items
+    +1-3% Maximum to all Resistances
+    +10-15% Vitality
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
++3 to All Skills
+200% Better Chance of Getting Magic Items
+200% Extra Gold from Monsters
+
+============================
+Royal Guard
+
+    ============================
+    Polished Safety
+    Base Type: aegis
+    Item Level: 85
+    Level Required: 85
+    Set: Royal Guard
+    Required Strength: 219
+    Damage Reduced by 20-30%
+    +200% Enhanced Defense
+    +10-30 to Dexterity
+    Cold Resist +40%
+    Cannot Be Frozen
+    -3-5% to Enemy Cold Resistance
+    Requirements -50%
+    Level 12-15 holy freeze Aura When Equipped
+
+
+    ============================
+    Comfortable Mittens
+    Base Type: crusader gauntlet
+    Item Level: 85
+    Level Required: 85
+    Set: Royal Guard
+    Required Strength: 151
+    +100-50% Enhanced Defense
+    +10-30 to Energy
+    100% Bonus to Attack Rating
+    Poison Resist +40%
+    +33% Piercing Attack
+    -3-5% to Enemy Poison Resistance
+    +100-75% Damage to Demons
+
+
+    ============================
+    High Authority
+    Base Type: spired helm
+    Item Level: 85
+    Level Required: 85
+    Set: Royal Guard
+    Required Strength: 192
+    +150% Enhanced Defense
+    +10-30 to Strength
+    Lightning Resist +40%
+    200% Extra Gold from Monsters
+    -3-5% to Enemy Lightning Resistance
+    Level 10-16 holy shock Aura When Equipped
+
+
+    ============================
+    Warriors Heart
+    Base Type: archon plate
+    Item Level: 85
+    Level Required: 85
+    Set: Royal Guard
+    Required Strength: 103
+    +300% Enhanced Defense
+    +10-30 to Vitality
+    Fire Resist +40%
+    75% Better Chance of Getting Magic Items
+    +0-6 to [Class] Skill Levels
+    +50% Faster Hit Recovery
+    -3-5% to Enemy Fire Resistance
+    Level 10-15 holy fire Aura When Equipped
+
+
+    ============================
+    Journey's End
+    Base Type: mirrored boots
+    Item Level: 85
+    Level Required: 85
+    Set: Royal Guard
+    Required Strength: 163
+    +42 Defense
+    +30-40% Faster Run/Walk
+    Magic Resist +30-55%
+    +1 to All Skills
+    -5-8% to Enemy Magic  Resistance
+    25-55% Chance to cast level 25-55 blessed hammer on striking
+
+
+== Set Bonus for full Items ==
++15% to Experience Gained
+Curse Resist +66%
++3 to All Skills
+Reduces all Vendor Prices 20%
+
+============================
+Natalya's Vengeance
+
+    ============================
+    Natalya's Visage
+    Base Type: Grim Helm
+    Item Level: 87
+    Level Required: 85
+    Set: Natalya's Vengeance
+    Required Strength: 58
+    +2 to Assassin Skill Levels
+    +25% Increased Attack Speed
+    +25% Faster Cast Rate
+    All Resistances +20-30
+    +30-40 to all Attributes
+    +270-350 Defense
+
+    == Set Bonus for 2 Items ==
+    20% Life stolen per hit
+    20% Mana stolen per hit
+
+
+    ============================
+    Natalya's Slayer
+    Base Type: Scissors Suwayyah
+    Item Level: 87
+    Level Required: 85
+    Set: Natalya's Vengeance
+    Required Strength: 118
+    Required Dexterity: 118
+    +2-3 to Assassin Skill Levels
+    Level 9 fanaticism Aura When Equipped
+    +40% Increased Attack Speed
+    +40% Faster Cast Rate
+    +280-350% Enhanced Damage
+    +200-300 to Maximum Damage
+    Damage +200-300
+    All Resistances +20-30
+
+
+    ============================
+    Natalya's Scar
+    Base Type: Scissors Suwayyah
+    Item Level: 87
+    Level Required: 85
+    Set: Natalya's Vengeance
+    Required Strength: 118
+    Required Dexterity: 118
+    +2-3 to Assassin Skill Levels
+    Level 12 thorns Aura When Equipped
+    +40% Increased Attack Speed
+    +40% Faster Cast Rate
+    -3-5% to Enemy Fire Resistance
+    -3-5% to Enemy Lightning Resistance
+    -3-5% to Enemy Cold Resistance
+    All Resistances +20-30
+
+
+    ============================
+    Natalya's Embrace
+    Base Type: Loricated Mail
+    Item Level: 87
+    Level Required: 85
+    Set: Natalya's Vengeance
+    Required Strength: 149
+    +3 to Assassin Skill Levels
+    +30% Faster Run/Walk
+    +700-800 Defense
+    Increase Maximum Life 10-20%
+    +2-5% Maximum to all Resistances
+    All Resistances +15-30
+    +10-15% to Fire Skill Damage
+    +10-15% to Lightning Skill Damage
+
+    == Set Bonus for 3 Items ==
+    +125 Kick Damage
+    Slows Target by 25%
+
+
+    ============================
+    Natalya's Footprints
+    Base Type: Mesh Boots
+    Item Level: 87
+    Level Required: 85
+    Set: Natalya's Vengeance
+    Required Strength: 65
+    +40% Faster Run/Walk
+    +35% Faster Hit Recovery
+    +10-20 to all Attributes
+    All Resistances +10-20
+    -3-5% to Enemy Poison Resistance
+    +5% to Poison Skill Damage
+    +7 to venom ([Class] only)
+
+
+== Set Bonus for full Items ==
++2 to All Skills
++50% Increased Attack Speed
++50% Faster Cast Rate
+Damage Reduced by 20%
+
+============================
+Aldur's Beacon
+
+    ============================
+    Aldur's Icy Gaze
+    Base Type: Hunter's Guise
+    Item Level: 87
+    Level Required: 85
+    Set: Aldur's Beacon
+    Required Strength: 56
+    +2 to Druid Skill Levels
+    +45-90% Enhanced Damage
+    +500 Defense
+    All Resistances +15-25
+    +7 to cyclone armor ([Class] only)
+    +10-5% to Fire Skill Damage
+    -3-5% to Enemy Fire Resistance
+    +10-5% to Cold Skill Damage
+
+    == Set Bonus for 3 Items ==
+    25-60% Chance to cast level 25-60 Twister on striking
+
+
+    ============================
+    Aldur's Deceit
+    Base Type: Shadow Plate
+    Item Level: 87
+    Level Required: 85
+    Set: Aldur's Beacon
+    Required Strength: 230
+    +3 to Druid Skill Levels
+    +20% Increased Attack Speed
+    +20% Faster Cast Rate
+    +10-15% to Fire Skill Damage
+    -3-5% to Enemy Fire Resistance
+    +10-15% to Cold Skill Damage
+    -3-5% to Enemy Cold Resistance
+    Requirements -60%
+
+    == Set Bonus for 2 Items ==
+    +10% Vitality
+    +10% Energy
+
+    == Set Bonus for 3 Items ==
+    +10% Strength
+    +10% Dexterity
+
+
+    ============================
+    Aldur's Onslaught
+    Base Type: Jagged Star
+    Item Level: 87
+    Level Required: 85
+    Set: Aldur's Beacon
+    Required Strength: 74
+    +2-3 to Druid Skill Levels
+    +40-50% Increased Attack Speed
+    +40-50% Faster Cast Rate
+    +300-350% Enhanced Damage
+    +200-300 to Maximum Damage
+    50% Bonus to Attack Rating
+    10% Life stolen per hit
+    35% Chance of Crushing Blow
+
+    == Set Bonus for 2 Items ==
+    -5% to Enemy Fire Resistance
+
+    == Set Bonus for 3 Items ==
+    -5% to Enemy Cold Resistance
+
+
+    ============================
+    Aldur's Momentum
+    Base Type: Battle Boots
+    Item Level: 87
+    Level Required: 85
+    Set: Aldur's Beacon
+    Required Strength: 95
+    +50% Faster Run/Walk
+    +1 to Druid Skill Levels
+    +25-50% Enhanced Damage
+    Increase Maximum Life 5%
+    All Resistances +10-20
+    Increase Maximum Mana 5%
+
+
+== Set Bonus for full Items ==
++2 to All Skills
++50% Increased Attack Speed
++50% Faster Cast Rate
+Damage +300
+
+============================
+Bul Katho's Embodiment
+
+    ============================
+    Immortal King's Triumph
+    Base Type: Avenger Guard
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 65
+    +2  to Barbarian Skill Levels
+    +25% Increased Attack Speed
+    +40% Faster Cast Rate
+    +750 Defense
+    +20-30 to all Attributes
+    50-75% Better Chance of Getting Magic Items
+
+
+    ============================
+    Immortal King's Eternal Reign
+    Base Type: Sacred Armor
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 232
+    +3 to All Skills
+    Level 10 defiance Aura When Equipped
+    All Resistances +30-40
+    Cannot Be Frozen
+    +35% Vitality
+    10% Mana stolen per hit
+    +350% Enhanced Defense
+    +300% Enhanced Damage
+
+    == Set Bonus for 2 Items ==
+    +10 to war cry ([Class] only)
+    +5% Maximum to all Resistances
+
+
+    ============================
+    Immortal King's Tribal Binding
+    Base Type: War Belt
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 110
+    Damage Reduced by 10-20%
+    +20% Increased Attack Speed
+    +20% Faster Cast Rate
+    +40-75% Enhanced Damage
+    All Resistances +10-20
+    +3-5% Vitality
+    +3-5% Strength
+    +3-5% Dexterity
+
+
+    ============================
+    Immortal King's Irons
+    Base Type: War Gauntlets
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 110
+    +20% Increased Attack Speed
+    +1-3  to Barbarian Skill Levels
+    +20% Faster Cast Rate
+    15% Chance of Crushing Blow
+    15% Deadly Strike
+    +400 Defense
+    Damage Reduced by 10-20%
+    +3-5% Strength
+
+
+    ============================
+    Immortal King's Statue
+    Base Type: War Boots
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 125
+    +40% Faster Run/Walk
+    +1-3% Maximum to all Resistances
+    All Resistances +10-20
+    Magic Resist +25%
+    Damage Reduced by 10-15%
+    +40% Faster Hit Recovery
+
+
+    ============================
+    Immortal King's Savager
+    Base Type: Colossus Blade
+    Item Level: 87
+    Level Required: 95
+    Set: Bul Katho's Embodiment
+    Required Strength: 189
+    Required Dexterity: 110
+    +40% Increased Attack Speed
+    Level 9 fanaticism Aura When Equipped
+    +2-3  to Barbarian Skill Levels
+    +40-50% Faster Cast Rate
+    +200-300% Enhanced Damage
+    +100-200 to Maximum Damage
+    Damage +100-200
+    100% Bonus to Attack Rating
+
+    == Set Bonus for 2 Items ==
+    100% Bonus to Attack Rating
+    10% Life stolen per hit
+
+    == Set Bonus for 3 Items ==
+    +100% Enhanced Damage
+    +30 to all Attributes
+
+
+== Set Bonus for full Items ==
++2 to All Skills
+Increase Maximum Life 50%
+All Resistances +75
+Damage +300
+
+============================
+Tal Rasha's Elements
+
+    ============================
+    Tal Rasha's Brace
+    Base Type: Mesh Belt
+    Item Level: 87
+    Level Required: 85
+    Set: Tal Rasha's Elements
+    Required Strength: 58
+    Damage Reduced by 10-5%
+    +1 to Sorceress Skill Levels
+    +1-3 to meteor ([Class] only)
+    +20% Faster Cast Rate
+    -3-5% to Enemy Fire Resistance
+    Increase Maximum Mana 3-8%
+    +10-5 to all Attributes
+    25-50% Better Chance of Getting Magic Items
+
+
+    ============================
+    Tal Rasha's Allegiance
+    Base Type: Amulet
+    Item Level: 87
+    Level Required: 99
+    Set: Tal Rasha's Elements
+    +2-3 to Sorceress Skill Levels
+    +60-90 to Mana
+    +1-3% Maximum to all Resistances
+    +3-7 to Mana after each Kill
+    All Resistances +10-20
+
+    == Set Bonus for 2 Items ==
+    +1 to All Skills
+    75% Better Chance of Getting Magic Items
+
+
+    ============================
+    Tal Rasha's Omniscience
+    Base Type: Swirling Crystal
+    Item Level: 87
+    Level Required: 85
+    Set: Tal Rasha's Elements
+    +3 to Sorceress Skill Levels
+    +40% Faster Cast Rate
+    +2-3 to Lightning Mastery ([Class] only)
+    +2-3 to Fire Mastery ([Class] only)
+    +2-3 to Cold Mastery ([Class] only)
+    +50 to Life
+    +50 to Mana
+    +5 to evade
+
+
+    ============================
+    Tal Rasha's Exquisite Clothing
+    Base Type: Lacquered Plate
+    Item Level: 87
+    Level Required: 85
+    Set: Tal Rasha's Elements
+    Required Strength: 208
+    +3 to Sorceress Skill Levels
+    +25-35% Faster Cast Rate
+    +777 Defense
+    -10-15% to Enemy Lightning Resistance
+    Damage Reduced by 15-30
+    Magic Damage Reduced by 15-30
+    All Resistances +30-50
+    100-150% Better Chance of Getting Magic Items
+
+    == Set Bonus for 3 Items ==
+    +30% Faster Cast Rate
+    +5% Maximum to all Resistances
+
+
+    ============================
+    Tal Rasha's Wisdom
+    Base Type: Death Mask
+    Item Level: 87
+    Level Required: 85
+    Set: Tal Rasha's Elements
+    Required Strength: 55
+    +1-2 to Sorceress Skill Levels
+    +10-5% Vitality
+    +10-5% Energy
+    +20-25% Faster Cast Rate
+    -3-5% to Enemy Cold Resistance
+    +1-3 to blizzard ([Class] only)
+
+
+== Set Bonus for full Items ==
++2 to Sorceress Skill Levels
+Increase Maximum Mana 50%
+All Resistances +75
++5 to evade
+
+============================
+Griswold's Masterwork
+
+    ============================
+    Griswold's Glory
+    Base Type: Corona
+    Item Level: 87
+    Level Required: 85
+    Set: Griswold's Masterwork
+    Required Strength: 174
+    +2 to Paladin Skill Levels
+    Level 15-18 holy fire Aura When Equipped
+    25-55% Chance to cast level 25-55 blessed hammer on striking
+    +20-25% Increased Attack Speed
+    +20-25% Faster Cast Rate
+    Damage Reduced by 10-5%
+    +150-300% Enhanced Defense
+    200% Bonus to Attack Rating
+
+    == Set Bonus for 2 Items ==
+    -8% to Enemy Fire Resistance
+
+
+    ============================
+    Griswold's Heroism
+    Base Type: Sacred Armor
+    Item Level: 87
+    Level Required: 85
+    Set: Griswold's Masterwork
+    Required Strength: 232
+    +3 to Paladin Skill Levels
+    Level 12-17 meditation Aura When Equipped
+    +150-300% Enhanced Defense
+    +5 to evade
+    All Resistances +15-30
+    +10-5% Strength
+
+    == Set Bonus for 2 Items ==
+    -8% to Enemy Magic  Resistance
+
+
+    ============================
+    Griswolds's Vindication
+    Base Type: Caduceus
+    Item Level: 87
+    Level Required: 85
+    Set: Griswold's Masterwork
+    Required Strength: 97
+    Required Dexterity: 70
+    +3 to Paladin Skill Levels
+    Level 15-18 holy shock Aura When Equipped
+    +3-5% Maximum to all Resistances
+    +300-400% Enhanced Damage
+    +200-300 to Maximum Damage
+    +30% Faster Cast Rate
+    +30% Increased Attack Speed
+    +10-20 to all Attributes
+
+    == Set Bonus for 3 Items ==
+    -8% to Enemy Lightning Resistance
+
+
+    ============================
+    Griswold's Pride
+    Base Type: Vortex Shield
+    Item Level: 87
+    Level Required: 85
+    Set: Griswold's Masterwork
+    Required Strength: 148
+    +3 to Paladin Skill Levels
+    Level 15-18 holy freeze Aura When Equipped
+    +300% Enhanced Defense
+    +30% Increased Attack Speed
+    +30% Faster Cast Rate
+    40% Increased Chance of Blocking
+    +40% Faster Block Rate
+    Damage Reduced by 20-30
+
+    == Set Bonus for 3 Items ==
+    Cannot Be Frozen
+    -8% to Enemy Cold Resistance
+
+
+== Set Bonus for full Items ==
++2 to Paladin Skill Levels
++7 to cold mastery
++7 to fire mastery
++7 to lightning mastery
+
+============================
+Trang-Oul's Incarnation
+
+    ============================
+    Trang-Oul's True Guise
+    Base Type: Bone Visage
+    Item Level: 87
+    Level Required: 85
+    Set: Trang-Oul's Incarnation
+    Required Strength: 106
+    +2 to Necromancer Skill Levels
+    +20-25% Increased Attack Speed
+    +20-25% Faster Cast Rate
+    +666 Defense
+    +7 to firegolem
+    +7 to golem mastery
+    +67% Piercing Attack
+
+    == Set Bonus for 3 Items ==
+    50-55% Chance to cast level 50-55 bone spear on striking
+
+
+    ============================
+    Trang-Oul's Heart
+    Base Type: Chaos Armor
+    Item Level: 87
+    Level Required: 85
+    Set: Trang-Oul's Incarnation
+    Required Strength: 140
+    +3 to Necromancer Skill Levels
+    -10-5% to Enemy Poison Resistance
+    -10-5% to Enemy Magic  Resistance
+    +10-15% to Poison Skill Damage
+    +10-15% to Magic Skill Damage
+    +20-40 to Vitality
+    +20-40 to Energy
+    All Resistances +15-30
+
+    == Set Bonus for 2 Items ==
+    +7 to lower resist ([Class] only)
+
+    == Set Bonus for 3 Items ==
+    +7 to revive ([Class] only)
+
+
+    ============================
+    Trang-Oul's Appendage
+    Base Type: Cantor Trophy
+    Item Level: 87
+    Level Required: 85
+    Set: Trang-Oul's Incarnation
+    Required Strength: 50
+    +3 to Necromancer Skill Levels
+    +7 to teeth ([Class] only)
+    35-60% Chance to cast level 35-60 teeth when you Kill an Enemy
+    -10-15% to Enemy Magic  Resistance
+    35% Increased Chance of Blocking
+    +35% Faster Block Rate
+    +35% Faster Cast Rate
+    +10-5% Energy
+
+    == Set Bonus for 2 Items ==
+    Damage Reduced by 15-25
+
+
+    ============================
+    Trang-Oul's Sharp Claws
+    Base Type: Heavy Bracers
+    Item Level: 87
+    Level Required: 85
+    Set: Trang-Oul's Incarnation
+    Required Strength: 58
+    +1-3 to Necromancer Skill Levels
+    -10% to Enemy Poison Resistance
+    15-55% Chance to cast level 15-55 poison nova when you Kill an Enemy
+    +20% Faster Cast Rate
+    +20% Increased Attack Speed
+    Damage Reduced by 10-15
+    33-55% Chance to cast level 33-55 bone spear on striking
+    +3-7 to Mana after each Kill
+
+    == Set Bonus for 2 Items ==
+    +7 to bonespear ([Class] only)
+
+
+    ============================
+    Trang-Oul's Binding
+    Base Type: Troll Belt
+    Item Level: 87
+    Level Required: 85
+    Set: Trang-Oul's Incarnation
+    Required Strength: 151
+    Damage Reduced by 10-5%
+    Cannot Be Frozen
+    +1 to Necromancer Skill Levels
+    +20% Increased Attack Speed
+    +20% Faster Cast Rate
+    -5% to Enemy Magic  Resistance
+    +10-5% Vitality
+    +10-5% Energy
+
+    == Set Bonus for 2 Items ==
+    +5% Energy
+    Increase Maximum Life 15%
+
+
+== Set Bonus for full Items ==
++2 to All Skills
++20 to teleport
+All Resistances +100
+Damage Reduced by 20%
+
+============================
+God of War M'avina
+
+    ============================
+    M'avina's Enlightenment
+    Base Type: Diadem
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    +2 to Amazon Skill Levels
+    +250 Defense
+    +10-5% Dexterity
+    +20-25% Faster Cast Rate
+    +20-25% Increased Attack Speed
+    -10-5% to Enemy Lightning Resistance
+    +5 to Dodge ([Class] only)
+    +5 to Avoid ([Class] only)
+
+    == Set Bonus for 2 Items ==
+    Damage Reduced by 10%
+
+
+    ============================
+    M'avina's Mobility
+    Base Type: Kraken Shell
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 174
+    +3 to Amazon Skill Levels
+    +50% Faster Run/Walk
+    +50% Increased Attack Speed
+    +200% Enhanced Damage
+    +250-300% Enhanced Defense
+    All Resistances +15-30
+    Damage Reduced by 15-25%
+    Requirements -50%
+
+    == Set Bonus for 2 Items ==
+    -20% to Enemy Lightning Resistance
+
+
+    ============================
+    M'avina's Guidance
+    Base Type: Battle Gauntlets
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 88
+    +25% Increased Attack Speed
+    +50-75% Enhanced Damage
+    +333 Defense
+    +150-50% Enhanced Defense
+    +10-5% Dexterity
+    +10-5% Strength
+    20% Chance to cast level 50 Slow Missiles when struck
+    Increase Maximum Life 10-5%
+
+    == Set Bonus for 2 Items ==
+    +20 to all Attributes
+
+    == Set Bonus for 3 Items ==
+    -20% to Enemy Lightning Resistance
+
+
+    ============================
+    M'avina's Principle
+    Base Type: Sharkskin Belt
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 20
+    +25% Faster Run/Walk
+    +1 to Amazon Skill Levels
+    +3-8 to all Attributes
+    5% Mana stolen per hit
+    5% Life stolen per hit
+    +25% Increased Attack Speed
+    Damage Reduced by 10-5%
+
+    == Set Bonus for 2 Items ==
+    +35% Faster Hit Recovery
+
+    == Set Bonus for 3 Items ==
+    +100% Enhanced Damage
+
+
+    ============================
+    M'avina's Piercing Truth
+    Base Type: Matriarchal Javelin
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 107
+    Required Dexterity: 151
+    +3-4 to Amazon Skill Levels
+    +30% Increased Attack Speed
+    +50% Piercing Attack
+    +30% Faster Run/Walk
+    +10-20% Dexterity
+    Damage +200-300
+    +100 to Maximum Damage
+    10-60% Chance to cast level 10-60 lower resist when you Kill an Enemy
+
+    == Set Bonus for 2 Items ==
+    -20% to Enemy Lightning Resistance
+
+    == Set Bonus for 3 Items ==
+    Damage Reduced by 10%
+
+
+== Set Bonus for full Items ==
++2 to All Skills
++20 to teleport
++7 to lightning fury ([Class] only)
++7 to lightning strike ([Class] only)
+
+============================
+M'avina's Disappointment
+
+    ============================
+    M'avina's Broken Weapon
+    Base Type: Matriarchal Javelin
+    Item Level: 87
+    Level Required: 85
+    Set: M'avina's Disappointment
+    Required Strength: 107
+    Required Dexterity: 151
+    +1-2 to All Skills
+    +15% Increased Attack Speed
+    +15% Faster Run/Walk
+    +100-200% Enhanced Damage
+    Damage +100
+    +100 to Maximum Damage
+    25-50% Chance to cast level 25-50 Amplify Damage when you Kill an Enemy
+    5% Mana stolen per hit
+
 

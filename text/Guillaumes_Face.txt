@@ -2,7 +2,7 @@
 Guillaume's Face
 Base Type: Winged Helm
 Item Level: 41
-Level Required: 34
+Level Required: 35
 Set: Orphan's Call
 Required Strength: 115
 +120% Enhanced Defense

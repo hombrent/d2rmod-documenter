@@ -5,10 +5,12 @@ Item Level: 39
 Level Required: 31
 Required Strength: 25
 Required Dexterity: 62
-30% Chance of Open Wounds
+5-50% Chance of Open Wounds
 +180-220% Enhanced Damage
 Slows Target by 30%
-+35 to Mana
-+30% Increased Attack Speed
++90 to Mana
++40% Increased Attack Speed
 10-7% Life stolen per hit
+40-5% Deadly Strike
+40-5% Chance of Crushing Blow
 

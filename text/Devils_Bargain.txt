@@ -1,0 +1,14 @@
+============================
+Devil's Bargain
+Base Type: bone visage
+Item Level: 85
+Level Required: 85
+Set: Humanity's End
+Required Strength: 106
++20-26% Faster Cast Rate
++1 to All Skills
+Requirements -10-50%
++66% Enhanced Defense
++1-66 to Life
++1-66 to Mana
+

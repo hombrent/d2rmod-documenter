@@ -1,0 +1,18 @@
+============================
+M'avina's Enlightenment
+Base Type: Diadem
+Item Level: 87
+Level Required: 85
+Set: God of War M'avina
++2 to Amazon Skill Levels
++250 Defense
++10-5% Dexterity
++20-25% Faster Cast Rate
++20-25% Increased Attack Speed
+-10-5% to Enemy Lightning Resistance
++5 to Dodge ([Class] only)
++5 to Avoid ([Class] only)
+
+== Set Bonus for 2 Items ==
+Damage Reduced by 10%
+

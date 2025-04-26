@@ -4,11 +4,10 @@ Base Type: Jo Stalf
 Item Level: 36
 Level Required: 28
 Required Strength: 25
-+30% Faster Cast Rate
-Attacker Takes Damage of 15
++40-50% Faster Cast Rate
 +175 to Mana
-+80 to Life
++100 to Life
 Magic Damage Reduced by 15
 All Resistances +50
-+1 to All Skills
++2 to All Skills
 

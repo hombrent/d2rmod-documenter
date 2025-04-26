@@ -5,8 +5,8 @@ Item Level: 39
 Level Required: 29
 Required Strength: 100
 Required Dexterity: 60
-Damage Reduced by 6
-Magic Damage Reduced by 6
+Damage Reduced by 10
+Magic Damage Reduced by 10
 Hit Blinds Target +1
 250% Extra Gold from Monsters
 +100-120% Enhanced Damage

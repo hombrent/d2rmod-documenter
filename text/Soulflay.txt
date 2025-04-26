@@ -6,7 +6,9 @@ Level Required: 19
 Required Strength: 47
 10-4% Mana stolen per hit
 4% Life stolen per hit
-+100-70% Enhanced Damage
-All Resistances +5
-+10% Increased Attack Speed
++160% Enhanced Damage
+All Resistances +25
++30% Increased Attack Speed
++30% Faster Hit Recovery
++80 to Mana
 

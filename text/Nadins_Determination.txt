@@ -1,0 +1,11 @@
+============================
+Nadin's Determination
+Base Type: amulet
+Item Level: 85
+Level Required: 90
+Set: Nadin's Winning Strategy
++0-6 to [Class] Skill Levels
++10% Faster Cast Rate
+All Resistances +10
++3 to Mana after each Kill
+

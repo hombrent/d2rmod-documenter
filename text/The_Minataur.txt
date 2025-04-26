@@ -5,10 +5,11 @@ Item Level: 53
 Level Required: 45
 Required Strength: 125
 Hit Blinds Target +2
-Half Freeze Duration
+Cannot Be Frozen
 +15-20 to Strength
 Slows Target by 50%
 30% Chance of Crushing Blow
 Adds 20-30 Damage
-+140-200% Enhanced Damage
++200-250% Enhanced Damage
++50% Increased Attack Speed
 

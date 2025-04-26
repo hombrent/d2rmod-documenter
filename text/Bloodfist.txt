@@ -3,7 +3,7 @@ Bloodfist
 Base Type: Heavy Gloves
 Item Level: 12
 Level Required: 9
-+5 to Minimum Damage
++1-4 to Maximum Damage (Based on Character Level)
 +40 to Life
 +30% Faster Hit Recovery
 +10 Defense

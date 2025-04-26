@@ -6,7 +6,8 @@ Level Required: 20
 Required Strength: 23
 Hit Causes Monster to Flee 64%
 +20 to Strength
-All Resistances +10
-+50% Damage to Undead
-+25 Defense
+All Resistances +10-25
++40% Faster Hit Recovery
++30% Faster Run/Walk
++9 Life after each Kill
 

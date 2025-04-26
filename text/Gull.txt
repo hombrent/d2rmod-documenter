@@ -3,8 +3,8 @@ Gull
 Base Type: Dagger
 Item Level: 6
 Level Required: 4
-+1 to Minimum Damage
++10 to Minimum Damage
 +15 to Maximum Damage
 100% Better Chance of Getting Magic Items
--5 to Mana
++25 to Mana
 

@@ -10,6 +10,7 @@ Cannot Be Frozen
 +180-220% Damage to Demons
 6-9% Life stolen per hit
 +30% Faster Run/Walk
++15% Increased Attack Speed
 100-50% Extra Gold from Monsters
 +10-15 to all Attributes
 Requirements -20-30%

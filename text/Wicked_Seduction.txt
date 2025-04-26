@@ -1,0 +1,14 @@
+============================
+Wicked Seduction
+Base Type: troll belt
+Item Level: 85
+Level Required: 85
+Set: Humanity's End
+Required Strength: 151
++20% Faster Cast Rate
+All Resistances -30
++20-30 to Mana after each Kill
++20-30 Life after each Kill
+Poison Length Reduced by 50%
++66% Enhanced Defense
+

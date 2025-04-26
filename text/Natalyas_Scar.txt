@@ -1,0 +1,17 @@
+============================
+Natalya's Scar
+Base Type: Scissors Suwayyah
+Item Level: 87
+Level Required: 85
+Set: Natalya's Vengeance
+Required Strength: 118
+Required Dexterity: 118
++2-3 to Assassin Skill Levels
+Level 12 thorns Aura When Equipped
++40% Increased Attack Speed
++40% Faster Cast Rate
+-3-5% to Enemy Fire Resistance
+-3-5% to Enemy Lightning Resistance
+-3-5% to Enemy Cold Resistance
+All Resistances +20-30
+

@@ -7,4 +7,5 @@ Level Required: 45
 +40 to Life
 Magic Damage Reduced by 12-15
 +15 Fire Absorb
+Replenish Life +10
 

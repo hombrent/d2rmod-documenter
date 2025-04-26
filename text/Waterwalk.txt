@@ -10,4 +10,5 @@ Required Strength: 47
 +180-210% Enhanced Defense
 +45-65 to Life
 +5% to Maximum Fire Resist
++100 Defense vs. Melee
 

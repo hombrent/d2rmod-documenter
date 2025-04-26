@@ -5,13 +5,12 @@ Item Level: 52
 Level Required: 45
 Required Strength: 140
 Required Dexterity: 140
-Adds 131-232 Fire Damage
+Adds 300 Fire Damage
 Fire Resist +45%
-+140-180% Enhanced Damage
-Attacker Takes Damage of 8
-Requirements -50%
-+3 to Necromancer Skill Levels
++200% Enhanced Damage
++50% Increased Attack Speed
+Requirements -80%
++3-5 to Necromancer Skill Levels
 -50% Target Defense
-+20% Enhanced Defense
 +200-250 to Attack Rating
 

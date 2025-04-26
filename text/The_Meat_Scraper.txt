@@ -4,10 +4,10 @@ Base Type: Lochaber Axe
 Item Level: 49
 Level Required: 41
 Required Strength: 80
-+150-200% Enhanced Damage
++200% Enhanced Damage
 +30% Increased Attack Speed
 10% Life stolen per hit
 50% Chance of Open Wounds
-25% Better Chance of Getting Magic Items
-+3 to [Class Skill Tab] Skills
+50% Better Chance of Getting Magic Items
++3  to Barbarian Skill Levels
 

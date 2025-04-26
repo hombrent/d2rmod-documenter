@@ -5,7 +5,7 @@ Bul-Kathos' Children
     Bul-Kathos' Sacred Charge
     Base Type: Colossus Blade
     Item Level: 50
-    Level Required: 61
+    Level Required: 64
     Set: Bul-Kathos' Children
     Required Strength: 189
     Required Dexterity: 110
@@ -22,7 +22,7 @@ Bul-Kathos' Children
     Bul-Kathos' Tribal Guardian
     Base Type: Colossal Sword
     Item Level: 50
-    Level Required: 54
+    Level Required: 64
     Set: Bul-Kathos' Children
     Required Strength: 182
     Required Dexterity: 95

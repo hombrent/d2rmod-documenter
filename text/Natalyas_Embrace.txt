@@ -1,0 +1,20 @@
+============================
+Natalya's Embrace
+Base Type: Loricated Mail
+Item Level: 87
+Level Required: 85
+Set: Natalya's Vengeance
+Required Strength: 149
++3 to Assassin Skill Levels
++30% Faster Run/Walk
++700-800 Defense
+Increase Maximum Life 10-20%
++2-5% Maximum to all Resistances
+All Resistances +15-30
++10-15% to Fire Skill Damage
++10-15% to Lightning Skill Damage
+
+== Set Bonus for 3 Items ==
++125 Kick Damage
+Slows Target by 25%
+

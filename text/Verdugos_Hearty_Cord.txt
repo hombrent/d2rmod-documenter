@@ -5,8 +5,9 @@ Item Level: 71
 Level Required: 63
 Required Strength: 106
 +140-90% Enhanced Defense
-+30-40 to Vitality
-+10% Faster Hit Recovery
++50-80 to Life
++24% Faster Hit Recovery
 Damage Reduced by 10-15%
 Replenish Life +10-13
++30-40% Enhanced Damage
 

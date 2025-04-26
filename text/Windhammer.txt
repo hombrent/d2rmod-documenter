@@ -7,5 +7,6 @@ Required Strength: 225
 +180-230% Enhanced Damage
 50% Chance of Crushing Blow
 +60% Increased Attack Speed
-33-40% Chance to cast level 33-40 Twister on striking
+40-44% Chance to cast level 40-44 Twister on striking
++30% Faster Run/Walk
 

@@ -1,0 +1,11 @@
+============================
+Yang
+Base Type: ring
+Item Level: 85
+Level Required: 95
+Set: The Ascension
+Increase Maximum Life 1-10%
+Increase Maximum Mana 1-10%
++20-5 Life after each Kill
+-20 to Mana after each Kill
+

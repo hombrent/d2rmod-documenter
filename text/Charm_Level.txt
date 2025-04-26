@@ -1,0 +1,7 @@
+============================
+Charm Level
+Base Type: charm
+Item Level: 1
+Level Required: 90
+35% Better Chance of Getting Magic Items
+

@@ -4,9 +4,11 @@ Base Type: Short Bow
 Item Level: 10
 Level Required: 7
 Required Dexterity: 15
-+28 to Attack Rating
-+100% Enhanced Damage
-+10 to Life
++250% Enhanced Damage
++80 to Life
 3% Mana stolen per hit
 +2 to Mana after each Kill
++30% Increased Attack Speed
++40 to Minimum Damage
++40 to Maximum Damage
 

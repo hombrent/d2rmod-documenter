@@ -1,0 +1,117 @@
+============================
+God of War M'avina
+
+    ============================
+    M'avina's Enlightenment
+    Base Type: Diadem
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    +2 to Amazon Skill Levels
+    +250 Defense
+    +10-5% Dexterity
+    +20-25% Faster Cast Rate
+    +20-25% Increased Attack Speed
+    -10-5% to Enemy Lightning Resistance
+    +5 to Dodge ([Class] only)
+    +5 to Avoid ([Class] only)
+
+    == Set Bonus for 2 Items ==
+    Damage Reduced by 10%
+
+
+    ============================
+    M'avina's Mobility
+    Base Type: Kraken Shell
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 174
+    +3 to Amazon Skill Levels
+    +50% Faster Run/Walk
+    +50% Increased Attack Speed
+    +200% Enhanced Damage
+    +250-300% Enhanced Defense
+    All Resistances +15-30
+    Damage Reduced by 15-25%
+    Requirements -50%
+
+    == Set Bonus for 2 Items ==
+    -20% to Enemy Lightning Resistance
+
+
+    ============================
+    M'avina's Guidance
+    Base Type: Battle Gauntlets
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 88
+    +25% Increased Attack Speed
+    +50-75% Enhanced Damage
+    +333 Defense
+    +150-50% Enhanced Defense
+    +10-5% Dexterity
+    +10-5% Strength
+    20% Chance to cast level 50 Slow Missiles when struck
+    Increase Maximum Life 10-5%
+
+    == Set Bonus for 2 Items ==
+    +20 to all Attributes
+
+    == Set Bonus for 3 Items ==
+    -20% to Enemy Lightning Resistance
+
+
+    ============================
+    M'avina's Principle
+    Base Type: Sharkskin Belt
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 20
+    +25% Faster Run/Walk
+    +1 to Amazon Skill Levels
+    +3-8 to all Attributes
+    5% Mana stolen per hit
+    5% Life stolen per hit
+    +25% Increased Attack Speed
+    Damage Reduced by 10-5%
+
+    == Set Bonus for 2 Items ==
+    +35% Faster Hit Recovery
+
+    == Set Bonus for 3 Items ==
+    +100% Enhanced Damage
+
+
+    ============================
+    M'avina's Piercing Truth
+    Base Type: Matriarchal Javelin
+    Item Level: 87
+    Level Required: 85
+    Set: God of War M'avina
+    Required Strength: 107
+    Required Dexterity: 151
+    +3-4 to Amazon Skill Levels
+    +30% Increased Attack Speed
+    +50% Piercing Attack
+    +30% Faster Run/Walk
+    +10-20% Dexterity
+    Damage +200-300
+    +100 to Maximum Damage
+    10-60% Chance to cast level 10-60 lower resist when you Kill an Enemy
+
+    == Set Bonus for 2 Items ==
+    -20% to Enemy Lightning Resistance
+
+    == Set Bonus for 3 Items ==
+    Damage Reduced by 10%
+
+
+== Set Bonus for full Items ==
++2 to All Skills
++20 to teleport
++7 to lightning fury ([Class] only)
++7 to lightning strike ([Class] only)
+

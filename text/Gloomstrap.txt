@@ -7,6 +7,8 @@ Required Strength: 58
 Increase Maximum Mana 15%
 5% Mana stolen per hit
 +120-150% Enhanced Defense
-+15 to Vitality
++15 to Energy
 Regenerate Mana 15%
++15% Faster Cast Rate
++1 to Dim Vision
 

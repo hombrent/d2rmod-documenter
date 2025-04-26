@@ -1,0 +1,17 @@
+============================
+Natalya's Slayer
+Base Type: Scissors Suwayyah
+Item Level: 87
+Level Required: 85
+Set: Natalya's Vengeance
+Required Strength: 118
+Required Dexterity: 118
++2-3 to Assassin Skill Levels
+Level 9 fanaticism Aura When Equipped
++40% Increased Attack Speed
++40% Faster Cast Rate
++280-350% Enhanced Damage
++200-300 to Maximum Damage
+Damage +200-300
+All Resistances +20-30
+

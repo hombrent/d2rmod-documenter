@@ -5,49 +5,55 @@ Cow King's Leathers
     Cow King's Horns
     Base Type: War Hat
     Item Level: 20
-    Level Required: 25
+    Level Required: 22
     Set: Cow King's Leathers
     Required Strength: 20
-    +75 Defense
+    Damage Reduced by 10-5%
     Half Freeze Duration
     35% Damage Taken Goes To Mana
-    Attacker Takes Damage of 10
+    +25 to Strength
+    Durability: 35 of 35
 
 
     ============================
     Cow King's Hide
-    Base Type: Studded Leather
+    Base Type: Trellised Armor
     Item Level: 20
-    Level Required: 18
+    Level Required: 22
     Set: Cow King's Leathers
-    Required Strength: 27
-    All Resistances +18
-    +60% Enhanced Defense
-    +30 to Life
-    18% Chance to cast level 5 Chain Lightning when struck
+    Required Strength: 61
+    Lightning Resist +75%
+    +200% Enhanced Defense
+    +100 to Life
+    100% Chance to cast level 20 Charged Bolt when struck
+    +20% Faster Run/Walk
+    Damage Reduced by 10%
+
+    == Set Bonus for 3 Items ==
+    Level 1 Conviction Aura When Equipped
 
 
     ============================
     Cow King's Hoofs
-    Base Type: Heavy Boots
+    Base Type: Sharkskin Boots
     Item Level: 20
-    Level Required: 13
+    Level Required: 22
     Set: Cow King's Leathers
-    Required Strength: 18
+    Required Strength: 47
     +25-35 Defense
     +30% Faster Run/Walk
     25% Better Chance of Getting Magic Items
     +20 to Dexterity
-    Adds 25-35 Fire Damage
+    Adds 1-450 Lightning Damage
 
 
 == Set Bonus for 2 Items ==
-Poison Resist +25%
-+100 Defense
++50% to Lightning Skill Damage
++40 Defense (Based on Character Level)
 
 == Set Bonus for full Items ==
-+100 Maximum Stamina
-+20 to Strength
+All Resistances +45
 100% Extra Gold from Monsters
-100% Better Chance of Getting Magic Items
+125% Better Chance of Getting Magic Items
++5% to Experience Gained
 

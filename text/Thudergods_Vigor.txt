@@ -4,13 +4,12 @@ Base Type: War Belt
 Item Level: 55
 Level Required: 47
 Required Strength: 110
-5% Chance to cast level 7 Fist of the Heavens when struck
+20% Chance to cast level 25 Fist of the Heavens when struck
 Adds 1-50 Lightning Damage
 +10% to Maximum Lightning Resist
 Lightning Absorb 20%
 +160-200% Enhanced Defense
 +20 to Vitality
 +20 to Strength
-+3 to Lightning Strike ([Class] only)
-+3 to Lightning Fury ([Class] only)
++2 to Lightning Skills
 

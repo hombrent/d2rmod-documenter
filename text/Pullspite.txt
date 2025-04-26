@@ -5,10 +5,11 @@ Item Level: 34
 Level Required: 25
 Required Strength: 30
 Required Dexterity: 40
-Adds 1-30 Lightning Damage
-+8 to Strength
-+28 to Attack Rating
+Adds 1-300 Lightning Damage
++15 to Strength
++50% Increased Attack Speed
 +25% Piercing Attack
 Lightning Resist +25%
-+70-90% Enhanced Damage
+30-50% Chance to cast level 30-50 Chain Lightning on striking
+1-15% Chance to cast level 1-15 Lower Resist on striking
 

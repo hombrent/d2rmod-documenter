@@ -6,7 +6,8 @@ Level Required: 26
 Required Strength: 62
 +112 Poison Damage over 6.0 Seconds
 Prevent Monster Heal
-+50 to Attack Rating
++30% Increased Attack Speed
 Poison Resist +50%
-+50-60% Enhanced Damage
++180% Enhanced Damage
++20 to Strength
 

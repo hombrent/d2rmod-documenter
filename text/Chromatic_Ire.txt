@@ -5,11 +5,10 @@ Item Level: 43
 Level Required: 35
 Required Strength: 25
 +3 to Sorceress Skill Levels
-All Resistances +20-40
-+20% Faster Cast Rate
-Attacker Takes Lightning Damage of 20
+All Resistances +40
++50% Faster Cast Rate
 Increase Maximum Life 20-25%
-+1 to Fire Mastery ([Class] only)
-+1 to Lightning Mastery ([Class] only)
-+1 to Cold Mastery ([Class] only)
++3 to Blizzard ([Class] only)
++3 to Meteor ([Class] only)
++3-5 to Chain Lightning ([Class] only)
 

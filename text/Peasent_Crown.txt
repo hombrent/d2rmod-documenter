@@ -4,10 +4,11 @@ Base Type: War Hat
 Item Level: 36
 Level Required: 28
 Required Strength: 20
-+20 to Energy
-+20 to Vitality
++25-50 to Energy
++10-20 to Vitality
 +1 to All Skills
-+15% Faster Run/Walk
++30% Faster Run/Walk
 Replenish Life +12-6
-+100% Enhanced Defense
++200% Enhanced Defense
+-50% Extra Gold from Monsters
 

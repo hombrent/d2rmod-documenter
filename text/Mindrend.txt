@@ -7,9 +7,8 @@ Required Strength: 49
 Required Dexterity: 33
 Hit Blinds Target +2
 Regenerate Mana 20%
-+1 to Minimum Lightning Damage
-+12-15 to Maximum Lightning Damage
-+100-50 to Attack Rating
-+100-60% Enhanced Damage
-15% Chance of Open Wounds
+15% Chance of Crushing Blow
+50% Deadly Strike
++20% Increased Attack Speed
++180-200% Enhanced Damage
 

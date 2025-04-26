@@ -9,7 +9,7 @@ Hit Blinds Target +1
 Slows Target by 30%
 50% Deadly Strike
 Durability: 50 of 50
-+200-250% Enhanced Damage
-+20% Increased Attack Speed
++250% Enhanced Damage
++35% Increased Attack Speed
 6% Mana stolen per hit
 

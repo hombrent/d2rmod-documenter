@@ -4,11 +4,13 @@ Base Type: Spiked Shield
 Item Level: 20
 Level Required: 15
 Required Strength: 30
-Attacker Takes Damage of 5
-20% Increased Chance of Blocking
+Attacker Takes Damage of 50
+30% Increased Chance of Blocking
 50% Chance of Open Wounds
-
+5% Chance of Crushing Blow
 +30-60% Enhanced Defense
-Attacker Takes Damage of 5
+Damage Reduced by 12
 +10 Defense
++60% Faster Hit Recovery
+Damage +25-50
 

@@ -20,5 +20,5 @@ Set: Tal Rasha's Wrappings
 -15% to Enemy Lightning Resistance
 
 == Set Bonus for 5 Items ==
-+15% to Cold Skill Damage
+-15% to Enemy Cold Resistance
 

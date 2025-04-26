@@ -4,10 +4,11 @@ Base Type: Gothic Shield
 Item Level: 35
 Level Required: 26
 Required Strength: 60
-+40 Defense
-Magic Damage Reduced by 2
-+10 to Strength
-10% Increased Chance of Blocking
++150 Defense
+Magic Damage Reduced by 14-7
++10 to all Attributes
+50% Increased Chance of Blocking
 +100% Enhanced Defense
 All Resistances +30-50
+Requirements -20%
 

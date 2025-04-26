@@ -1,0 +1,23 @@
+============================
+M'avina's Piercing Truth
+Base Type: Matriarchal Javelin
+Item Level: 87
+Level Required: 85
+Set: God of War M'avina
+Required Strength: 107
+Required Dexterity: 151
++3-4 to Amazon Skill Levels
++30% Increased Attack Speed
++50% Piercing Attack
++30% Faster Run/Walk
++10-20% Dexterity
+Damage +200-300
++100 to Maximum Damage
+10-60% Chance to cast level 10-60 lower resist when you Kill an Enemy
+
+== Set Bonus for 2 Items ==
+-20% to Enemy Lightning Resistance
+
+== Set Bonus for 3 Items ==
+Damage Reduced by 10%
+

@@ -11,5 +11,5 @@ Ignore Target's Defense
 11-15% Life stolen per hit
 Requirements -25%
 33% Deadly Strike
-Adds 4-44 Cold Damage
+Cannot Be Frozen
 

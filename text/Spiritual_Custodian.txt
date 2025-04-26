@@ -2,11 +2,12 @@
 Spiritual Custodian
 Base Type: Dusk Shroud
 Item Level: 39
-Level Required: 43
+Level Required: 56
 Set: The Disciple
 Required Strength: 77
 +305-415 Defense
-Fire Resist +24%
-25% Chance to cast level 3 Nova when struck
-+24-34 Poison Damage over 2.0 Seconds
+Lightning Resist +50%
+25% Chance to cast level 20 Nova when struck
++1-2 to All Skills
++20% Faster Cast Rate
 

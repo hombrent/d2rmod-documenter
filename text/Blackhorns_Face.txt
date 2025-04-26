@@ -4,10 +4,11 @@ Base Type: Death Mask
 Item Level: 49
 Level Required: 41
 Required Strength: 55
-Attacker Takes Lightning Damage of 25
++# Kick Damage (Based on Character Level)
 Slows Target by 20%
 Prevent Monster Heal
-Lightning Absorb 20%
-Lightning Resist +15%
+Lightning Absorb 20-30%
+Lightning Resist +50%
 +180-220% Enhanced Defense
+20% Increased Chance of Blocking
 

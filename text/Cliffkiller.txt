@@ -5,11 +5,12 @@ Item Level: 49
 Level Required: 41
 Required Strength: 80
 Required Dexterity: 95
-+2 to Amazon Skill Levels
++2-3 to Amazon Skill Levels
 +190-230% Enhanced Damage
-+80 Defense vs. Missile
++200 Defense vs. Missile
 Knockback
-+50 to Life
-+10-5 to Minimum Damage
-+20-30 to Maximum Damage
++100 to Life
++20-30 to Minimum Damage
++40-50 to Maximum Damage
++20% Faster Hit Recovery
 

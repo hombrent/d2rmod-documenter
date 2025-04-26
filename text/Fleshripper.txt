@@ -12,4 +12,5 @@ Prevent Monster Heal
 50% Chance of Open Wounds
 33% Deadly Strike
 Slows Target by 20%
++100 Kick Damage
 

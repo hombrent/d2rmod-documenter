@@ -1,0 +1,14 @@
+============================
+Bul Katho's Mind
+Base Type: guardian crown
+Item Level: 85
+Level Required: 92
+Required Strength: 196
++1-2 to [Class Skill Tab] Skills
++2  to Barbarian Skill Levels
++20% Faster Cast Rate
++15-20 to all Attributes
++20% Faster Hit Recovery
+( 0.5% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
++150-200% Enhanced Defense
+

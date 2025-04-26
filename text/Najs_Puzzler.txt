@@ -2,7 +2,7 @@
 Naj's Puzzler
 Base Type: Elder Staff
 Item Level: 43
-Level Required: 78
+Level Required: 59
 Set: Naj's Ancient Set
 Required Strength: 44
 Required Dexterity: 37

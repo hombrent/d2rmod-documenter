@@ -10,5 +10,5 @@ Replenishes quantity
 +30% Increased Attack Speed
 Prevent Monster Heal
 33% Chance of Open Wounds
-3-33% Chance to cast level 3-33 Amplify Damage on striking
+22-33% Chance to cast level 22-33 Amplify Damage on striking
 

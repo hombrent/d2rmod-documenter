@@ -4,7 +4,8 @@ Base Type: Ring
 Item Level: 10
 Level Required: 7
 Magic Damage Reduced by 3
-Attacker Takes Damage of 3
+Damage Reduced by 3
 +50-75 to Attack Rating
 15-30% Better Chance of Getting Magic Items
++1 to critical strike
 

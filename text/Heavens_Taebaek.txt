@@ -2,10 +2,10 @@
 Heaven's Taebaek
 Base Type: Ward
 Item Level: 55
-Level Required: 81
+Level Required: 65
 Set: Heaven's Brethren
 Required Strength: 185
-+50 Defense
++500 Defense
 +100 to Mana
 Lightning Resist +30%
 Attacker Takes Damage of 30

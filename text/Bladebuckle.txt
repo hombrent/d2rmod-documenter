@@ -4,11 +4,12 @@ Base Type: Girdle
 Item Level: 39
 Level Required: 29
 Required Strength: 60
-Attacker Takes Damage of 8
+Attacker Takes Damage of 88
 +30 Defense
-Damage Reduced by 3
-+5 to Strength
+Damage Reduced by 15
++15 to Strength
 +10 to Dexterity
 +100-80% Enhanced Defense
 +30% Faster Hit Recovery
+Requirements -10%
 

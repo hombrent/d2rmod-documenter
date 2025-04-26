@@ -1,0 +1,15 @@
+============================
+Comfortable Mittens
+Base Type: crusader gauntlet
+Item Level: 85
+Level Required: 85
+Set: Royal Guard
+Required Strength: 151
++100-50% Enhanced Defense
++10-30 to Energy
+100% Bonus to Attack Rating
+Poison Resist +40%
++33% Piercing Attack
+-3-5% to Enemy Poison Resistance
++100-75% Damage to Demons
+

@@ -2,11 +2,12 @@
 Cow King's Horns
 Base Type: War Hat
 Item Level: 20
-Level Required: 25
+Level Required: 22
 Set: Cow King's Leathers
 Required Strength: 20
-+75 Defense
+Damage Reduced by 10-5%
 Half Freeze Duration
 35% Damage Taken Goes To Mana
-Attacker Takes Damage of 10
++25 to Strength
+Durability: 35 of 35
 

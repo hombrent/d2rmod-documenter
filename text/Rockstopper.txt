@@ -4,11 +4,12 @@ Base Type: Sallet
 Item Level: 39
 Level Required: 31
 Required Strength: 43
-Lightning Resist +20-40%
-Damage Reduced by 10%
+Lightning Resist +20-50%
+Damage Reduced by 10-20%
 +30% Faster Hit Recovery
 +160-220% Enhanced Defense
 Fire Resist +20-50%
-Cold Resist +20-40%
-+15 to Vitality
+Cold Resist +20-50%
++15-20 to Vitality
++20% Faster Hit Recovery
 

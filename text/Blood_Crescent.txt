@@ -5,9 +5,9 @@ Item Level: 10
 Level Required: 7
 Required Dexterity: 21
 All Resistances +15
-+60-80% Enhanced Damage
-+15 to Life
++220% Enhanced Damage
++50 to Life
 33% Chance of Open Wounds
-+15% Increased Attack Speed
++35% Increased Attack Speed
 15% Life stolen per hit
 

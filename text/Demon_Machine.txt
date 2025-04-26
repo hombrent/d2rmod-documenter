@@ -12,4 +12,5 @@ Fires Explosive Arrows or Bolts
 +66 to Maximum Damage
 +123% Enhanced Damage
 +632 to Attack Rating
++30% Increased Attack Speed
 

@@ -2,12 +2,14 @@
 Sazabi's Ghost Liberator
 Base Type: Balrog Skin
 Item Level: 34
-Level Required: 67
+Level Required: 61
 Set: Sazabi's Grand Tribute
 Required Strength: 165
 +400 Defense
 +30% Faster Hit Recovery
 +25 to Strength
 +300 to Attack Rating against Demons
-+50-75 to Life
++150 to Life
+Cold Resist +20-25%
+Damage Reduced by 10%
 

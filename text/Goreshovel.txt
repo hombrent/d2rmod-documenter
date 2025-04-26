@@ -7,6 +7,7 @@ Required Strength: 48
 +30% Increased Attack Speed
 +25 to Strength
 60% Chance of Open Wounds
-+40-50% Enhanced Damage
-+9 to Maximum Damage
++180% Enhanced Damage
++20 to Maximum Damage
++20 to Minimum Damage
 

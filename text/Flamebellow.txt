@@ -6,11 +6,12 @@ Level Required: 71
 Required Strength: 185
 Required Dexterity: 87
 +170-240% Enhanced Damage
-Adds 233-482 Fire Damage
+100-60% Chance to cast level 100-60 Molten Boulder when you Kill an Enemy
 +3 to Fire Skills
 +20-30 Fire Absorb
-12-16% Chance to cast level 12-16 Firestorm on striking
-+10-20 to Strength
-+10-5 to Vitality
+20-60% Chance to cast level 20-60 Firestorm on attack
++1 to Fire Mastery
++15-20 to all Attributes
 +12-18 to Inferno
++30% Increased Attack Speed
 

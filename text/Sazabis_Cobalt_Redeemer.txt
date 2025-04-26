@@ -2,12 +2,12 @@
 Sazabi's Cobalt Redeemer
 Base Type: Cryptic Sword
 Item Level: 34
-Level Required: 73
+Level Required: 61
 Set: Sazabi's Grand Tribute
 Required Strength: 99
 Required Dexterity: 109
 +250% Enhanced Damage
-Adds 25-35 Cold Damage
+25% Deadly Strike
 +40% Increased Attack Speed
 +318% Damage to Demons
 Repairs 1 durability in # seconds

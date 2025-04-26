@@ -1,0 +1,14 @@
+============================
+High Authority
+Base Type: spired helm
+Item Level: 85
+Level Required: 85
+Set: Royal Guard
+Required Strength: 192
++150% Enhanced Defense
++10-30 to Strength
+Lightning Resist +40%
+200% Extra Gold from Monsters
+-3-5% to Enemy Lightning Resistance
+Level 10-16 holy shock Aura When Equipped
+

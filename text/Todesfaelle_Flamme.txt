@@ -8,8 +8,11 @@ Required Dexterity: 94
 Adds 200-50 Fire Damage
 Fire Resist +40%
 Fire Absorb 10%
-10-6% Chance to cast level 10-6 Fire Ball on attack
+Level 10-12 Holy Fire Aura When Equipped
 +120-160% Enhanced Damage
 +10 to Enchant
-+10 to Fire Wall
++10 to Warmth
++40% Increased Attack Speed
++1 to Fire Mastery
+-10% to Enemy Fire Resistance
 

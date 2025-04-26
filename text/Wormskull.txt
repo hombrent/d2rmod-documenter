@@ -4,9 +4,11 @@ Base Type: Bone Helm
 Item Level: 28
 Level Required: 21
 Required Strength: 25
-+1 to Necromancer Skill Levels
-5% Life stolen per hit
-+10 to Mana
-Poison Resist +25%
++1-2 to Necromancer Skill Levels
+6-9% Life stolen per hit
++70 to Mana
+Poison Resist +50%
 +79 Poison Damage over 8.0 Seconds
++30% Faster Hit Recovery
++10 to Strength
 

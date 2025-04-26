@@ -4,11 +4,11 @@ Base Type: War Scepter
 Item Level: 31
 Level Required: 23
 Required Strength: 55
-Adds 1-6 Lightning Damage
-Adds 3-5 Cold Damage
+Adds 1-400 Lightning Damage
++20% Faster Cast Rate
 Replenish Life +10
-+120-80% Enhanced Damage
-+3-5 to Resist Lightning ([Class] only)
-+3 to Holy Shock ([Class] only)
-+1 to Fist of the Heavens ([Class] only)
++40% Increased Attack Speed
++3-5 to Resist Lightning
++3-5 to Holy Shock
++3 to Fist of the Heavens
 

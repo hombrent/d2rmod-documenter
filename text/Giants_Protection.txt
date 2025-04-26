@@ -1,0 +1,15 @@
+============================
+Giant's Protection
+Base Type: colossus girdle
+Item Level: 85
+Level Required: 93
+Required Strength: 185
++0-6 to [Class] Skill Levels
+Damage Reduced by 25-35
+Magic Damage Reduced by 25-35
++5 to Cyclone Armor
++100-150 to Life
++10-15 to Strength
+-15% Faster Run/Walk
++100-80% Enhanced Defense
+

@@ -5,9 +5,10 @@ Item Level: 38
 Level Required: 28
 Required Strength: 50
 Required Dexterity: 65
-+130-70% Enhanced Damage
-+5 to Strength
-+1 to Amazon Skill Levels
++200-260% Enhanced Damage
++20 to Strength
++1-3 to Amazon Skill Levels
 3% Mana stolen per hit
-+2 to Exploding Arrow ([Class] only)
++30 to Dexterity
++3 to Burst of Speed
 

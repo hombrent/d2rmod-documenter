@@ -1,0 +1,16 @@
+============================
+Thunderfury
+Base Type: conquest sword
+Item Level: 78
+Level Required: 80
+Required Strength: 142
+Required Dexterity: 112
++20% Increased Attack Speed
++200-250% Enhanced Damage
+Adds 1-480 Lightning Damage
++1 to Zeal
+Prevent Monster Heal
+30-40% Chance to cast level 30-40 Chain Lightning on striking
+12-20% Chance to cast level 12-20 Static Field on striking
+-10-15% to Enemy Lightning Resistance
+

@@ -5,12 +5,12 @@ Item Level: 36
 Level Required: 27
 Required Strength: 35
 Required Dexterity: 55
-+10% Increased Attack Speed
-+15 to Minimum Fire Damage
-+30-50 to Maximum Fire Damage
-+50-75 to Attack Rating
++1 to Exploding Arrow
++90 to Mana
++40% Increased Attack Speed
 Fire Resist +40%
-+12 to Dexterity
-+70-90% Enhanced Damage
-+1 to Fire Skills
++25% Faster Run/Walk
++10-15 Fire Absorb
++15-25 to Energy
+-25-35% to Enemy Fire Resistance
 

@@ -1,0 +1,12 @@
+============================
+Hope Melee
+Base Type: ring
+Item Level: 85
+Level Required: 85
+Set: Sanctuary's Blessing Melee
++100 to Life
++10-20% Faster Run/Walk
++10% Increased Attack Speed
+Magic Damage Reduced by 10
++10-20 to Vitality
+

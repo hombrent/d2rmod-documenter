@@ -5,7 +5,9 @@ Item Level: 80
 Level Required: 72
 +2-3 to Sorceress Skill Levels
 +40% Faster Cast Rate
--15-5% to Enemy Fire Resistance
--15-5% to Enemy Lightning Resistance
+-20-8% to Enemy Fire Resistance
+-10% to Enemy Lightning Resistance
 +20-30 to Energy
++10-5% to Fire Skill Damage
++10-5% to Lightning Skill Damage
 

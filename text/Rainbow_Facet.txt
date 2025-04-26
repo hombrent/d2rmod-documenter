@@ -3,9 +3,9 @@ Rainbow Facet
 Base Type: jewel
 Item Level: 85
 Level Required: 49
-+36 Poison Damage over 2.0 Seconds
--4-5% to Enemy Poison Resistance
-+4-5% to Poison Skill Damage
-100-23% Chance to cast level 100-23 Venom when you Level-Up
+Adds 30-43 Magic Damage
+-4-5% to Enemy Magic  Resistance
++4-5% to Magic Skill Damage
+100% Chance to cast level 60 Blessed Hammer when you Die
 +2% to Experience Gained
 

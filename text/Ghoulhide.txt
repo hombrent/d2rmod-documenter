@@ -4,9 +4,11 @@ Base Type: Heavy Bracers
 Item Level: 44
 Level Required: 36
 Required Strength: 58
-+# to Attack Rating against Undead (Based on Character Level)
-+#% Damage to Undead (Based on Character Level)
+Level 6 thorns Aura When Equipped
++20% Increased Attack Speed
 4-5% Mana stolen per hit
-+20 to Life
++40-60 to Life
 +150-190% Enhanced Defense
++10 to Dexterity
++1 to [Class Skill Tab] Skills
 

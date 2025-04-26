@@ -9,6 +9,8 @@ Ignore Target's Defense
 +10 to Strength
 +10 to Dexterity
 7% Mana stolen per hit
-+50% Enhanced Damage
-Adds 3-7 Damage
++190% Enhanced Damage
+Adds 20-40 Damage
++40% Increased Attack Speed
++10 to Vitality
 

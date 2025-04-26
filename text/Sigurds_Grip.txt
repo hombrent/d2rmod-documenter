@@ -1,0 +1,16 @@
+============================
+Sigurd's Grip
+Base Type: ogre gauntlets
+Item Level: 85
+Level Required: 85
+Set: Sigurds Nobility
+Required Strength: 185
++50% Strength
++30% Increased Attack Speed
+10-20% Deadly Strike
+35-50% Bonus to Attack Rating
+Poison Resist +35-50%
++100 Defense
+Adds 100-75 Damage
+Requirements -20%
+

@@ -1,0 +1,14 @@
+============================
+Corrupted Arkaine's Valor
+Base Type: balrog skin
+Item Level: 85
+Level Required: 85
+Required Strength: 165
+Indestructible
++2 to All Skills
++30% Faster Hit Recovery
++200% Enhanced Defense
+Fire Resist +50%
++# to Life (Based on Character Level)
++# to Vitality (Based on Character Level)
+

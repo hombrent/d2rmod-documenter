@@ -11,6 +11,7 @@ Required Strength: 125
 Damage Reduced by 3-5%
 Magic Resist +30-40%
 +10% Faster Cast Rate
++10-15 to Vitality
 
 == Set Bonus for 2 Items ==
 25% Better Chance of Getting Magic Items

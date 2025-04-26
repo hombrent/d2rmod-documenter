@@ -10,4 +10,5 @@ Required Strength: 97
 Durability: 60 of 60
 Magic Damage Reduced by 10
 Repairs 1 durability in # seconds
+Damage Reduced by 10
 

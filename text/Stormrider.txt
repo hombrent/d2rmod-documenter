@@ -4,12 +4,11 @@ Base Type: Tabar
 Item Level: 49
 Level Required: 41
 Required Strength: 101
-10-5% Chance to cast level 10-5 Chain Lightning on striking
-0-10% Chance to cast level 0-10 Charged Bolt on striking
+30-45% Chance to cast level 30-45 Chain Lightning on striking
+30-40% Chance to cast level 30-40 Nova on striking
 Adds 1-200 Lightning Damage
-Adds 35-75 Damage
-+100% Enhanced Damage
++30% Increased Attack Speed
 Durability: 50 of 50
-Attacker Takes Lightning Damage of 15
-15% Chance to cast level 5 Charged Bolt when struck
++20 to Thunder Storm
+15% Chance to cast level 10 Lower Resist when struck
 

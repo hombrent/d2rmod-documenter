@@ -7,7 +7,7 @@ Required Strength: 50
 +2 to All Skills
 +# to Life (Based on Character Level)
 +# to Mana (Based on Character Level)
-25-50% Better Chance of Getting Magic Items
+40-50% Better Chance of Getting Magic Items
 Damage Reduced by 10-5%
 +2 to Strength
 +2 to Dexterity

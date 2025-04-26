@@ -1,0 +1,16 @@
+============================
+Polished Safety
+Base Type: aegis
+Item Level: 85
+Level Required: 85
+Set: Royal Guard
+Required Strength: 219
+Damage Reduced by 20-30%
++200% Enhanced Defense
++10-30 to Dexterity
+Cold Resist +40%
+Cannot Be Frozen
+-3-5% to Enemy Cold Resistance
+Requirements -50%
+Level 12-15 holy freeze Aura When Equipped
+

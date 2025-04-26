@@ -4,13 +4,15 @@ Base Type: Scutum
 Item Level: 43
 Level Required: 35
 Required Strength: 71
-Adds 1-60 Lightning Damage
+Adds 1-501 Lightning Damage
 20% Increased Chance of Blocking
-Half Freeze Duration
+Cannot Be Frozen
 Lightning Resist +50%
-+150 to Attack Rating
+150% Bonus to Attack Rating
 +160-220% Enhanced Defense
 +10% Faster Block Rate
-4% Chance to cast level 6 Blizzard when struck
-4% Chance to cast level 5 Tornado when struck
+75% Chance to cast level 30 Blizzard when struck
+50% Chance to cast level 40 Twister when struck
++60% Faster Run/Walk
++25 to Vitality
 

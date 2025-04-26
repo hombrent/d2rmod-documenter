@@ -6,9 +6,10 @@ Level Required: 43
 Required Strength: 91
 Required Dexterity: 20
 Requirements -30%
-Adds 140-50 Cold Damage
+Adds 100-200 Cold Damage
 +20 to Strength
 Freezes Target +2
-3-5% Chance to cast level 3-5 Frozen Orb on striking
-+130-160% Enhanced Damage
+17-50% Chance to cast level 17-50 Frozen Orb on striking
++150-200% Enhanced Damage
++20% Increased Attack Speed
 

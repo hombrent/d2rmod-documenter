@@ -7,10 +7,9 @@ Required Strength: 55
 Required Dexterity: 39
 5% Mana stolen per hit
 5% Life stolen per hit
-+48 to Minimum Poison Damage
-+96 to Maximum Poison Damage
-Poison Length 6 seconds
-+70-80% Enhanced Damage
-Adds 25-75 Fire Damage
-+2 to Fire Skills
++87 Poison Damage over 6.0 Seconds
++20% Increased Attack Speed
+Adds 100 Fire Damage
++1-3 to Fire Skills
++20% Faster Cast Rate
 

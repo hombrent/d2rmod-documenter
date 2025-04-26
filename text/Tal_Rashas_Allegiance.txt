@@ -1,0 +1,16 @@
+============================
+Tal Rasha's Allegiance
+Base Type: Amulet
+Item Level: 87
+Level Required: 99
+Set: Tal Rasha's Elements
++2-3 to Sorceress Skill Levels
++60-90 to Mana
++1-3% Maximum to all Resistances
++3-7 to Mana after each Kill
+All Resistances +10-20
+
+== Set Bonus for 2 Items ==
++1 to All Skills
+75% Better Chance of Getting Magic Items
+

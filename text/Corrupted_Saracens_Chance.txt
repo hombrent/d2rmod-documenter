@@ -1,0 +1,11 @@
+============================
+Corrupted Saracen's Chance
+Base Type: amulet
+Item Level: 55
+Level Required: 47
+10-5% Chance to cast level 10-5 Amplify Damage on striking
+1% Chance to cast level 63 Iron Maiden when struck
++10 to Strength
++10 to Dexterity
+All Resistances +15
+

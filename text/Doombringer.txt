@@ -6,10 +6,12 @@ Level Required: 69
 Required Strength: 163
 Required Dexterity: 103
 Increase Maximum Life 20%
-+180-250% Enhanced Damage
++200-280% Enhanced Damage
 40% Bonus to Attack Rating
 Repairs 1 durability in # seconds
-Adds 100-30 Damage
-3-8% Chance to cast level 3-8 Weaken on striking
+Adds 100-200 Damage
+33-35% Chance to cast level 33-35 Glacial Spike on striking
 5-7% Life stolen per hit
++40% Increased Attack Speed
+10% Chance to cast level 60 Chilling Armor when struck
 

@@ -5,8 +5,8 @@ Item Level: 4
 Level Required: 3
 Lightning Resist +60%
 Fire Resist +20%
-Knockback
-+6 to Minimum Fire Damage
-+8 to Maximum Fire Damage
-+70-80% Enhanced Damage
++20% Increased Attack Speed
++20 to Vitality
+Adds 100 Fire Damage
++190% Enhanced Damage
 

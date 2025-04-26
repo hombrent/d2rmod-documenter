@@ -7,8 +7,8 @@ Required Strength: 70
 +35 Defense
 +5 to Strength
 +5 to Dexterity
-+20% Faster Run/Walk
-All Resistances +10
++30% Faster Run/Walk
+All Resistances +10-20
 +60-80% Enhanced Defense
-+2 to MonHolyFire ([Class] only)
+Level 6 Sanctuary Aura When Equipped
 

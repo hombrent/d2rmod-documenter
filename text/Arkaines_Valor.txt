@@ -10,4 +10,5 @@ Required Strength: 165
 Damage Reduced by 10-15
 +# to Vitality (Based on Character Level)
 Requirements -20%
++0-6 to [Class] Skill Levels
 

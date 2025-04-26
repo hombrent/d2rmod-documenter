@@ -1,0 +1,12 @@
+============================
+Equilibrium Caster
+Base Type: amulet
+Item Level: 85
+Level Required: 85
+Set: Sanctuary's Blessing Caster
++1-2 to All Skills
+Magic Resist +25%
++10-20 to all Attributes
++15% Faster Cast Rate
+All Resistances -20
+

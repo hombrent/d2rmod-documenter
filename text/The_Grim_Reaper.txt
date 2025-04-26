@@ -8,6 +8,9 @@ Required Dexterity: 80
 100% Deadly Strike
 Prevent Monster Heal
 5% Mana stolen per hit
-+20% Enhanced Damage
++200% Enhanced Damage
 +15 to Minimum Damage
+-50 to Life
++80% Increased Attack Speed
++50% Faster Run/Walk
 

@@ -8,6 +8,9 @@ Adds 15-72 Fire Damage
 Fire Absorb 15%
 +150-200% Enhanced Defense
 Durability: 15 of 15
-2-4% Chance to cast level 2-4 Meteor on striking
-12-4% Chance to cast level 12-4 Firestorm on striking
+25% Chance to cast level 25 Meteor on striking
+20% Chance to cast level 20 Firestorm on striking
++10% Faster Cast Rate
++30 to FireGolem
+Lightning Resist +25%
 

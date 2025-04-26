@@ -11,5 +11,6 @@ Required Dexterity: 52
 7-9% Life stolen per hit
 4-6% Mana stolen per hit
 Replenishes quantity
+Hit Blinds Target +1
 +30% Increased Attack Speed
 

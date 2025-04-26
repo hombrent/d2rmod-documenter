@@ -10,4 +10,5 @@ Required Strength: 15
 +25 to Mana
 +3-5 to Mana after each Kill
 +40% Faster Hit Recovery
+Level 1 Holy Fire Aura When Equipped
 

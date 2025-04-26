@@ -10,4 +10,6 @@ Required Strength: 59
 +10% Increased Attack Speed
 +200-240% Enhanced Defense
 30-50% Better Chance of Getting Magic Items
++1 to All Skills
++0-6 to [Class] Skill Levels
 

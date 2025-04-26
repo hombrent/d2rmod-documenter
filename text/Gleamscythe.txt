@@ -4,9 +4,9 @@ Base Type: Falchion
 Item Level: 18
 Level Required: 13
 Required Strength: 33
-+30 to Mana
-+20 Defense
-+20% Increased Attack Speed
-+100-60% Enhanced Damage
-Adds 3-5 Cold Damage
++50 to Mana
++25 to Strength
++35% Increased Attack Speed
++150% Enhanced Damage
+Adds 100 Cold Damage
 

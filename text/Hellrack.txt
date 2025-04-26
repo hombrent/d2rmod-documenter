@@ -11,4 +11,5 @@ Adds 400 Fire/Lightning/Cold Damage
 100-150% Bonus to Attack Rating
 10-20% Chance to cast level 10-20 Lower Resist on striking
 +18 to Immolation Arrow
++34% Piercing Attack
 

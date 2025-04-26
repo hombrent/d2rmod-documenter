@@ -2,7 +2,7 @@
 Wihtstan's Guard
 Base Type: Round Shield
 Item Level: 41
-Level Required: 29
+Level Required: 35
 Set: Orphan's Call
 Required Strength: 53
 +175% Enhanced Defense

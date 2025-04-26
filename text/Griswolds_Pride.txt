@@ -1,0 +1,20 @@
+============================
+Griswold's Pride
+Base Type: Vortex Shield
+Item Level: 87
+Level Required: 85
+Set: Griswold's Masterwork
+Required Strength: 148
++3 to Paladin Skill Levels
+Level 15-18 holy freeze Aura When Equipped
++300% Enhanced Defense
++30% Increased Attack Speed
++30% Faster Cast Rate
+40% Increased Chance of Blocking
++40% Faster Block Rate
+Damage Reduced by 20-30
+
+== Set Bonus for 3 Items ==
+Cannot Be Frozen
+-8% to Enemy Cold Resistance
+

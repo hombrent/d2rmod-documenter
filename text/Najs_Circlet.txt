@@ -2,10 +2,10 @@
 Naj's Circlet
 Base Type: Circlet
 Item Level: 43
-Level Required: 28
+Level Required: 59
 Set: Naj's Ancient Set
-+75 Defense
-Adds 25-35 Fire Damage
++75 to Mana
++0-6 to [Class] Skill Levels
 +15 to Strength
-12% Chance to cast level 5 Chain Lightning when struck
++30% Faster Cast Rate
 

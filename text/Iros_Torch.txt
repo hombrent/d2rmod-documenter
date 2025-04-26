@@ -3,9 +3,11 @@ Iros Torch
 Base Type: Wand
 Item Level: 7
 Level Required: 5
-+1 to Necromancer Skill Levels
-6% Life stolen per hit
-Adds 5-9 Fire Damage
++1-2 to All Skills
++100 to Mana
++5 to Warmth
 +10 to Energy
-Regenerate Mana 5%
+Regenerate Mana 25%
++50% Faster Run/Walk
++30% Faster Cast Rate
 

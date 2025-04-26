@@ -1,0 +1,19 @@
+============================
+Aldur's Icy Gaze
+Base Type: Hunter's Guise
+Item Level: 87
+Level Required: 85
+Set: Aldur's Beacon
+Required Strength: 56
++2 to Druid Skill Levels
++45-90% Enhanced Damage
++500 Defense
+All Resistances +15-25
++7 to cyclone armor ([Class] only)
++10-5% to Fire Skill Damage
+-3-5% to Enemy Fire Resistance
++10-5% to Cold Skill Damage
+
+== Set Bonus for 3 Items ==
+25-60% Chance to cast level 25-60 Twister on striking
+

@@ -55,15 +55,16 @@ Aldur's Watchtower
     Aldur's Gauntlet
     Base Type: Jagged Star
     Item Level: 29
-    Level Required: 42
+    Level Required: 55
     Set: Aldur's Watchtower
     Required Strength: 74
-    Adds 40-62 Damage
-    Adds 50-75 Lightning Damage
+    Adds 100-50 Damage
+    Damage +50-75
     10% Life stolen per hit
     +45% Increased Attack Speed
     +300% Enhanced Damage
     5% Mana stolen per hit
+    +30% Faster Cast Rate
 
     == Set Bonus for 2 Items ==
     +15 to Strength

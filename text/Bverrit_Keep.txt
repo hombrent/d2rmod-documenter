@@ -6,9 +6,11 @@ Level Required: 19
 Required Strength: 75
 +30 Defense
 Fire Resist +75%
-+5 to Strength
-Magic Damage Reduced by 5
++15 to Strength
+Magic Damage Reduced by 10
 +120-80% Enhanced Defense
-10% Increased Chance of Blocking
+30% Increased Chance of Blocking
 Durability: 100-80 of 100-80
+Damage Reduced by 10
+Requirements -20%
 

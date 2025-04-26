@@ -5,12 +5,13 @@ Item Level: 53
 Level Required: 45
 Required Strength: 113
 Required Dexterity: 20
-6-7% Chance to cast level 6-7 Fist of the Heavens on striking
-Adds 1-240 Lightning Damage
-+30 Defense
+25-50% Chance to cast level 25-50 Fist of the Heavens on striking
+Adds 1-400 Lightning Damage
++200 Defense vs. Melee
 +10% to Maximum Lightning Resist
 +150-200% Enhanced Damage
-Attacker Takes Lightning Damage of 15
-+2 to [Class Skill Tab] Skills
-+2 to [Class Skill Tab] Skills
+Attacker Takes Lightning Damage of 31
++2-4 to [Class Skill Tab] Skills
++2-4 to [Class Skill Tab] Skills
++25% Increased Attack Speed
 

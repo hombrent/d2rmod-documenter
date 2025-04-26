@@ -56,7 +56,7 @@ Iratha's Finery
     +15 to Dexterity
 
     == Set Bonus for 2 Items ==
-    +10 to Dexterity
+    +20 to Dexterity
 
 
 == Set Bonus for 2 Items ==

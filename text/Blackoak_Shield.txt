@@ -7,9 +7,10 @@ Required Strength: 100
 +# to Dexterity (Based on Character Level)
 +160-200% Enhanced Defense
 Absorbs Cold Damage (Based on Character Level)
-4% Chance to cast level 5 Weaken when struck
++1 to weaken
 Durability: 45 of 45
 +# to Life (Based on Character Level)
 +50% Faster Block Rate
-Half Freeze Duration
+Cannot Be Frozen
++50 to Strength
 

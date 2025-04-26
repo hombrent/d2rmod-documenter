@@ -4,9 +4,11 @@ Base Type: Helm
 Item Level: 19
 Level Required: 14
 Required Strength: 26
-Attacker Takes Lightning Damage of 7
++30% Faster Hit Recovery
 Hit Blinds Target +1
-Lightning Resist +15%
+Lightning Resist +30%
 +100 Defense vs. Missile
-+10 Defense
++50 to Life
++100 Defense vs. Melee
+Fire Resist +30%
 

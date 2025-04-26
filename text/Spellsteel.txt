@@ -10,7 +10,7 @@ Magic Damage Reduced by 12-15
 +10% Faster Cast Rate
 +165% Enhanced Damage
 Regenerate Mana 25%
-Level 1-20 Teleport (1-20/1-20 Charges)
++1 to Teleport
 +3 to Decrepify
 +10-100 to Holy Bolt
 +12 to Firestorm

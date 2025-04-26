@@ -5,11 +5,10 @@ Item Level: 28
 Level Required: 21
 Required Strength: 41
 Required Dexterity: 35
-+1 to Minimum Damage
-+20 to Maximum Damage
++10 to all Attributes
++30 to Minimum Damage
 Slows Target by 50%
-+25 Defense
 5% Mana stolen per hit
-+50-60% Enhanced Damage
-+20% Increased Attack Speed
++150-170% Enhanced Damage
++30% Increased Attack Speed
 

@@ -4,12 +4,13 @@ Base Type: Yew Wand
 Item Level: 19
 Level Required: 14
 +1 to Minimum Lightning Damage
-+9 to Maximum Lightning Damage
++100 to Maximum Lightning Damage
 Lightning Resist +40%
-+13 to Mana
++80 to Mana
 +30% Faster Cast Rate
 +1-3 to Corpse Explosion ([Class] only)
-+1-3 to Terror ([Class] only)
++1-3 to Bone Armor ([Class] only)
 +1-3 to Amplify Damage ([Class] only)
-+1-3 to Iron Maiden ([Class] only)
++1-3 to Dim Vision ([Class] only)
++1-2 to Necromancer Skill Levels
 

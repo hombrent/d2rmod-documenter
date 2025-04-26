@@ -4,14 +4,14 @@ Base Type: Tomb Wand
 Item Level: 44
 Level Required: 36
 Required Strength: 25
-+2 to [Class Skill Tab] Skills
-5% Chance to cast level 10 Bone Spirit when struck
++1-4 to [Class Skill Tab] Skills
+15% Chance to cast level 40 Bone Spirit when struck
 +# to Mana (Based on Character Level)
-10% Chance to cast level 2 Bone Prison when struck
-+10% Faster Cast Rate
-+2 to [Class Skill Tab] Skills
-+2 to Terror ([Class] only)
-+2 to Raise Skeletal Mage ([Class] only)
+15% Chance to cast level 30 Bone Armor when struck
++30% Faster Cast Rate
++1-2 to [Class Skill Tab] Skills
++2 to Corpse Explosion ([Class] only)
++2 to Summon Resist ([Class] only)
 +3 to Skeleton Mastery ([Class] only)
 +3 to Raise Skeleton ([Class] only)
 

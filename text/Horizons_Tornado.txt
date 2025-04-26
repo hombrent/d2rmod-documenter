@@ -8,6 +8,8 @@ Required Dexterity: 77
 +230-280% Enhanced Damage
 +50% Increased Attack Speed
 Slows Target by 20%
-15-20% Chance to cast level 15-20 Tornado on striking
+20-30% Chance to cast level 20-30 Tornado on striking
 Requirements -20%
+33% Deadly Strike
++30 to Tornado
 

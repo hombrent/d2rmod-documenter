@@ -5,10 +5,9 @@ Item Level: 31
 Level Required: 23
 Required Strength: 56
 Required Dexterity: 34
-+100-150 to Attack Rating
-+20 to Mana
-+6 to Minimum Fire Damage
-+20-40 to Maximum Fire Damage
-+100-80% Enhanced Damage
-+6 to Holy Fire ([Class] only)
++60 to Mana
++40% Increased Attack Speed
++150% Enhanced Damage
++3 to Holy Fire
++3 to Resist Fire
 

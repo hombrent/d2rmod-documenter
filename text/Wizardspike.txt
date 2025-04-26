@@ -8,7 +8,8 @@ Required Dexterity: 75
 +# to Mana (Based on Character Level)
 Regenerate Mana 15%
 Increase Maximum Mana 15%
-All Resistances +75
+All Resistances +35-50
 Repairs 1 durability in # seconds
 +50% Faster Cast Rate
++1 to All Skills
 

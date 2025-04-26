@@ -5,8 +5,10 @@ Item Level: 39
 Level Required: 29
 Required Strength: 60
 +30 Defense
-+5% Enhanced Damage
++5 to Dexterity
 Increase Maximum Mana 40%
-Adds 1-6 Cold Damage
++10-5% to Cold Skill Damage
 +10-20% Enhanced Defense
+Fire Resist +20%
++1 to Warmth
 

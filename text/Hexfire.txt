@@ -9,7 +9,9 @@ Required Dexterity: 58
 Ignore Target's Defense
 Fire Resist +25%
 +10% to Maximum Fire Resist
-Adds 35-40 Damage
-+140-160% Enhanced Damage
++30% Increased Attack Speed
+-10% to Enemy Fire Resistance
 +3 to Fire Skills
+Adds 300 Fire Damage
++20% Faster Cast Rate
 

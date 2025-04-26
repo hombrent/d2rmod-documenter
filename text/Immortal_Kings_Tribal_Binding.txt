@@ -1,0 +1,16 @@
+============================
+Immortal King's Tribal Binding
+Base Type: War Belt
+Item Level: 87
+Level Required: 95
+Set: Bul Katho's Embodiment
+Required Strength: 110
+Damage Reduced by 10-20%
++20% Increased Attack Speed
++20% Faster Cast Rate
++40-75% Enhanced Damage
+All Resistances +10-20
++3-5% Vitality
++3-5% Strength
++3-5% Dexterity
+

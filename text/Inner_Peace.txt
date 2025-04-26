@@ -1,0 +1,10 @@
+============================
+Inner Peace
+Base Type: amulet
+Item Level: 85
+Level Required: 95
+Set: The Ascension
++2 to All Skills
++20% Faster Cast Rate
+Replenish Life +20-5
+

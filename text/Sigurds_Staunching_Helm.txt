@@ -1,0 +1,16 @@
+============================
+Sigurds Staunching Helm
+Base Type: hydraskull
+Item Level: 69
+Level Required: 62
+Required Strength: 84
++150% Enhanced Defense
++10% Faster Cast Rate
++1 to All Skills
++0-6 to [Class] Skill Levels
++50 to Mana
++50 to Life
+Damage Reduced by 5
+Magic Damage Reduced by 5
++55% Faster Hit Recovery
+

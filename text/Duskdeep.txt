@@ -6,7 +6,9 @@ Level Required: 17
 Required Strength: 41
 All Resistances +15
 Damage Reduced by 7
-+8 to Maximum Damage
-+10-20 Defense
++20 to Maximum Damage
+Magic Damage Reduced by 7
 +30-50% Enhanced Defense
++15 to Dexterity
++40 to Life
 

@@ -1,0 +1,19 @@
+============================
+Trang-Oul's Appendage
+Base Type: Cantor Trophy
+Item Level: 87
+Level Required: 85
+Set: Trang-Oul's Incarnation
+Required Strength: 50
++3 to Necromancer Skill Levels
++7 to teeth ([Class] only)
+35-60% Chance to cast level 35-60 teeth when you Kill an Enemy
+-10-15% to Enemy Magic  Resistance
+35% Increased Chance of Blocking
++35% Faster Block Rate
++35% Faster Cast Rate
++10-5% Energy
+
+== Set Bonus for 2 Items ==
+Damage Reduced by 15-25
+

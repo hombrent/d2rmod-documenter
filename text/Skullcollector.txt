@@ -5,7 +5,8 @@ Item Level: 49
 Level Required: 41
 Required Strength: 25
 Increase Maximum Mana 20%
-+20 to Mana after each Kill
-+2 to All Skills
++10-20 to Mana after each Kill
++1-4 to All Skills
 ( 1.0% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
++40-50% Faster Cast Rate
 

@@ -1,0 +1,10 @@
+============================
+Static Accumulator
+Base Type: Leather Boots
+Item Level: 12
+Level Required: 10
+Socketed (1)
++1-10% Energy
+5% Chance to cast level 20 Static Field when struck
++10% Faster Run/Walk
+

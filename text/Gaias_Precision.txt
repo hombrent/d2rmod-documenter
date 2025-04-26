@@ -1,0 +1,16 @@
+============================
+Gaia's Precision
+Base Type: matriarchal pik
+Item Level: 85
+Level Required: 91
+Required Strength: 132
+Required Dexterity: 149
+Level 3-6 conviction Aura When Equipped
++3-4 to Amazon Skill Levels
++3-4 to [Class Skill Tab] Skills
+-20-30% to Enemy Lightning Resistance
++10-20 to all Attributes
++200-300 Defense
+Damage Reduced by 15-20
++40% Increased Attack Speed
+

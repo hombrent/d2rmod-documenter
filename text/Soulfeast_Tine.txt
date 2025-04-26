@@ -8,7 +8,8 @@ Required Dexterity: 95
 Requirements -20%
 7% Life stolen per hit
 7% Mana stolen per hit
-+150-190% Enhanced Damage
-+150-250 to Attack Rating
++180-200% Enhanced Damage
++40% Increased Attack Speed
 Durability: 15 of 15
+20% Chance of Open Wounds
 

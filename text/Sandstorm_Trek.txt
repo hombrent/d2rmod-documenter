@@ -5,10 +5,13 @@ Item Level: 72
 Level Required: 64
 Required Strength: 91
 +140-170% Enhanced Defense
-+20% Faster Run/Walk
++40% Faster Run/Walk
 +20% Faster Hit Recovery
 Poison Resist +40-70%
 Repairs 1 durability in # seconds
 +10-15 to Strength
 +10-15 to Vitality
+Replenish Life +15
+Attacker Takes Damage of 100
+Poison Length Reduced by 75%
 

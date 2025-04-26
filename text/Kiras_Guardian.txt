@@ -2,9 +2,12 @@
 Kira's Guardian
 Base Type: tiara
 Item Level: 85
-Level Required: 77
+Level Required: 84
 +120-50 Defense
 All Resistances +50-70
 Cannot Be Frozen
 +20% Faster Hit Recovery
++0-6 to [Class] Skill Levels
+-10-20% to Enemy Fire Resistance
++1-5% Maximum to all Resistances
 

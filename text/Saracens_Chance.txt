@@ -3,10 +3,8 @@ Saracen's Chance
 Base Type: Amulet
 Item Level: 55
 Level Required: 47
-All Resistances +15-25
-10% Chance to cast level 2 Iron Maiden when struck
-+12 to Strength
-+12 to Dexterity
-+12 to Energy
-+12 to Vitality
+All Resistances +35-40
+24% Chance to cast level 20 Lower Resist when struck
++20-30 to all Attributes
++0-6 to [Class] Skill Levels
 

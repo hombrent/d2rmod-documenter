@@ -4,8 +4,9 @@ Base Type: Amulet
 Item Level: 73
 Level Required: 65
 Absorbs Fire Damage (Based on Character Level)
-2% Chance to cast level 0 Meteor when struck
-Adds 24-48 Fire Damage
+50% Chance to cast level 40 Fire Ball when struck
+Adds 100-200 Fire Damage
 +2 to Fire Skills
 Replenish Life +10
++15-20% to Fire Skill Damage
 

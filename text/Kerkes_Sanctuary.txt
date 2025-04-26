@@ -11,4 +11,6 @@ Replenish Life +15
 Durability: 100 of 100
 30% Increased Chance of Blocking
 All Resistances +20-30
++20% Faster Block Rate
+Requirements -50%
 

@@ -4,9 +4,9 @@ Base Type: Battle Guantlets
 Item Level: 50
 Level Required: 42
 Required Strength: 88
-Fire Resist +24%
-Half Freeze Duration
-10-2% Chance to cast level 10-2 Enchant on striking
+Fire Resist +35-40%
+Cannot Be Frozen
+10-20% Chance to cast level 10-20 Enchant on striking
 +20% Increased Attack Speed
 +150-200% Enhanced Defense
 Adds 13-46 Fire Damage

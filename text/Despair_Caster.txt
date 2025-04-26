@@ -1,0 +1,12 @@
+============================
+Despair Caster
+Base Type: ring
+Item Level: 85
+Level Required: 85
+Set: Sanctuary's Blessing Caster
++100 to Mana
++100 Defense vs. Missile
++100 Defense vs. Melee
++10-30 to Energy
+Damage Reduced by 10
+

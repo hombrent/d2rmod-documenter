@@ -7,8 +7,9 @@ Required Strength: 124
 50% Chance of Crushing Blow
 +180-220% Enhanced Damage
 All Resistances +20
-+25 to Strength
-+2 to [Class Skill Tab] Skills
-+3 to Mace Mastery ([Class] only)
++50 to Life
++4-6 to [Class Skill Tab] Skills
+5% Life stolen per hit
 Durability: 40 of 40
++50% Increased Attack Speed
 

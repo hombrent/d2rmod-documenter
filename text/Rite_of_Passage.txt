@@ -2,11 +2,11 @@
 Rite of Passage
 Base Type: Demonhide Boots
 Item Level: 39
-Level Required: 29
+Level Required: 56
 Set: The Disciple
 Required Strength: 20
 +25 Defense
 +30% Faster Run/Walk
 Cannot Be Frozen
-+15-25 to Life
+20% Better Chance of Getting Magic Items
 

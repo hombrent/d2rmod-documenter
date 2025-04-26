@@ -1,0 +1,18 @@
+============================
+Trang-Oul's True Guise
+Base Type: Bone Visage
+Item Level: 87
+Level Required: 85
+Set: Trang-Oul's Incarnation
+Required Strength: 106
++2 to Necromancer Skill Levels
++20-25% Increased Attack Speed
++20-25% Faster Cast Rate
++666 Defense
++7 to firegolem
++7 to golem mastery
++67% Piercing Attack
+
+== Set Bonus for 3 Items ==
+50-55% Chance to cast level 50-55 bone spear on striking
+

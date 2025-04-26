@@ -9,5 +9,6 @@ Prevent Monster Heal
 +15 to Strength
 #% Deadly Strike (Based on Character Level)
 +# to Maximum Damage (Based on Character Level)
-+150% Enhanced Damage
++200% Enhanced Damage
++30% Increased Attack Speed
 

@@ -4,8 +4,10 @@ Base Type: Round Shield
 Item Level: 39
 Level Required: 31
 Required Strength: 53
-All Resistances +40
+All Resistances +40-55
 55% Increased Chance of Blocking
 +60% Faster Block Rate
 +180-220% Enhanced Defense
+Cannot Be Frozen
+Magic Damage Reduced by 20
 

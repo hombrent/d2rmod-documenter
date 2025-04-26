@@ -6,9 +6,10 @@ Level Required: 37
 Required Strength: 85
 Required Dexterity: 60
 Magic Damage Reduced by 12-7
-+30% Increased Attack Speed
++40% Increased Attack Speed
 Repairs 1 durability in # seconds
 Durability: 40 of 40
-Adds 120-50 Magic Damage
-+100-150% Enhanced Damage
+Damage +100
++200% Enhanced Damage
+15% Deadly Strike
 

@@ -7,5 +7,7 @@ Required Strength: 99
 Requirements -50%
 +40% Increased Attack Speed
 +25 to Life
-+150-250% Enhanced Damage
++250% Enhanced Damage
+Damage Reduced by 5%
+Increase Maximum Life 10%
 

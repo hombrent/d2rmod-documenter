@@ -7,6 +7,7 @@ Required Strength: 106
 +120-90% Enhanced Defense
 4-7% Mana stolen per hit
 4-7% Life stolen per hit
-3-8% Chance to cast level 3-8 Weaken on striking
+18-25% Chance to cast level 18-25 Weaken on striking
 -50 to Monster Defense Per Hit
+Slows Target by 15%
 

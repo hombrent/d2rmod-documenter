@@ -5,10 +5,11 @@ Item Level: 12
 Level Required: 9
 Required Strength: 21
 Required Dexterity: 27
-+10 to Dexterity
-+10 to Life
-+70% Enhanced Damage
++20 to Dexterity
++60 to Life
++210% Enhanced Damage
 Poison Resist +30%
 25% Deadly Strike
-+40 to Attack Rating
++60% Increased Attack Speed
++34% Piercing Attack
 

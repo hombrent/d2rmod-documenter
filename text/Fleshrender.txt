@@ -13,4 +13,5 @@ Adds 35-50 Damage
 +1 to Druid Skill Levels
 +2 to [Class Skill Tab] Skills
 Durability: 20 of 20
++20% Increased Attack Speed
 

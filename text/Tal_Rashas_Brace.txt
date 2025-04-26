@@ -1,0 +1,16 @@
+============================
+Tal Rasha's Brace
+Base Type: Mesh Belt
+Item Level: 87
+Level Required: 85
+Set: Tal Rasha's Elements
+Required Strength: 58
+Damage Reduced by 10-5%
++1 to Sorceress Skill Levels
++1-3 to meteor ([Class] only)
++20% Faster Cast Rate
+-3-5% to Enemy Fire Resistance
+Increase Maximum Mana 3-8%
++10-5 to all Attributes
+25-50% Better Chance of Getting Magic Items
+

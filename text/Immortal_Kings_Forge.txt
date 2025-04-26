@@ -10,7 +10,6 @@ Required Strength: 110
 +20-30 to Dexterity
 12% Chance to cast level 20 Static Field when struck
 +40 to Life
-+10-15 to Vitality
 
 == Set Bonus for 2 Items ==
 +25% Increased Attack Speed

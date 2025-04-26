@@ -30,6 +30,7 @@ Tancred's Battlegear
     Required Strength: 80
     +50 to Life
     +20 to Strength
+    +27% Faster Hit Recovery
     Curse Resist +25-34%
 
     == Set Bonus for 2 Items ==

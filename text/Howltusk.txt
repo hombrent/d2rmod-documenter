@@ -4,9 +4,12 @@ Base Type: Great Helm
 Item Level: 34
 Level Required: 25
 Required Strength: 63
-Magic Damage Reduced by 2
-Attacker Takes Damage of 3
+Magic Damage Reduced by 12
++10 to Howl
 +80% Enhanced Defense
 35% Damage Taken Goes To Mana
-Knockback
+Damage Reduced by 12
++50 to Mana
+Requirements -40%
++20% Faster Hit Recovery
 

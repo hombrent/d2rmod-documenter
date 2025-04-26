@@ -1,0 +1,14 @@
+============================
+Mistiltein
+Base Type: mythical sword
+Item Level: 85
+Level Required: 90
+Required Strength: 147
+Required Dexterity: 124
++50% Increased Attack Speed
++300-350% Enhanced Damage
+-15-20% to Enemy Cold Resistance
++1 to Cold Mastery
+Hit Blinds Target +1
+Ignore Target's Defense
+

@@ -5,10 +5,12 @@ Item Level: 12
 Level Required: 9
 Required Strength: 22
 Hit Blinds Target +1
-+10 to Dexterity
-+30 Defense
-+20 to Life
++20 to Dexterity
++30 to Mana
++30 to Life
 +40-50% Enhanced Defense
 30% Increased Chance of Blocking
 Durability: 10-15 of 10-15
+Damage Reduced by 15%
++# Defense (Based on Character Level)
 

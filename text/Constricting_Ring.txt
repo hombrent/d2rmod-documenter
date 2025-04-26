@@ -1,0 +1,10 @@
+============================
+Constricting Ring
+Base Type: Ring
+Item Level: 86
+Level Required: 95
+All Resistances +20
+Replenish Life -10
+20% Better Chance of Getting Magic Items
++1-3% Maximum to all Resistances
+

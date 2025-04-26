@@ -2,10 +2,10 @@
 McAuley's Taboo
 Base Type: Heavy Gloves
 Item Level: 20
-Level Required: 28
+Level Required: 24
 Set: McAuley's Folly
-+20-25 Defense
-+20% Increased Attack Speed
++10% Faster Cast Rate
++3 to Mana after each Kill
 +40 to Life
-+8-10 Poison Damage over 3.0 Seconds
++2 to Teeth ([Class] only)
 

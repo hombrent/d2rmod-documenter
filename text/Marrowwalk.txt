@@ -5,12 +5,13 @@ Item Level: 74
 Level Required: 66
 Required Strength: 118
 +170-200% Enhanced Defense
-+20% Faster Run/Walk
++40% Faster Run/Walk
 +33 to Bone Prison
 +10-12 to Life Tap
 Regenerate Mana 10%
-Half Freeze Duration
+Cannot Be Frozen
 +10-20 to Strength
 +17 to Dexterity
 +1-2 to Skeleton Mastery ([Class] only)
+Magic Damage Reduced by 20
 

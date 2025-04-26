@@ -5,10 +5,10 @@ Item Level: 52
 Level Required: 44
 Required Strength: 104
 Required Dexterity: 71
-20-4% Chance to cast level 20-4 Amplify Damage on striking
+20-22% Chance to cast level 20-22 Amplify Damage on striking
 +#% Damage to Undead (Based on Character Level)
 Poison Resist +50%
 +249 Poison Damage over 6.0 Seconds
-+150-200% Enhanced Damage
-+# to Attack Rating against Undead (Based on Character Level)
++200% Enhanced Damage
++20% Increased Attack Speed
 

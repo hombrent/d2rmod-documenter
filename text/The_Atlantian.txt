@@ -6,11 +6,11 @@ Level Required: 42
 Required Strength: 127
 Required Dexterity: 88
 Durability: 100 of 100
-+75 Defense
-+16 to Strength
-+12 to Dexterity
-+8 to Vitality
-+200-250% Enhanced Damage
++35% Increased Attack Speed
+Level 12-8 holy freeze Aura When Equipped
++10-20 to all Attributes
+-10-5% to Enemy Cold Resistance
++250-280% Enhanced Damage
 +2 to Paladin Skill Levels
 50% Bonus to Attack Rating
 

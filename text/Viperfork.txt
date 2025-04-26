@@ -6,9 +6,8 @@ Level Required: 71
 Required Strength: 132
 Required Dexterity: 134
 +190-240% Enhanced Damage
-+325 Poison Damage over 10.0 Seconds
+15-5% Chance to cast level 15-5 Lower Resist on striking
 +50% Increased Attack Speed
-+200-250 to Attack Rating
-15-9% Chance to cast level 15-9 Poison Explosion on striking
-Poison Resist +30-50%
+25-60% Chance to cast level 25-60 Poison Nova on striking
+Poison Resist +75%
 

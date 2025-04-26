@@ -1,0 +1,12 @@
+============================
+Nadin's Passion
+Base Type: ring
+Item Level: 85
+Level Required: 90
+Set: Nadin's Winning Strategy
++0-6 to [Class] Skill Levels
+5% Mana stolen per hit
+5% Life stolen per hit
++3 Life after each Kill
++5 to all Attributes
+

@@ -8,4 +8,5 @@ Level Required: 50
 +100 Defense
 +100 Defense vs. Missile
 +25 to Dexterity
++100 Defense vs. Melee
 

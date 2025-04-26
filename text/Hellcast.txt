@@ -8,8 +8,8 @@ Required Dexterity: 40
 Fires Explosive Arrows or Bolts
 +15% to Maximum Fire Resist
 Fire Resist +15%
-+70 to Attack Rating
-+20% Increased Attack Speed
-+70-80% Enhanced Damage
-Adds 15-35 Fire Damage
++60% Increased Attack Speed
++170-180% Enhanced Damage
+Adds 100-150 Fire Damage
++34% Piercing Attack
 

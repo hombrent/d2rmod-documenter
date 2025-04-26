@@ -4,9 +4,8 @@ Base Type: Amulet
 Item Level: 20
 Level Required: 15
 +10-40 Defense vs. Missile
-+1 to All Skills
++1-2 to Cold Skills
 3-7% Life stolen per hit
-+1-2 to Minimum Cold Damage
-+3-5 to Maximum Cold Damage
-
+-15-8% to Enemy Cold Resistance
+Adds 100-200 Cold Damage
 

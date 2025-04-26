@@ -4,7 +4,8 @@ Base Type: Skull Cap
 Item Level: 20
 Level Required: 15
 Required Strength: 15
-75% Extra Gold from Monsters
-25-50% Better Chance of Getting Magic Items
+100-250% Extra Gold from Monsters
+35-60% Better Chance of Getting Magic Items
+Cannot Be Frozen
 +1 to All Skills
 

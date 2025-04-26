@@ -5,9 +5,10 @@ Item Level: 39
 Level Required: 29
 Required Strength: 70
 +20-30 to Strength
-+8 to Minimum Damage
-+15-25 to Maximum Damage
++40 to Minimum Damage
++40 to Maximum Damage
 33% Chance of Crushing Blow
-Requirements -20%
-+120-80% Enhanced Damage
+Requirements -50%
++200-230% Enhanced Damage
++40% Increased Attack Speed
 

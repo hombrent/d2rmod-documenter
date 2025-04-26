@@ -4,7 +4,7 @@ Base Type: Yari
 Item Level: 45
 Level Required: 37
 Required Strength: 101
-+80% Increased Attack Speed
++20-25% Increased Attack Speed
 Adds 40 Damage
 45% Chance of Crushing Blow
 Ethereal

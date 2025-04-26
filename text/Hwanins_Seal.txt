@@ -2,11 +2,11 @@
 Hwanin's Seal
 Base Type: Belt
 Item Level: 28
-Level Required: 35
+Level Required: 34
 Set: Hwanin's Majesty
 Required Strength: 25
-Adds 3-33 Lightning Damage
+Adds 1-300 Lightning Damage
 Prevent Monster Heal
 +# Defense (Based on Character Level)
-12% Damage Taken Goes To Mana
+Damage Reduced by 7%
 

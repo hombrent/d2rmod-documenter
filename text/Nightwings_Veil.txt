@@ -11,5 +11,5 @@ Cold Absorb 5-9%
 Half Freeze Duration
 +12-8% to Cold Skill Damage
 Requirements -50%
--12-8% to Enemy Cold Resistance
+-10-20% to Enemy Cold Resistance
 

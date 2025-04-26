@@ -5,10 +5,11 @@ Item Level: 39
 Level Required: 29
 Required Strength: 71
 Required Dexterity: 45
-+1 to All Skills
-Poison Length Reduced by 50%
-+20% Faster Hit Recovery
++1-2 to All Skills
+Poison Length Reduced by 100%
++25% Faster Hit Recovery
 +20% Increased Attack Speed
-+60 to Attack Rating
-+70-80% Enhanced Damage
++10 to all Attributes
++170-180% Enhanced Damage
+Ethereal
 

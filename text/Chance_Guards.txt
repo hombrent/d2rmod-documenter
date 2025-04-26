@@ -7,6 +7,6 @@ Required Strength: 25
 200% Extra Gold from Monsters
 25-40% Better Chance of Getting Magic Items
 +25 to Attack Rating
-+15 Defense
++15% Faster Block Rate
 +20-30% Enhanced Defense
 

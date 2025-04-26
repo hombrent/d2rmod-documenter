@@ -1,0 +1,14 @@
+============================
+Unsullied's Legacy
+Base Type: archon plate
+Item Level: 85
+Level Required: 95
+Required Strength: 103
++2 to All Skills
++35% Faster Cast Rate
++10% Maximum to all Resistances
++40% Faster Hit Recovery
++25% Faster Run/Walk
++20-30 to all Attributes
++300-400 Defense
+

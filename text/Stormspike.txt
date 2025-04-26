@@ -6,8 +6,11 @@ Level Required: 41
 Required Strength: 47
 Required Dexterity: 97
 Adds 1-120 Lightning Damage
-Attacker Takes Lightning Damage of 20
-25% Chance to cast level 3 Charged Bolt when struck
-+150% Enhanced Damage
+25% Chance to cast level 50 Lightning when struck
++30% Increased Attack Speed
 Lightning Resist +#% (Based on Character Level)
+-10-5% to Enemy Lightning Resistance
++10-5% to Lightning Skill Damage
++1-3 to Lightning Skills
++30% Faster Cast Rate
 

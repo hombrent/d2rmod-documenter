@@ -1,0 +1,17 @@
+============================
+Elemental Union
+Base Type: vortex shield
+Item Level: 85
+Level Required: 90
+Required Strength: 148
+55-85% Chance to cast level 55-85 Nova on striking
+25-50% Chance to cast level 25-50 Enchant when you Kill an Enemy
+20% Increased Chance of Blocking
++20% Faster Block Rate
++2 to Paladin Skill Levels
++4-5 to Vengeance ([Class] only)
+All Resistances +25-45
+Adds 300 Fire Damage
+Adds 300 Cold Damage
+Adds 300 Lightning Damage
+

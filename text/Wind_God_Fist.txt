@@ -1,0 +1,19 @@
+============================
+Wind God Fist
+Base Type: War Fist
+Item Level: 85
+Level Required: 90
+Required Strength: 108
+Required Dexterity: 108
+5% Deadly Strike (Based on Character Level)
++40-50 to Hurricane
++290-355% Enhanced Damage
+Indestructible
++20% Dexterity
++20% Strength
++35-50% Faster Hit Recovery
+Damage +66-99
+Level 12 Holy Freeze Aura When Equipped
+7% Mana stolen per hit
+7% Life stolen per hit
+

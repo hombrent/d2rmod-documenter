@@ -8,9 +8,8 @@ Required Dexterity: 88
 25% Bonus to Attack Rating
 Replenish Life +20
 +20% Faster Hit Recovery
-Adds 20-40 Damage
+Adds 30-50 Damage
 +#% Damage to Demons (Based on Character Level)
-+150-200% Enhanced Damage
-+3 to [Class Skill Tab] Skills
-+25% Enhanced Defense
++200% Enhanced Damage
++20% Increased Attack Speed
 

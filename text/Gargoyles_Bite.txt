@@ -12,7 +12,7 @@ Replenishes quantity
 +3 to Plague Javelin ([Class] only)
 +3 to Poison Javelin ([Class] only)
 -20-25% to Enemy Poison Resistance
-+1-3 to Poison Skills
++2-3 to Poison Skills
 +30% Increased Attack Speed
 Required Level: 10
 

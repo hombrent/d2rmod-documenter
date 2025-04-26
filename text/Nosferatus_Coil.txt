@@ -9,4 +9,5 @@ Required Strength: 50
 Slows Target by 10%
 5-7% Life stolen per hit
 +10% Increased Attack Speed
+Poison Length Reduced by 175%
 

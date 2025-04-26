@@ -5,13 +5,14 @@ Item Level: 50
 Level Required: 42
 Required Strength: 73
 Required Dexterity: 110
-+2 to Amazon Skill Levels
-+2 to [Class Skill Tab] Skills
-+150-200% Enhanced Damage
-+20% Increased Attack Speed
-+20% Enhanced Defense
++2-3 to Amazon Skill Levels
++2-3 to [Class Skill Tab] Skills
++200-250% Enhanced Damage
++35% Increased Attack Speed
+Prevent Monster Heal
 +20 to Dexterity
 +20 to Energy
 5-8% Mana stolen per hit
 Adds 25-50 Damage
++30% Piercing Attack
 

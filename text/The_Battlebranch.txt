@@ -6,7 +6,8 @@ Level Required: 25
 Required Strength: 62
 +30% Increased Attack Speed
 +10 to Dexterity
-+50-70% Enhanced Damage
++170-200% Enhanced Damage
 +100-50 to Attack Rating
 7% Life stolen per hit
++50% Faster Hit Recovery
 

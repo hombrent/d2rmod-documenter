@@ -9,5 +9,5 @@ Required Strength: 58
 Damage Reduced by 15-20%
 Magic Damage Reduced by 10-15
 +100% Enhanced Defense
-Adds 22-6 Cold Damage
++50 to Life
 

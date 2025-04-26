@@ -1,0 +1,14 @@
+============================
+Aldur's Momentum
+Base Type: Battle Boots
+Item Level: 87
+Level Required: 85
+Set: Aldur's Beacon
+Required Strength: 95
++50% Faster Run/Walk
++1 to Druid Skill Levels
++25-50% Enhanced Damage
+Increase Maximum Life 5%
+All Resistances +10-20
+Increase Maximum Mana 5%
+

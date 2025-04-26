@@ -7,6 +7,10 @@ Required Strength: 20
 +10 to Energy
 +10 to Strength
 +100-200% Damage to Undead
-+100-200 to Attack Rating against Undead
+Level 6 blessed aim Aura When Equipped
 +140-180% Enhanced Defense
+20% Extra Gold from Monsters (Based on Character Level)
+Prevent Monster Heal
++1 to [Class Skill Tab] Skills
++1 to Zeal
 

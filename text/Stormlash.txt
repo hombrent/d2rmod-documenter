@@ -8,7 +8,7 @@ Required Dexterity: 77
 +269-300% Enhanced Damage
 +30% Increased Attack Speed
 20% Chance to cast level 20 Static Field on striking
-18-20% Chance to cast level 18-20 Tornado on striking
+20-30% Chance to cast level 20-30 Lightning on striking
 Adds 1-473 Lightning Damage
 Attacker Takes Lightning Damage of 30
 33% Chance of Crushing Blow

@@ -11,5 +11,6 @@ Hit Blinds Target +3
 -50 to Monster Defense Per Hit
 Freezes Target +1
 Prevent Monster Heal
-+20-40% Enhanced Damage
++200% Enhanced Damage
++30% Increased Attack Speed
 

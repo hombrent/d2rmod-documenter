@@ -9,5 +9,9 @@ Required Dexterity: 142
 Adds 101-300 Magic Damage
 All Resistances +40-50
 +400-600 Defense
-+2-4 to [Class Skill Tab] Skills
++3-6 to [Class Skill Tab] Skills
++40% Increased Attack Speed
++50% Faster Run/Walk
++1 to natural resistance
+-35% to Enemy Lightning Resistance
 

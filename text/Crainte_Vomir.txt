@@ -7,8 +7,9 @@ Required Strength: 73
 Required Dexterity: 61
 Slows Target by 35%
 -70 to Monster Defense Per Hit
-+20% Faster Run/Walk
-Damage Reduced by 10%
-+160-200% Enhanced Damage
++30% Faster Run/Walk
+Damage Reduced by 20%
++200% Enhanced Damage
 +50% Increased Attack Speed
+5% Mana stolen per hit
 

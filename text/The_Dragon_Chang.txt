@@ -4,8 +4,10 @@ Base Type: Spear
 Item Level: 11
 Level Required: 8
 Required Dexterity: 20
-+35 to Attack Rating
++10 to Maximum Damage
 +10 to Minimum Damage
-+100% Damage to Undead
-Adds 3-6 Fire Damage
++20% Increased Attack Speed
+Adds 200 Fire Damage
++10 to Inferno
++5 to Mana after each Kill
 

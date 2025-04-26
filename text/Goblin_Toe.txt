@@ -5,8 +5,9 @@ Item Level: 30
 Level Required: 22
 Required Strength: 50
 25% Chance of Crushing Blow
-Damage Reduced by 1
-Magic Damage Reduced by 1
+Damage Reduced by 7
+Magic Damage Reduced by 7
 +15 Defense
 +50-60% Enhanced Defense
++25% Faster Run/Walk
 

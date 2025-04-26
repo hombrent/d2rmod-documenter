@@ -4,11 +4,10 @@ Base Type: War Axe
 Item Level: 36
 Level Required: 27
 Required Strength: 67
-+128 to Minimum Poison Damage
-+128 to Maximum Poison Damage
-Poison Length 3 seconds
-+50 to Attack Rating
++3 to Venom
++20% Faster Hit Recovery
++20% Faster Run/Walk
 Poison Resist +50%
-+150-75% Enhanced Damage
++200-250% Enhanced Damage
 +30% Increased Attack Speed
 

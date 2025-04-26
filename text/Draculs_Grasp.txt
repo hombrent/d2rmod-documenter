@@ -7,7 +7,7 @@ Required Strength: 50
 +120-90% Enhanced Defense
 10-7% Life stolen per hit
 25% Chance of Open Wounds
-10-5% Chance to cast level 10-5 Life Tap on striking
+10-15% Chance to cast level 10-15 Life Tap on striking
 +10-5 Life after each Kill
 +10-15 to Strength
 

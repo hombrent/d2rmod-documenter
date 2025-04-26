@@ -1,0 +1,18 @@
+============================
+Natalya's Visage
+Base Type: Grim Helm
+Item Level: 87
+Level Required: 85
+Set: Natalya's Vengeance
+Required Strength: 58
++2 to Assassin Skill Levels
++25% Increased Attack Speed
++25% Faster Cast Rate
+All Resistances +20-30
++30-40 to all Attributes
++270-350 Defense
+
+== Set Bonus for 2 Items ==
+20% Life stolen per hit
+20% Mana stolen per hit
+

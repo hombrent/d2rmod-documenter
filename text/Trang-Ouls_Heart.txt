@@ -1,0 +1,22 @@
+============================
+Trang-Oul's Heart
+Base Type: Chaos Armor
+Item Level: 87
+Level Required: 85
+Set: Trang-Oul's Incarnation
+Required Strength: 140
++3 to Necromancer Skill Levels
+-10-5% to Enemy Poison Resistance
+-10-5% to Enemy Magic  Resistance
++10-15% to Poison Skill Damage
++10-15% to Magic Skill Damage
++20-40 to Vitality
++20-40 to Energy
+All Resistances +15-30
+
+== Set Bonus for 2 Items ==
++7 to lower resist ([Class] only)
+
+== Set Bonus for 3 Items ==
++7 to revive ([Class] only)
+

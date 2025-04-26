@@ -1,0 +1,15 @@
+============================
+Baal's Heart
+Base Type: lacquered plate
+Item Level: 85
+Level Required: 90
+Required Strength: 208
++3 to Cold Skills
++150-200 to Life
+Cold Resist +66%
+Cannot Be Frozen
++66% Faster Hit Recovery
++150-80% Enhanced Defense
+Magic Damage Reduced by 15-20
++20-25 to Mana after each Kill
+

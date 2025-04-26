@@ -4,9 +4,13 @@ Base Type: Defender
 Item Level: 36
 Level Required: 28
 Required Strength: 38
-+1 to Sorceress Skill Levels
++1 to All Skills
 +30% Faster Block Rate
 30% Increased Chance of Blocking
 +100-150% Enhanced Defense
-Attacker Takes Lightning Damage of 10
+Attacker Takes Damage of 150
++50 to Energy
++10-15 to Strength
+Poison Length 4 seconds
+Damage Reduced by 10-5%
 

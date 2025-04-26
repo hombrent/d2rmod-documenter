@@ -4,9 +4,9 @@ Base Type: Battle Axe
 Item Level: 26
 Level Required: 19
 Required Strength: 54
-+100% Enhanced Damage
-All Resistances +10-20
++200% Enhanced Damage
+All Resistances +30
 +6 to Mana after each Kill
-+20% Increased Attack Speed
-Adds 1-40 Lightning Damage
++40% Increased Attack Speed
+Adds 1-250 Lightning Damage
 

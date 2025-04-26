@@ -10,4 +10,5 @@ Damage Reduced by 6
 +50 to Mana
 Regenerate Mana 25%
 Replenish Life +10
+Damage Reduced by 10%
 

@@ -6,8 +6,12 @@ Level Required: 71
 Required Strength: 141
 Required Dexterity: 98
 +160-220% Enhanced Damage
-+33% Piercing Attack
++100% Piercing Attack
 12-18% Life stolen per hit
 Slows Target by 25%
 33% Chance of Open Wounds
+Fires Explosive Arrows or Bolts
++80% Increased Attack Speed
+Requirements -50%
+-20-35% to Enemy Fire Resistance
 
