@@ -1,0 +1,15 @@
+============================
+Carrion Wind
+Base Type: ring
+Item Level: 68
+Level Required: 60
++100-160 Defense vs. Missile
+6-9% Life stolen per hit
+Poison Resist +55%
+10-20% Chance to cast level 10-20 Poison Nova on striking
++21 to Plague Poppy
+13-8% Chance to cast level 13-8 Twister on striking
+40% Damage Taken Goes To Mana
++150-250 to Attack Rating
+Poison Length Reduced by 100%
+

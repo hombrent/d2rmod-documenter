@@ -1,0 +1,14 @@
+============================
+Kelpie Snare
+Base Type: Fuscina
+Item Level: 41
+Level Required: 33
+Required Strength: 77
+Required Dexterity: 25
+Slows Target by 75%
+Fire Resist +50%
++# to Life (Based on Character Level)
+Adds 30-50 Damage
++10 to Strength
++140-180% Enhanced Damage
+

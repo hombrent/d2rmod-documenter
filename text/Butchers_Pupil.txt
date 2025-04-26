@@ -1,0 +1,13 @@
+============================
+Butcher's Pupil
+Base Type: Cleaver
+Item Level: 47
+Level Required: 39
+Required Strength: 68
+35% Deadly Strike
+25% Chance of Open Wounds
++150-200% Enhanced Damage
+Repairs 1 durability in # seconds
++30% Increased Attack Speed
+Adds 30-50 Damage
+

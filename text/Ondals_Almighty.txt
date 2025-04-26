@@ -1,0 +1,16 @@
+============================
+Ondal's Almighty
+Base Type: Spired Helm
+Item Level: 55
+Level Required: 69
+Set: Heaven's Brethren
+Required Strength: 192
++50 Defense
+Requirements -40%
+10-3% Chance to cast level 10-3 Weaken on striking
++10 to Strength
++15 to Dexterity
++24% Faster Hit Recovery
++2 to All Skills
++10% Faster Cast Rate
+

@@ -1,0 +1,12 @@
+============================
+Raven Frost
+Base Type: Ring
+Item Level: 53
+Level Required: 45
+Cannot Be Frozen
+Adds 15-45 Cold Damage
++20 Cold Absorb
++40 to Mana
++15-20 to Dexterity
++150-250 to Attack Rating
+

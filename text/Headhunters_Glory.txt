@@ -1,0 +1,15 @@
+============================
+Headhunter's Glory
+Base Type: troll nest
+Item Level: 83
+Level Required: 75
+Required Strength: 106
++320-420 Defense
++300-350 Defense vs. Missile
+All Resistances +15-25
++40% Increased Attack Speed
++10-15 Life after each Kill
+Cannot Be Frozen
+Hit Blinds Target +1
++50% Faster Run/Walk
+

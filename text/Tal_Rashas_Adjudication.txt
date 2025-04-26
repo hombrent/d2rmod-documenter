@@ -1,0 +1,15 @@
+============================
+Tal Rasha's Adjudication
+Base Type: Amulet
+Item Level: 26
+Level Required: 67
+Set: Tal Rasha's Wrappings
+Lightning Resist +33%
++2 to Sorceress Skill Levels
++50 to Life
+Adds 3-32 Lightning Damage
++42 to Mana
+
+== Set Bonus for 4 Items ==
++10% Faster Cast Rate
+

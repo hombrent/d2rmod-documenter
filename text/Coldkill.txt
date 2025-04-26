@@ -1,0 +1,15 @@
+============================
+Coldkill
+Base Type: Hatchet
+Item Level: 44
+Level Required: 36
+Required Strength: 25
+Required Dexterity: 25
+Adds 40 Cold Damage
+Cold Resist +15%
++15% to Maximum Cold Resist
++30% Increased Attack Speed
+10% Chance to cast level 10 Ice Blast on striking
+10% Chance to cast level 5 Frost Nova when struck
++150-190% Enhanced Damage
+

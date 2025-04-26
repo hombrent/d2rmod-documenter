@@ -1,0 +1,15 @@
+============================
+The Tannr Gorerod
+Base Type: Pike
+Item Level: 36
+Level Required: 27
+Required Strength: 60
+Required Dexterity: 45
++23 to Minimum Fire Damage
++54 to Maximum Fire Damage
++15% to Maximum Fire Resist
++30 to Life
++60 to Attack Rating
+Fire Resist +15%
++100-80% Enhanced Damage
+

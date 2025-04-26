@@ -1,0 +1,11 @@
+============================
+The Rising Sun
+Base Type: Amulet
+Item Level: 73
+Level Required: 65
+Absorbs Fire Damage (Based on Character Level)
+2% Chance to cast level 0 Meteor when struck
+Adds 24-48 Fire Damage
++2 to Fire Skills
+Replenish Life +10
+

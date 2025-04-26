@@ -1,0 +1,26 @@
+============================
+Immortal King's Forge
+Base Type: War Gauntlets
+Item Level: 37
+Level Required: 30
+Set: Immortal King
+Required Strength: 110
++65 Defense
++20-30 to Strength
++20-30 to Dexterity
+12% Chance to cast level 20 Static Field when struck
++40 to Life
++10-15 to Vitality
+
+== Set Bonus for 2 Items ==
++25% Increased Attack Speed
+
+== Set Bonus for 3 Items ==
++120 Defense
+
+== Set Bonus for 4 Items ==
+10% Life stolen per hit
+
+== Set Bonus for 5 Items ==
+10% Mana stolen per hit
+

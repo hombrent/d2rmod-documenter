@@ -1,0 +1,16 @@
+============================
+Bul-Kathos' Tribal Guardian
+Base Type: Colossal Sword
+Item Level: 50
+Level Required: 54
+Set: Bul-Kathos' Children
+Required Strength: 182
+Required Dexterity: 95
+All Resistances +10-20
+10-20% Chance to cast level 10-20 Poison Nova on striking
++20% Increased Attack Speed
++20-30 to Strength
++200-250% Enhanced Damage
+5% Life stolen per hit
+15% Chance of Open Wounds
+

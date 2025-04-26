@@ -1,0 +1,17 @@
+============================
+Cutthroat1
+Base Type: Runic Talons
+Item Level: 50
+Level Required: 42
+Required Strength: 79
+Required Dexterity: 79
++2 to Assassin Skill Levels
++1 to [Class Skill Tab] Skills
++150-200% Enhanced Damage
++30% Faster Hit Recovery
+20% Bonus to Attack Rating
++20 to Strength
++20 to Dexterity
+5-9% Life stolen per hit
+Adds 25-50 Damage
+

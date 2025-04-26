@@ -1,0 +1,15 @@
+============================
+Radimant's Sphere
+Base Type: Ancient Shield
+Item Level: 58
+Level Required: 50
+Required Strength: 110
++79 Poison Damage over 4.0 Seconds
+5% Chance to cast level 5 Poison Nova when struck
+Poison Resist +75%
++160-200% Enhanced Defense
+20% Increased Chance of Blocking
++20% Faster Block Rate
++6 to Poison Explosion
+Durability: 20 of 20
+

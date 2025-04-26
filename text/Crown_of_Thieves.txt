@@ -1,0 +1,14 @@
+============================
+Crown of Thieves
+Base Type: Grand Crown
+Item Level: 57
+Level Required: 49
+Required Strength: 103
++25 to Dexterity
+12-9% Life stolen per hit
++50 to Life
++35 to Mana
+Fire Resist +33%
++160-200% Enhanced Defense
+100-80% Extra Gold from Monsters
+

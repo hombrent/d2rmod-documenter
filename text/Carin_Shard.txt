@@ -1,0 +1,14 @@
+============================
+Carin Shard
+Base Type: Petrified Wand
+Item Level: 43
+Level Required: 35
+Required Strength: 25
++# to Life (Based on Character Level)
++10% Faster Cast Rate
++# to Mana (Based on Character Level)
++30% Faster Hit Recovery
+Replenish Life +5
++1 to Necromancer Skill Levels
++2 to [Class Skill Tab] Skills
+

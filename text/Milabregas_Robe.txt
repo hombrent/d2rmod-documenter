@@ -1,0 +1,17 @@
+============================
+Milabrega's Robe
+Base Type: Ancient Armor
+Item Level: 23
+Level Required: 1
+Set: Milabrega's Regalia
+Required Strength: 100
++10% Faster Run/Walk
+Damage Reduced by 5
+Magic Damage Reduced by 5
++10% Faster Cast Rate
+Requirements -45%
+
+== Set Bonus for 2 Items ==
++100% Enhanced Defense
+Fire Resist +40%
+

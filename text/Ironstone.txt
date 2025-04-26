@@ -1,0 +1,12 @@
+============================
+Ironstone
+Base Type: War Hammer
+Item Level: 36
+Level Required: 27
+Required Strength: 53
++100-150 to Attack Rating
++100-150% Enhanced Damage
++1 to Minimum Lightning Damage
++10 to Maximum Lightning Damage
++10 to Strength
+

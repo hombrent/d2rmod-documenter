@@ -1,0 +1,16 @@
+============================
+Spire of Honor
+Base Type: Lance
+Item Level: 47
+Level Required: 39
+Required Strength: 110
+Required Dexterity: 88
+25% Bonus to Attack Rating
+Replenish Life +20
++20% Faster Hit Recovery
+Adds 20-40 Damage
++#% Damage to Demons (Based on Character Level)
++150-200% Enhanced Damage
++3 to [Class Skill Tab] Skills
++25% Enhanced Defense
+

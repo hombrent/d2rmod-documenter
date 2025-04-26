@@ -1,0 +1,15 @@
+============================
+Arcanna's Deathwand
+Base Type: War Staff
+Item Level: 20
+Level Required: 1
+Set: Arcanna's Tricks
++1 to All Skills
++25% Faster Cast Rate
+
+== Set Bonus for 2 Items ==
++50 to Mana
+
+== Set Bonus for 3 Items ==
+Regenerate Mana 5%
+

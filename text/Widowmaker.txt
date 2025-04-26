@@ -1,0 +1,13 @@
+============================
+Widowmaker
+Base Type: ward bow
+Item Level: 73
+Level Required: 65
+Required Strength: 72
+Required Dexterity: 146
++150-200% Enhanced Damage
+33% Deadly Strike
+Ignore Target's Defense
+Fires Magic Arrows
++3-5 to Guided Arrow
+

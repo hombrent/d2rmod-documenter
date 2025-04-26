@@ -1,0 +1,13 @@
+============================
+Stoneraven
+Base Type: matriarchal spear
+Item Level: 72
+Level Required: 64
+Required Strength: 114
+Required Dexterity: 142
++269-300% Enhanced Damage
+Adds 101-300 Magic Damage
+All Resistances +40-50
++400-600 Defense
++2-4 to [Class Skill Tab] Skills
+

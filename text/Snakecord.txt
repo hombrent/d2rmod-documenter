@@ -1,0 +1,12 @@
+============================
+Snakecord
+Base Type: Light Belt
+Item Level: 16
+Level Required: 12
++11 Poison Damage over 3.0 Seconds
+Poison Resist +25%
++10 Defense
++20-30% Enhanced Defense
+Replenish Life +5
+Poison Length Reduced by 50%
+

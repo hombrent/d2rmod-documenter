@@ -1,0 +1,17 @@
+============================
+Iceblink
+Base Type: Splint Mail
+Item Level: 30
+Level Required: 22
+Required Strength: 51
+Cannot Be Frozen
+Cold Resist +30-50%
+Magic Damage Reduced by 6-9
++100-130% Enhanced Defense
+Adds 25-50 Cold Damage
++50 to Mana
+Requirements -25%
+Cold Absorb 10-20%
++10% Faster Run/Walk
++1-2 to Cold Skills
+

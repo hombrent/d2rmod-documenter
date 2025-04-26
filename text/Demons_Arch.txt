@@ -1,0 +1,19 @@
+============================
+Demon's Arch
+Base Type: balrog spear
+Item Level: 76
+Level Required: 68
+Required Strength: 127
+Required Dexterity: 95
++200-230% Enhanced Damage
+Adds 300-420 Fire Damage
++12-9 Life after each Kill
+Replenishes quantity
++30% Increased Attack Speed
+Adds 420-69 Lightning Damage
+Adds 300-420 Cold Damage
+-15-8% to Enemy Fire Resistance
+-15-8% to Enemy Lightning Resistance
+-15-8% to Enemy Cold Resistance
+Requirements -20%
+

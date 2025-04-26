@@ -1,0 +1,12 @@
+============================
+McAuley's Superstition
+Base Type: Bone Wand
+Item Level: 20
+Level Required: 25
+Set: McAuley's Folly
++75% Enhanced Damage
++25 to Mana
+8% Mana stolen per hit
++20% Faster Cast Rate
+Adds 25-75 Cold Damage
+

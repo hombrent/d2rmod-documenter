@@ -1,0 +1,12 @@
+============================
+Cow King's Hide
+Base Type: Studded Leather
+Item Level: 20
+Level Required: 18
+Set: Cow King's Leathers
+Required Strength: 27
+All Resistances +18
++60% Enhanced Defense
++30 to Life
+18% Chance to cast level 5 Chain Lightning when struck
+

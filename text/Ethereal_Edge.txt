@@ -1,0 +1,16 @@
+============================
+Ethereal Edge
+Base Type: silver-edged axe
+Item Level: 82
+Level Required: 74
+Required Strength: 166
+Required Dexterity: 65
++150-180% Enhanced Damage
++25% Increased Attack Speed
+Fire Absorb 10-12%
++150-200% Damage to Demons
++10-5 Life after each Demon Kill
++270-350 to Attack Rating
+Ethereal
+Indestructible
+

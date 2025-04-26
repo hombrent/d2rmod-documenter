@@ -1,0 +1,13 @@
+============================
+Darksight Helm
+Base Type: Basinet
+Item Level: 46
+Level Required: 38
+Required Strength: 82
++# Defense (Based on Character Level)
+Cannot Be Frozen
+5% Mana stolen per hit
+6% Chance to cast level 3 Dim Vision when struck
++5 to Cloak of Shadows
+Fire Resist +20-40%
+

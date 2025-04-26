@@ -1,0 +1,11 @@
+============================
+Fechmars Axe
+Base Type: Large Axe
+Item Level: 11
+Level Required: 8
+Required Strength: 35
++70-90% Enhanced Damage
+Freezes Target +3
+Cold Resist +50%
++20% Increased Attack Speed
+

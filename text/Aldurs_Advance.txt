@@ -1,0 +1,24 @@
+============================
+Aldur's Advance
+Base Type: Battle Boots
+Item Level: 29
+Level Required: 45
+Set: Aldur's Watchtower
+Required Strength: 95
+Repairs 1 durability in # seconds
+Regenerate Mana 10%
++50 to Life
+10% Damage Taken Goes To Mana
++40% Faster Run/Walk
+Replenish Life +10
+Fire Resist +40-50%
+
+== Set Bonus for 2 Items ==
++15 to Dexterity
+
+== Set Bonus for 3 Items ==
++15 to Dexterity
+
+== Set Bonus for 4 Items ==
++15 to Dexterity
+

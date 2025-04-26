@@ -1,0 +1,16 @@
+============================
+Wizendraw
+Base Type: Long Battle Bow
+Item Level: 35
+Level Required: 26
+Required Strength: 40
+Required Dexterity: 50
+Fires Magic Arrows
++30 to Mana
++20% Increased Attack Speed
+Cold Resist +26%
++100-50 to Attack Rating
++70-80% Enhanced Damage
++15 to Energy
+-20-35% to Enemy Cold Resistance
+

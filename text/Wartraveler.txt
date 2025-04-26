@@ -1,0 +1,15 @@
+============================
+Wartraveler
+Base Type: Battle Boots
+Item Level: 50
+Level Required: 42
+Required Strength: 95
++10 to Vitality
++10 to Strength
+30-50% Better Chance of Getting Magic Items
+Durability: 30 of 30
++25% Faster Run/Walk
++150-190% Enhanced Defense
+Adds 15-25 Damage
+Attacker Takes Damage of 10-5
+

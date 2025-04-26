@@ -1,0 +1,16 @@
+============================
+The Impaler
+Base Type: War Spear
+Item Level: 39
+Level Required: 31
+Required Strength: 25
+Required Dexterity: 25
+Ignore Target's Defense
++150 to Attack Rating
++20% Increased Attack Speed
+40% Chance of Open Wounds
+Prevent Monster Heal
++140-170% Enhanced Damage
++5 to Impale ([Class] only)
++3 to Power Strike ([Class] only)
+

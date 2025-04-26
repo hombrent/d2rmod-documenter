@@ -1,0 +1,13 @@
+============================
+Knell Striker
+Base Type: Scepter
+Item Level: 7
+Level Required: 5
+Required Strength: 25
+25% Chance of Crushing Blow
+Fire Resist +20%
+Poison Resist +20%
++15 to Mana
++35 to Attack Rating
++70-80% Enhanced Damage
+

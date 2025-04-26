@@ -1,0 +1,14 @@
+============================
+Demonlimb
+Base Type: tyrant club
+Item Level: 71
+Level Required: 63
+Required Strength: 133
++180-230% Enhanced Damage
+Adds 222-333 Fire Damage
+13-7% Life stolen per hit
++23 to Enchant
+Repairs 1 durability in # seconds
++123% Damage to Demons
+Fire Resist +15-20%
+

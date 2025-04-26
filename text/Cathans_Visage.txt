@@ -1,0 +1,13 @@
+============================
+Cathan's Visage
+Base Type: Mask
+Item Level: 15
+Level Required: 1
+Set: Cathan's Traps
+Required Strength: 23
++50 to Mana
+Cold Resist +25%
+
+== Set Bonus for 2 Items ==
++3 to Vitality (Based on Character Level)
+

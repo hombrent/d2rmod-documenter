@@ -1,0 +1,17 @@
+============================
+Infernal Sign
+Base Type: Heavy Belt
+Item Level: 7
+Level Required: 1
+Set: Infernal Tools
+Required Strength: 45
++50 Defense
++25 to Life
++25 to Mana
+
+== Set Bonus for 2 Items ==
+Poison Resist +25%
+
+== Set Bonus for 3 Items ==
++15% Faster Run/Walk
+

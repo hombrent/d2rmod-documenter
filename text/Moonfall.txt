@@ -1,0 +1,13 @@
+============================
+Moonfall
+Base Type: Jagged Star
+Item Level: 50
+Level Required: 42
+Required Strength: 74
+5-6% Chance to cast level 5-6 Meteor on striking
+Adds 115-55 Fire Damage
+Magic Damage Reduced by 12-9
++120-150% Enhanced Damage
++11 to Meteor
+Adds 10-15 Damage
+

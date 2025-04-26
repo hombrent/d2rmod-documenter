@@ -1,0 +1,12 @@
+============================
+Gravepalm
+Base Type: Sharkskin Gloves
+Item Level: 39
+Level Required: 32
+Required Strength: 20
++10 to Energy
++10 to Strength
++100-200% Damage to Undead
++100-200 to Attack Rating against Undead
++140-180% Enhanced Defense
+

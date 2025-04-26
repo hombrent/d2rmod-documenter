@@ -1,0 +1,10 @@
+============================
+Wisp
+Base Type: ring
+Item Level: 84
+Level Required: 76
++10-20 Lightning Absorb
+10-16% Chance to cast level 10-16 Lightning on striking
+10-20% Better Chance of Getting Magic Items
++5 to Heart of Wolverine
+

@@ -1,0 +1,12 @@
+============================
+Frostburn
+Base Type: Gauntlets
+Item Level: 39
+Level Required: 29
+Required Strength: 60
++30 Defense
++5% Enhanced Damage
+Increase Maximum Mana 40%
+Adds 1-6 Cold Damage
++10-20% Enhanced Defense
+

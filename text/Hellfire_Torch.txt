@@ -1,0 +1,11 @@
+============================
+Hellfire Torch
+Base Type: charm
+Item Level: 110
+Level Required: 75
++0-6 to [Class] Skill Levels
++10-20 to all Attributes
+All Resistances +10-20
++8 to Light Radius
+Level 10-30 Hydra (10-30/10-30 Charges)
+

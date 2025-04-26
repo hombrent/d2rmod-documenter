@@ -1,0 +1,16 @@
+============================
+Flamebellow
+Base Type: balrog blade
+Item Level: 79
+Level Required: 71
+Required Strength: 185
+Required Dexterity: 87
++170-240% Enhanced Damage
+Adds 233-482 Fire Damage
++3 to Fire Skills
++20-30 Fire Absorb
+12-16% Chance to cast level 12-16 Firestorm on striking
++10-20 to Strength
++10-5 to Vitality
++12-18 to Inferno
+

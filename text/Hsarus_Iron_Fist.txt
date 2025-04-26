@@ -1,0 +1,16 @@
+============================
+Hsarus' Iron Fist
+Base Type: Buckler
+Item Level: 4
+Level Required: 1
+Set: Hsarus' Defense
+Required Strength: 12
+Damage Reduced by 10
+Poison Length Reduced by 75%
++25 to Life
+Magic Damage Reduced by 10
+
+== Set Bonus for 2 Items ==
++5 to Dexterity
++5 to Vitality
+

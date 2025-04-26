@@ -1,0 +1,12 @@
+============================
+Goreshovel
+Base Type: Broad Axe
+Item Level: 19
+Level Required: 14
+Required Strength: 48
++30% Increased Attack Speed
++25 to Strength
+60% Chance of Open Wounds
++40-50% Enhanced Damage
++9 to Maximum Damage
+

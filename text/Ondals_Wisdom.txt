@@ -1,0 +1,14 @@
+============================
+Ondal's Wisdom
+Base Type: elder staff
+Item Level: 74
+Level Required: 66
+Required Strength: 44
+Required Dexterity: 37
++85% Faster Cast Rate
++40-50 to Energy
++2-4 to All Skills
++450-550 Defense
++15-5% to Experience Gained
+Magic Damage Reduced by 5-8
+

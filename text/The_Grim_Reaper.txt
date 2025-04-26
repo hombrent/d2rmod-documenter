@@ -1,0 +1,13 @@
+============================
+The Grim Reaper
+Base Type: War Scythe
+Item Level: 39
+Level Required: 29
+Required Strength: 80
+Required Dexterity: 80
+100% Deadly Strike
+Prevent Monster Heal
+5% Mana stolen per hit
++20% Enhanced Damage
++15 to Minimum Damage
+

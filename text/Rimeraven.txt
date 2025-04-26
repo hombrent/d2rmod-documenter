@@ -1,0 +1,13 @@
+============================
+Rimeraven
+Base Type: Long Bow
+Item Level: 20
+Level Required: 15
+Required Strength: 22
+Required Dexterity: 19
+50% Bonus to Attack Rating
++3 to Dexterity
+Fires Explosive Arrows or Bolts
++3 to Strength
++60-70% Enhanced Damage
+

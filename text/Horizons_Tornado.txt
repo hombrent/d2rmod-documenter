@@ -1,0 +1,13 @@
+============================
+Horizon's Tornado
+Base Type: scourge
+Item Level: 72
+Level Required: 64
+Required Strength: 125
+Required Dexterity: 77
++230-280% Enhanced Damage
++50% Increased Attack Speed
+Slows Target by 20%
+15-20% Chance to cast level 15-20 Tornado on striking
+Requirements -20%
+

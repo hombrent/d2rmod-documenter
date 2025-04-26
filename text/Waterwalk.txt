@@ -1,0 +1,13 @@
+============================
+Waterwalk
+Base Type: Sharkskin Boots
+Item Level: 40
+Level Required: 32
+Required Strength: 47
++100 Defense vs. Missile
++40% Faster Run/Walk
++15 to Dexterity
++180-210% Enhanced Defense
++45-65 to Life
++5% to Maximum Fire Resist
+

@@ -1,0 +1,13 @@
+============================
+Warlord's Trust
+Base Type: Military Axe
+Item Level: 43
+Level Required: 35
+Required Strength: 73
++75 Defense
+Replenish Life +20
++# to Vitality (Based on Character Level)
+All Resistances +10
+Repairs 1 durability in # seconds
++175% Enhanced Damage
+

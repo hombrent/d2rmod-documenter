@@ -1,0 +1,14 @@
+============================
+Soul Harvest
+Base Type: Scythe
+Item Level: 26
+Level Required: 19
+Required Strength: 41
+Required Dexterity: 41
+30% Chance of Open Wounds
++45 to Attack Rating
+All Resistances +20
++50-90% Enhanced Damage
+10% Mana stolen per hit
++5 to Energy
+

@@ -1,0 +1,11 @@
+============================
+Crescent Moon
+Base Type: Amulet
+Item Level: 58
+Level Required: 50
+11-15% Mana stolen per hit
+Magic Damage Reduced by 10
+10% Damage Taken Goes To Mana
++45 to Mana
+3-6% Life stolen per hit
+

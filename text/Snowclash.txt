@@ -1,0 +1,15 @@
+============================
+Snowclash
+Base Type: Battle Belt
+Item Level: 49
+Level Required: 42
+Required Strength: 88
+5% Chance to cast level 0 Blizzard when struck
+Cold Absorb 15%
++15% to Maximum Cold Resist
+Adds 13-21 Cold Damage
++130-170% Enhanced Defense
++2 to Blizzard ([Class] only)
++3 to Glacial Spike ([Class] only)
++2 to Chilling Armor ([Class] only)
+

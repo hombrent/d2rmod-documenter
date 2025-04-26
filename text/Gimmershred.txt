@@ -1,0 +1,15 @@
+============================
+Gimmershred
+Base Type: flying axe
+Item Level: 78
+Level Required: 70
+Required Strength: 88
+Required Dexterity: 108
++200-230% Enhanced Damage
+Adds 250-500 Fire Damage
+Adds 250-500 Cold Damage
+Adds 501-61 Lightning Damage
+Increased Stack Size
++30% Increased Attack Speed
+20-6% Chance to cast level 20-6 Lower Resist on striking
+

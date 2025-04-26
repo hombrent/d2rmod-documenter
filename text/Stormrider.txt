@@ -1,0 +1,15 @@
+============================
+Stormrider
+Base Type: Tabar
+Item Level: 49
+Level Required: 41
+Required Strength: 101
+10-5% Chance to cast level 10-5 Chain Lightning on striking
+0-10% Chance to cast level 0-10 Charged Bolt on striking
+Adds 1-200 Lightning Damage
+Adds 35-75 Damage
++100% Enhanced Damage
+Durability: 50 of 50
+Attacker Takes Lightning Damage of 15
+15% Chance to cast level 5 Charged Bolt when struck
+

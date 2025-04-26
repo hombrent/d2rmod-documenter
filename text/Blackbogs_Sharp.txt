@@ -1,0 +1,16 @@
+============================
+Blackbog's Sharp
+Base Type: Cinquedeas
+Item Level: 46
+Level Required: 38
+Required Strength: 25
+Required Dexterity: 88
+Slows Target by 50%
++50 Defense
+Adds 15-45 Damage
++30% Increased Attack Speed
++488 Poison Damage over 10.0 Seconds
++5 to Poison Dagger ([Class] only)
++4 to Poison Explosion ([Class] only)
++4 to Poison Nova ([Class] only)
+

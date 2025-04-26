@@ -1,0 +1,85 @@
+============================
+Arcanna's Tricks
+
+    ============================
+    Arcanna's Sign
+    Base Type: Amulet
+    Item Level: 20
+    Level Required: 1
+    Set: Arcanna's Tricks
+    +40 to Mana
+    Regenerate Mana 20%
+    +10% Faster Cast Rate
+
+    == Set Bonus for 2 Items ==
+    50% Better Chance of Getting Magic Items
+
+    == Set Bonus for 3 Items ==
+    Fire Resist +25%
+
+
+    ============================
+    Arcanna's Deathwand
+    Base Type: War Staff
+    Item Level: 20
+    Level Required: 1
+    Set: Arcanna's Tricks
+    +1 to All Skills
+    +25% Faster Cast Rate
+
+    == Set Bonus for 2 Items ==
+    +50 to Mana
+
+    == Set Bonus for 3 Items ==
+    Regenerate Mana 5%
+
+
+    ============================
+    Arcanna's Head
+    Base Type: Skull Cap
+    Item Level: 20
+    Level Required: 1
+    Set: Arcanna's Tricks
+    Required Strength: 15
+    Poison Resist +25%
+    +3 Life after each Kill
+    10% Damage Taken Goes To Mana
+
+    == Set Bonus for 2 Items ==
+    +10 to Energy
+
+    == Set Bonus for 3 Items ==
+    Lightning Resist +25%
+
+
+    ============================
+    Arcanna's Flesh
+    Base Type: Light Plate
+    Item Level: 20
+    Level Required: 1
+    Set: Arcanna's Tricks
+    Required Strength: 41
+    Damage Reduced by 6
+    Cold Resist +25%
+    +15% Faster Run/Walk
+
+    == Set Bonus for 2 Items ==
+    +100 Defense
+
+    == Set Bonus for 3 Items ==
+    +# Defense (Based on Character Level)
+
+
+== Set Bonus for 2 Items ==
++50 to Mana
+
+== Set Bonus for 3 Items ==
++50 to Life
+Regenerate Mana 12%
+
+== Set Bonus for full Items ==
++20% Faster Cast Rate
++6 to Mana after each Kill
++25 to Mana
++2 to All Skills
+

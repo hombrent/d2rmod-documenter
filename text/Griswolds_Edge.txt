@@ -1,0 +1,14 @@
+============================
+Griswolds Edge
+Base Type: Broad Sword
+Item Level: 23
+Level Required: 17
+Required Strength: 48
++10-12 to Minimum Fire Damage
++15-25 to Maximum Fire Damage
++100 to Attack Rating
++10% Increased Attack Speed
+Knockback
++120-80% Enhanced Damage
++12 to Strength
+

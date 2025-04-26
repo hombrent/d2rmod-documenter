@@ -1,0 +1,12 @@
+============================
+Irices Shard
+Base Type: Blade
+Item Level: 34
+Level Required: 25
+Required Strength: 35
+Required Dexterity: 51
++50% Faster Cast Rate
++50 to Mana
++55 to Attack Rating
+All Resistances +10
+

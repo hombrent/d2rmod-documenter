@@ -1,0 +1,97 @@
+============================
+Tancred's Battlegear
+
+    ============================
+    Tancred's Crowbill
+    Base Type: Military Pick
+    Item Level: 27
+    Level Required: 1
+    Set: Tancred's Battlegear
+    Required Strength: 49
+    Required Dexterity: 33
+    +4 to Attack Rating (Based on Character Level)
+    +100% Enhanced Damage
+    35% Chance of Crushing Blow
+    +12 to Maximum Damage (Based on Character Level)
+
+    == Set Bonus for 2 Items ==
+    +20 to Mana
+
+    == Set Bonus for 3 Items ==
+    +30% Increased Attack Speed
+
+
+    ============================
+    Tancred's Spine
+    Base Type: Full Plate Mail
+    Item Level: 27
+    Level Required: 1
+    Set: Tancred's Battlegear
+    Required Strength: 80
+    +50 to Life
+    +20 to Strength
+    Curse Resist +25-34%
+
+    == Set Bonus for 2 Items ==
+    +# Defense (Based on Character Level)
+
+
+    ============================
+    Tancred's Hobnails
+    Base Type: Boots
+    Item Level: 27
+    Level Required: 1
+    Set: Tancred's Battlegear
+    +25 to Life
+    +10 to Dexterity
+
+    == Set Bonus for 2 Items ==
+    +30% Faster Run/Walk
+
+    == Set Bonus for 3 Items ==
+    +10 to Strength
+
+
+    ============================
+    Tancred's Weird
+    Base Type: Amulet
+    Item Level: 27
+    Level Required: 1
+    Set: Tancred's Battlegear
+    Damage Reduced by 5
+    Magic Damage Reduced by 5
+    Adds 20 Lightning Damage
+
+    == Set Bonus for 2 Items ==
+    78% Better Chance of Getting Magic Items
+
+    == Set Bonus for 3 Items ==
+    +60 to Attack Rating
+
+
+    ============================
+    Tancred's Skull
+    Base Type: Bone Helm
+    Item Level: 27
+    Level Required: 1
+    Set: Tancred's Battlegear
+    Required Strength: 25
+    +25% Enhanced Damage
+    +80 to Attack Rating
+
+    == Set Bonus for 2 Items ==
+    All Resistances +15
+
+
+== Set Bonus for 2 Items ==
+Adds 15 Lightning Damage
+
+== Set Bonus for 3 Items ==
+5% Life stolen per hit
+
+== Set Bonus for full Items ==
+125% Extra Gold from Monsters
+All Resistances +35
+Slows Target by 35%
+5% Mana stolen per hit
+

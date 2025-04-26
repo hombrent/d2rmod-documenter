@@ -1,0 +1,10 @@
+============================
+Manald Heal
+Base Type: Ring
+Item Level: 20
+Level Required: 15
+4-7% Mana stolen per hit
+Replenish Life +5-8
++20 to Life
+Regenerate Mana 20%
+

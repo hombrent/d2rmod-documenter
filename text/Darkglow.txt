@@ -1,0 +1,13 @@
+============================
+Darkglow
+Base Type: Ring Mail
+Item Level: 19
+Level Required: 14
+Required Strength: 36
++20-30 to Life
++10-5% Maximum to all Resistances
++100 Defense vs. Melee
+All Resistances +10-15
++100-150% Enhanced Defense
+Damage Reduced by 10-6
+

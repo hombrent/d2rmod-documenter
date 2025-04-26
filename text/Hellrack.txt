@@ -1,0 +1,14 @@
+============================
+Hellrack
+Base Type: colossus crossbow
+Item Level: 84
+Level Required: 76
+Required Strength: 163
+Required Dexterity: 77
++180-230% Enhanced Damage
+Adds 400 Fire/Lightning/Cold Damage
++30% Increased Attack Speed
+100-150% Bonus to Attack Rating
+10-20% Chance to cast level 10-20 Lower Resist on striking
++18 to Immolation Arrow
+

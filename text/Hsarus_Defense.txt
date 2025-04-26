@@ -1,0 +1,59 @@
+============================
+Hsarus' Defense
+
+    ============================
+    Hsarus' Iron Heel
+    Base Type: Chain Boots
+    Item Level: 4
+    Level Required: 1
+    Set: Hsarus' Defense
+    Required Strength: 30
+    Fire Resist +25%
+    +25% Faster Run/Walk
+
+    == Set Bonus for 2 Items ==
+    +# to Attack Rating (Based on Character Level)
+    Damage +6
+
+
+    ============================
+    Hsarus' Iron Fist
+    Base Type: Buckler
+    Item Level: 4
+    Level Required: 1
+    Set: Hsarus' Defense
+    Required Strength: 12
+    Damage Reduced by 10
+    Poison Length Reduced by 75%
+    +25 to Life
+    Magic Damage Reduced by 10
+
+    == Set Bonus for 2 Items ==
+    +5 to Dexterity
+    +5 to Vitality
+
+
+    ============================
+    Hsarus' Iron Stay
+    Base Type: Belt
+    Item Level: 4
+    Level Required: 1
+    Set: Hsarus' Defense
+    Required Strength: 25
+    Cold Resist +25%
+    +25 to Life
+
+    == Set Bonus for 2 Items ==
+    +5 to Strength
+    +5 to Energy
+
+
+== Set Bonus for 2 Items ==
+Attacker Takes Damage of 8 (Based on Character Level)
+
+== Set Bonus for full Items ==
+Attacker Takes Damage of 12 (Based on Character Level)
+Cannot Be Frozen
+Lightning Resist +30%
+Poison Resist +30%
+

@@ -1,0 +1,12 @@
+============================
+Wilhelm's Pride
+Base Type: Battle Belt
+Item Level: 41
+Level Required: 42
+Set: Orphan's Call
+Required Strength: 88
++75% Enhanced Defense
+5% Mana stolen per hit
+Cold Resist +10%
+5% Life stolen per hit
+

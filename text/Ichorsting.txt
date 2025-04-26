@@ -1,0 +1,14 @@
+============================
+Ichorsting
+Base Type: Crossbow
+Item Level: 24
+Level Required: 18
+Required Strength: 40
+Required Dexterity: 33
++29 Poison Damage over 3.0 Seconds
++20 to Dexterity
++50% Piercing Attack
++50 to Attack Rating
++50% Enhanced Damage
++20% Increased Attack Speed
+

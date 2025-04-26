@@ -1,0 +1,16 @@
+============================
+Jalal's Mane
+Base Type: Dream Spirit
+Item Level: 50
+Level Required: 42
+Required Strength: 65
++2 to Druid Skill Levels
++2 to [Class Skill Tab] Skills
++150-200% Enhanced Defense
++30% Faster Hit Recovery
+20% Bonus to Attack Rating
++20 to Strength
++20 to Energy
++5 to Mana after each Kill
+All Resistances +30
+

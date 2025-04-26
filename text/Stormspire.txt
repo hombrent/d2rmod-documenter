@@ -1,0 +1,19 @@
+============================
+Stormspire
+Base Type: Giant Thresher
+Item Level: 78
+Level Required: 70
+Required Strength: 188
+Required Dexterity: 140
+Lightning Resist +50%
+5% Chance to cast level 5 Chain Lightning when struck
++200-300% Enhanced Damage
++20 to Strength
+2% Chance to cast level 0 Charged Bolt when struck
++30% Increased Attack Speed
+Repairs 1 durability in # seconds
+Adds 1-237 Lightning Damage
+10-30% Chance to cast level 10-30 Lower Resist on striking
+10-8% Life stolen per hit
+150% Bonus to Attack Rating
+

@@ -1,0 +1,13 @@
+============================
+Haemosu's Adament
+Base Type: Cuirass
+Item Level: 55
+Level Required: 44
+Set: Heaven's Brethren
+Required Strength: 65
++500 Defense
++35 Defense vs. Missile
++75 to Life
++40 Defense vs. Melee
+Requirements -20%
+

@@ -1,0 +1,16 @@
+============================
+Tancred's Weird
+Base Type: Amulet
+Item Level: 27
+Level Required: 1
+Set: Tancred's Battlegear
+Damage Reduced by 5
+Magic Damage Reduced by 5
+Adds 20 Lightning Damage
+
+== Set Bonus for 2 Items ==
+78% Better Chance of Getting Magic Items
+
+== Set Bonus for 3 Items ==
++60 to Attack Rating
+

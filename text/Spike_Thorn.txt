@@ -1,0 +1,16 @@
+============================
+Spike Thorn
+Base Type: blade barrier
+Item Level: 78
+Level Required: 70
+Required Strength: 118
++120-150% Enhanced Defense
+Attacker Takes Damage of # (Based on Character Level)
+Durability: 250 of 250
++30% Faster Hit Recovery
+Damage Reduced by 15-20%
+Requirements -30%
+25% Increased Chance of Blocking
++30% Faster Block Rate
+Damage +40-65
+

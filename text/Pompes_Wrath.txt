@@ -1,0 +1,13 @@
+============================
+Pompe's Wrath
+Base Type: Crowbill
+Item Level: 53
+Level Required: 45
+Required Strength: 94
+Required Dexterity: 70
+4-8% Chance to cast level 4-8 Volcano on striking
+Slows Target by 50%
+Adds 150-35 Fire Damage
+Knockback
++140-170% Enhanced Damage
+

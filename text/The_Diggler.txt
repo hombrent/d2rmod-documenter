@@ -1,0 +1,13 @@
+============================
+The Diggler
+Base Type: Dirk
+Item Level: 15
+Level Required: 11
+Required Dexterity: 25
++10 to Dexterity
++50% Enhanced Damage
++30% Increased Attack Speed
+Cold Resist +25%
+Fire Resist +25%
+Ignore Target's Defense
+

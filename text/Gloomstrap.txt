@@ -1,0 +1,12 @@
+============================
+Gloomstrap
+Base Type: Mesh Belt
+Item Level: 45
+Level Required: 36
+Required Strength: 58
+Increase Maximum Mana 15%
+5% Mana stolen per hit
++120-150% Enhanced Defense
++15 to Vitality
+Regenerate Mana 15%
+

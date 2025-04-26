@@ -1,0 +1,14 @@
+============================
+The Mahim-Oak Curio
+Base Type: Amulet
+Item Level: 34
+Level Required: 25
++10 to Dexterity
++10 to Strength
++10 to Energy
++10 to Vitality
++10 Defense
+10% Bonus to Attack Rating
+All Resistances +10
++10% Enhanced Defense
+

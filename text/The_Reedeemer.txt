@@ -1,0 +1,16 @@
+============================
+The Reedeemer
+Base Type: mighty scepter
+Item Level: 80
+Level Required: 72
+Required Strength: 125
+Required Dexterity: 65
++250-300% Enhanced Damage
++200-250% Damage to Demons
++2 to Paladin Skill Levels
+Requirements -60%
++2-4 to Redemption ([Class] only)
++2-4 to Holy Bolt ([Class] only)
+-33% Target Defense
+Damage +120-60
+

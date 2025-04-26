@@ -1,0 +1,12 @@
+============================
+Serpent Lord
+Base Type: Long Staff
+Item Level: 12
+Level Required: 9
++11 Poison Damage over 3.0 Seconds
+Poison Resist +50%
++10 to Mana
++30-40% Enhanced Damage
+100% Mana stolen per hit
+-50% Target Defense
+

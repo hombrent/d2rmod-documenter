@@ -1,0 +1,10 @@
+============================
+McAuley's Paragon
+Base Type: Cap
+Item Level: 20
+Level Required: 25
+Set: McAuley's Folly
+35% Better Chance of Getting Magic Items
+Attacker Takes Damage of 8
++# Defense (Based on Character Level)
+

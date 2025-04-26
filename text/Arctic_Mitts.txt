@@ -1,0 +1,16 @@
+============================
+Arctic Mitts
+Base Type: Light Gauntlets
+Item Level: 3
+Level Required: 1
+Set: Arctic Gear
+Required Strength: 45
++30 to Life
++20% Increased Attack Speed
+
+== Set Bonus for 2 Items ==
+All Resistances +15
+
+== Set Bonus for 3 Items ==
++10 to Dexterity
+

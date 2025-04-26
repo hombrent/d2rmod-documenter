@@ -1,0 +1,16 @@
+============================
+Ribcracker
+Base Type: Quarterstaff
+Item Level: 39
+Level Required: 31
+Required Strength: 25
+Adds 30-65 Damage
++200-300% Enhanced Damage
+50% Chance of Crushing Blow
++15 to Dexterity
++100 Defense
++100% Enhanced Defense
++50% Faster Hit Recovery
++50% Increased Attack Speed
+Durability: 100 of 100
+

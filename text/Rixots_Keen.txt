@@ -1,0 +1,11 @@
+============================
+Rixots Keen
+Base Type: Short Sword
+Item Level: 3
+Level Required: 2
++5 to Minimum Damage
+20% Bonus to Attack Rating
+25% Chance of Crushing Blow
++25 Defense
++100% Enhanced Damage
+

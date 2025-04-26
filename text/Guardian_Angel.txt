@@ -1,0 +1,16 @@
+============================
+Guardian Angel
+Base Type: Templar Coat
+Item Level: 53
+Level Required: 45
+Required Strength: 118
++1 to All Skills
++200-220% Enhanced Defense
++35% Faster Block Rate
++15% Maximum to all Resistances
+-# to Monster Defense Per Hit
+30% Increased Chance of Blocking
++10% Increased Attack Speed
+Requirements -30-40%
++0-6 to [Class] Skill Levels
+

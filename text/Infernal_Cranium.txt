@@ -1,0 +1,13 @@
+============================
+Infernal Cranium
+Base Type: Cap
+Item Level: 7
+Level Required: 1
+Set: Infernal Tools
+All Resistances +20
+20% Damage Taken Goes To Mana
++1 to Necromancer Skill Levels
+
+== Set Bonus for 2 Items ==
++# to Mana (Based on Character Level)
+

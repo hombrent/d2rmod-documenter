@@ -1,0 +1,16 @@
+============================
+Heavenly Garb
+Base Type: Light Plate
+Item Level: 39
+Level Required: 29
+Required Strength: 41
++150% Enhanced Defense
+All Resistances +15-30
+Hit Blinds Target +1
++20 to Energy
++125-150% Damage to Undead
++125-150% Damage to Demons
+Cannot Be Frozen
++3-5 to Mana after each Kill
++10% to Experience Gained
+

@@ -1,0 +1,15 @@
+============================
+Godstrike Arch
+Base Type: Gothic Bow
+Item Level: 54
+Level Required: 46
+Required Strength: 95
+Required Dexterity: 118
++200-250% Enhanced Damage
+100-150% Bonus to Attack Rating
++100-200% Damage to Undead
++100-200% Damage to Demons
+5-7% Chance to cast level 5-7 Fist of the Heavens on striking
++50% Increased Attack Speed
+Replenish Life +12
+

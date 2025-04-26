@@ -1,0 +1,15 @@
+============================
+Doombringer
+Base Type: Champion Sword
+Item Level: 75
+Level Required: 69
+Required Strength: 163
+Required Dexterity: 103
+Increase Maximum Life 20%
++180-250% Enhanced Damage
+40% Bonus to Attack Rating
+Repairs 1 durability in # seconds
+Adds 100-30 Damage
+3-8% Chance to cast level 3-8 Weaken on striking
+5-7% Life stolen per hit
+

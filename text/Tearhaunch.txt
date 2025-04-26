@@ -1,0 +1,14 @@
+============================
+Tearhaunch
+Base Type: Plate Boots
+Item Level: 39
+Level Required: 29
+Required Strength: 70
++35 Defense
++5 to Strength
++5 to Dexterity
++20% Faster Run/Walk
+All Resistances +10
++60-80% Enhanced Defense
++2 to MonHolyFire ([Class] only)
+

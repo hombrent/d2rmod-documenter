@@ -1,0 +1,16 @@
+============================
+Sigon's Sabot
+Base Type: Greaves
+Item Level: 9
+Level Required: 1
+Set: Sigon's Complete Steel
+Required Strength: 70
++25% Faster Run/Walk
+Cold Resist +40%
+
+== Set Bonus for 2 Items ==
++60 to Attack Rating
+
+== Set Bonus for 3 Items ==
+50% Better Chance of Getting Magic Items
+

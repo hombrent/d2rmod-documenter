@@ -1,0 +1,13 @@
+============================
+Dark Clan Crusher
+Base Type: Cudgel
+Item Level: 42
+Level Required: 34
+Required Strength: 25
++2 to Druid Skill Levels
++200% Damage to Demons
++200 to Attack Rating against Demons
++195% Enhanced Damage
+20-25% Bonus to Attack Rating
++15 Life after each Demon Kill
+

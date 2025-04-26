@@ -1,0 +1,26 @@
+============================
+M'avina's Icy Clutch
+Base Type: Battle Gauntlets
+Item Level: 21
+Level Required: 32
+Set: M'avina's Battle Hymn
+Required Strength: 88
++45-50 Defense
+Adds 100 Cold Damage
+Cannot Be Frozen
+100-150% Extra Gold from Monsters
++20-30 to Strength
++20-30 to Dexterity
+
+== Set Bonus for 2 Items ==
++15 to Vitality
+
+== Set Bonus for 3 Items ==
++25% Increased Attack Speed
+
+== Set Bonus for 4 Items ==
+-20% to Enemy Cold Resistance
+
+== Set Bonus for 5 Items ==
++20% to Cold Skill Damage
+

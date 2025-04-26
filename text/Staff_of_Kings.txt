@@ -1,0 +1,9 @@
+============================
+Staff of Kings
+Base Type: Staff
+Item Level: 0
+Level Required: 0
+Required Strength: 25
+All Resistances +10
++50% Increased Attack Speed
+

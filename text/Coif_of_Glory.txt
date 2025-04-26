@@ -1,0 +1,12 @@
+============================
+Coif of Glory
+Base Type: Helm
+Item Level: 19
+Level Required: 14
+Required Strength: 26
+Attacker Takes Lightning Damage of 7
+Hit Blinds Target +1
+Lightning Resist +15%
++100 Defense vs. Missile
++10 Defense
+

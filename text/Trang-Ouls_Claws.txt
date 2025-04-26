@@ -1,0 +1,24 @@
+============================
+Trang-Oul's Claws
+Base Type: Heavy Bracers
+Item Level: 32
+Level Required: 45
+Set: Trang-Oul's Avatar
+Required Strength: 58
++30 Defense
++20% Faster Cast Rate
+Cold Resist +30%
++2 to [Class Skill Tab] Skills
+
+== Set Bonus for 2 Items ==
++15 to Dexterity
+
+== Set Bonus for 3 Items ==
++15 to Energy
+
+== Set Bonus for 4 Items ==
++25% to Poison Skill Damage
+
+== Set Bonus for 5 Items ==
++5% to Maximum Poison Resist
+

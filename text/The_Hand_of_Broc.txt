@@ -1,0 +1,12 @@
+============================
+The Hand of Broc
+Base Type: Gloves
+Item Level: 7
+Level Required: 5
+3% Mana stolen per hit
+3% Life stolen per hit
+Poison Resist +10%
++20 to Mana
++10 Defense
++10-20% Enhanced Defense
+

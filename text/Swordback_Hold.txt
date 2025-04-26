@@ -1,0 +1,14 @@
+============================
+Swordback Hold
+Base Type: Spiked Shield
+Item Level: 20
+Level Required: 15
+Required Strength: 30
+Attacker Takes Damage of 5
+20% Increased Chance of Blocking
+50% Chance of Open Wounds
+
++30-60% Enhanced Defense
+Attacker Takes Damage of 5
++10 Defense
+

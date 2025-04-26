@@ -1,0 +1,79 @@
+============================
+Vidala's Rig
+
+    ============================
+    Vidala's Barb
+    Base Type: Long Battle Bow
+    Item Level: 19
+    Level Required: 1
+    Set: Vidala's Rig
+    Required Strength: 40
+    Required Dexterity: 50
+    +100 Poison Damage over 4.0 Seconds
+    20% Chance of Open Wounds
+    +60-75% Enhanced Damage
+
+    == Set Bonus for 2 Items ==
+    +# to Maximum Poison Damage (Based on Character Level)
+
+
+    ============================
+    Vidala's Fetlock
+    Base Type: Light Plated Boots
+    Item Level: 19
+    Level Required: 1
+    Set: Vidala's Rig
+    Required Strength: 50
+    +10 to Vitality
+    +30% Faster Run/Walk
+
+    == Set Bonus for 2 Items ==
+    All Resistances +10
+
+
+    ============================
+    Vidala's Ambush
+    Base Type: Leather Armor
+    Item Level: 19
+    Level Required: 1
+    Set: Vidala's Rig
+    Required Strength: 15
+    Fire Resist +20%
+    +15 to Dexterity
+    Lightning Resist +20%
+    12% Chance to cast level 1 Poison Nova when struck
+
+    == Set Bonus for 2 Items ==
+    +2 to Amazon Skill Levels
+
+    == Set Bonus for 3 Items ==
+    +# Defense (Based on Character Level)
+
+
+    ============================
+    Vidala's Snare
+    Base Type: Amulet
+    Item Level: 19
+    Level Required: 1
+    Set: Vidala's Rig
+    +15 to Life
+    Cold Resist +20%
+    Poison Resist +20%
+
+    == Set Bonus for 2 Items ==
+    50% Better Chance of Getting Magic Items
+
+
+== Set Bonus for 2 Items ==
++75 to Attack Rating
+7% Mana stolen per hit
+
+== Set Bonus for 3 Items ==
++15 to Dexterity
+
+== Set Bonus for full Items ==
++# to Maximum Poison Damage (Based on Character Level)
++15% to Experience Gained
++50% Piercing Attack
++10 to Strength
+

@@ -1,0 +1,13 @@
+============================
+Veil of Steel
+Base Type: Spired Helm
+Item Level: 77
+Level Required: 73
+Required Strength: 192
+All Resistances +50
++60% Enhanced Defense
++15 to Strength
++15 to Vitality
+Durability: 20 of 20
++140 Defense
+

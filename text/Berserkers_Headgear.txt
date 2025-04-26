@@ -1,0 +1,14 @@
+============================
+Berserker's Headgear
+Base Type: Helm
+Item Level: 5
+Level Required: 1
+Set: Berserker's Garb
+Required Strength: 26
++4 to Strength (Based on Character Level)
+Fire Resist +25%
++27% Faster Hit Recovery
+
+== Set Bonus for 2 Items ==
+Lightning Resist +25%
+

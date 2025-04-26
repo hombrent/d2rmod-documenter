@@ -1,0 +1,16 @@
+============================
+Angelic Wings
+Base Type: Amulet
+Item Level: 17
+Level Required: 1
+Set: Angelical Raiment
+20% Damage Taken Goes To Mana
++30 to Mana
++10% Faster Cast Rate
+
+== Set Bonus for 2 Items ==
++75 to Life
+
+== Set Bonus for 3 Items ==
++1 to All Skills
+

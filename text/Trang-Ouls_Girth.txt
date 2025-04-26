@@ -1,0 +1,27 @@
+============================
+Trang-Oul's Girth
+Base Type: Troll Belt
+Item Level: 32
+Level Required: 47
+Set: Trang-Oul's Avatar
+Required Strength: 151
++100 Defense
+Replenish Life +25
++66 to Life
+Cannot Be Frozen
+Requirements -40%
++25-50 to Mana
++20% Faster Cast Rate
+
+== Set Bonus for 2 Items ==
++15 to Vitality
+
+== Set Bonus for 3 Items ==
+Cold Resist +40%
+
+== Set Bonus for 4 Items ==
++15 Lightning Absorb
+
+== Set Bonus for 5 Items ==
++5% to Maximum Cold Resist
+

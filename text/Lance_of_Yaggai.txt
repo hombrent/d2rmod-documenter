@@ -1,0 +1,13 @@
+============================
+Lance of Yaggai
+Base Type: Spetum
+Item Level: 30
+Level Required: 22
+Required Strength: 54
+Required Dexterity: 35
+Attacker Takes Damage of 8
++1 to Minimum Lightning Damage
++60 to Maximum Lightning Damage
+All Resistances +15
++40% Increased Attack Speed
+

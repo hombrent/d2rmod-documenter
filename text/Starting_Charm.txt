@@ -1,0 +1,8 @@
+============================
+Starting Charm
+Base Type: charm
+Item Level: 1
+Level Required: 1
+-199% Better Chance of Getting Magic Items
+All Resistances -30
+

@@ -1,0 +1,14 @@
+============================
+Naj's Light Plate
+Base Type: Hellforge Plate
+Item Level: 43
+Level Required: 71
+Set: Naj's Ancient Set
+Required Strength: 196
+Requirements -60%
++65 to Life
+All Resistances +25
+45% Damage Taken Goes To Mana
++1 to All Skills
++300 Defense
+

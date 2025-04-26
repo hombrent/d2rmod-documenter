@@ -1,0 +1,15 @@
+============================
+The Generals Tan Do Li Ga
+Base Type: Flail
+Item Level: 28
+Level Required: 21
+Required Strength: 41
+Required Dexterity: 35
++1 to Minimum Damage
++20 to Maximum Damage
+Slows Target by 50%
++25 Defense
+5% Mana stolen per hit
++50-60% Enhanced Damage
++20% Increased Attack Speed
+

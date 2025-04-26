@@ -1,0 +1,14 @@
+============================
+Soulfeast Tine
+Base Type: War Fork
+Item Level: 43
+Level Required: 35
+Required Strength: 80
+Required Dexterity: 95
+Requirements -20%
+7% Life stolen per hit
+7% Mana stolen per hit
++150-190% Enhanced Damage
++150-250 to Attack Rating
+Durability: 15 of 15
+

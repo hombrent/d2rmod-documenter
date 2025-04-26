@@ -1,0 +1,18 @@
+============================
+Angelic Mantle
+Base Type: Ring Mail
+Item Level: 17
+Level Required: 1
+Set: Angelical Raiment
+Required Strength: 36
+Damage Reduced by 5
++65% Enhanced Defense
+Damage Reduced by 6%
++15% Faster Run/Walk
+
+== Set Bonus for 2 Items ==
++150 Defense
+
+== Set Bonus for 3 Items ==
+All Resistances +15
+

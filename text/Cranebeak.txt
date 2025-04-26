@@ -1,0 +1,14 @@
+============================
+Cranebeak
+Base Type: war spike
+Item Level: 71
+Level Required: 63
+Required Strength: 133
+Required Dexterity: 54
++240-300% Enhanced Damage
+Adds 1-305 Lightning Damage
++40% Increased Attack Speed
+-25% Target Defense
+20-50% Better Chance of Getting Magic Items
++8 to Raven
+

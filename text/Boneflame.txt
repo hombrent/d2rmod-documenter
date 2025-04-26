@@ -1,0 +1,13 @@
+============================
+Boneflame
+Base Type: succubae skull
+Item Level: 80
+Level Required: 72
+Required Strength: 95
++120-150% Enhanced Defense
+Level 3-5 Vigor Aura When Equipped
+15% Chance to cast level 3 Terror when struck
++2-3 to Necromancer Skill Levels
+All Resistances +20-30
++50% Piercing Attack
+

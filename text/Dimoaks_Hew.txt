@@ -1,0 +1,11 @@
+============================
+Dimoaks Hew
+Base Type: Bardiche
+Item Level: 11
+Level Required: 8
+Required Strength: 40
++15 to Dexterity
++100% Enhanced Damage
++20% Increased Attack Speed
+-8 Defense
+

@@ -1,0 +1,23 @@
+============================
+Natalya's Totem
+Base Type: Grim Helm
+Item Level: 22
+Level Required: 59
+Set: Natalya's Odium
+Required Strength: 58
++135-175 Defense
++20-30 to Dexterity
++20-30 to Strength
+All Resistances +10-20
+Magic Damage Reduced by 6-9
++1-2 to All Skills
+
+== Set Bonus for 2 Items ==
++15 to Energy
+
+== Set Bonus for 3 Items ==
++15% to Poison Skill Damage
+
+== Set Bonus for 4 Items ==
++5% to Maximum Poison Resist
+

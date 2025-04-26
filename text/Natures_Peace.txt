@@ -1,0 +1,12 @@
+============================
+Nature's Peace
+Base Type: ring
+Item Level: 77
+Level Required: 69
+Prevent Monster Heal
+Slain Monsters Rest in Peace
+Damage Reduced by 11-7
+Poison Resist +20-30%
++5 to Oak Sage
+20% Chance of Open Wounds
+

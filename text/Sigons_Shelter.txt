@@ -1,0 +1,14 @@
+============================
+Sigon's Shelter
+Base Type: Gothic Plate
+Item Level: 9
+Level Required: 1
+Set: Sigon's Complete Steel
+Required Strength: 70
++50% Enhanced Defense
+Lightning Resist +30%
++27% Faster Hit Recovery
+
+== Set Bonus for 2 Items ==
++# Defense (Based on Character Level)
+

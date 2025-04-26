@@ -1,0 +1,11 @@
+============================
+Atma's Scarab
+Base Type: Amulet
+Item Level: 60
+Level Required: 60
++39 Poison Damage over 4.0 Seconds
+Poison Resist +75%
+Attacker Takes Damage of 5
+20-22% Chance to cast level 20-22 Amplify Damage on striking
+20% Bonus to Attack Rating
+

@@ -1,0 +1,14 @@
+============================
+Wizardspike
+Base Type: Bone Knife
+Item Level: 69
+Level Required: 61
+Required Strength: 38
+Required Dexterity: 75
++# to Mana (Based on Character Level)
+Regenerate Mana 15%
+Increase Maximum Mana 15%
+All Resistances +75
+Repairs 1 durability in # seconds
++50% Faster Cast Rate
+

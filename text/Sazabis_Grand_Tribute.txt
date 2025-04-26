@@ -1,0 +1,57 @@
+============================
+Sazabi's Grand Tribute
+
+    ============================
+    Sazabi's Cobalt Redeemer
+    Base Type: Cryptic Sword
+    Item Level: 34
+    Level Required: 73
+    Set: Sazabi's Grand Tribute
+    Required Strength: 99
+    Required Dexterity: 109
+    +250% Enhanced Damage
+    Adds 25-35 Cold Damage
+    +40% Increased Attack Speed
+    +318% Damage to Demons
+    Repairs 1 durability in # seconds
+    +15 to Dexterity
+    +5 to Strength
+
+
+    ============================
+    Sazabi's Ghost Liberator
+    Base Type: Balrog Skin
+    Item Level: 34
+    Level Required: 67
+    Set: Sazabi's Grand Tribute
+    Required Strength: 165
+    +400 Defense
+    +30% Faster Hit Recovery
+    +25 to Strength
+    +300 to Attack Rating against Demons
+    +50-75 to Life
+
+
+    ============================
+    Sazabi's Mental Sheath
+    Base Type: Basinet
+    Item Level: 34
+    Level Required: 43
+    Set: Sazabi's Grand Tribute
+    Required Strength: 82
+    +100 Defense
+    +1 to All Skills
+    Fire Resist +15-20%
+    Lightning Resist +15-20%
+
+
+== Set Bonus for 2 Items ==
++40% Faster Run/Walk
+Poison Length Reduced by 75%
+
+== Set Bonus for full Items ==
+All Resistances +30
+15% Life stolen per hit
+Increase Maximum Life 27%
++1 to All Skills
+

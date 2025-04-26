@@ -1,0 +1,14 @@
+============================
+Ginther's Rift
+Base Type: Dimensional Blade
+Item Level: 45
+Level Required: 37
+Required Strength: 85
+Required Dexterity: 60
+Magic Damage Reduced by 12-7
++30% Increased Attack Speed
+Repairs 1 durability in # seconds
+Durability: 40 of 40
+Adds 120-50 Magic Damage
++100-150% Enhanced Damage
+

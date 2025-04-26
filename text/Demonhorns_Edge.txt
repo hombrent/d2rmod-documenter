@@ -1,0 +1,15 @@
+============================
+Demonhorn's Edge
+Base Type: destroyer helm
+Item Level: 69
+Level Required: 61
+Required Strength: 151
++120-160% Enhanced Defense
++20% Increased Attack Speed
+3-6% Life stolen per hit
+Attacker Takes Damage of 55-77
++3-4 to [Class Skill Tab] Skills
++3-4 to [Class Skill Tab] Skills
++3-4 to [Class Skill Tab] Skills
++100-150% Damage to Demons
+

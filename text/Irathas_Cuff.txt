@@ -1,0 +1,14 @@
+============================
+Iratha's Cuff
+Base Type: Light Gauntlets
+Item Level: 21
+Level Required: 1
+Set: Iratha's Finery
+Required Strength: 45
+Cold Resist +30%
+Adds 1-20 Lightning Damage
++15 to Life
+
+== Set Bonus for 2 Items ==
++20% Increased Attack Speed
+

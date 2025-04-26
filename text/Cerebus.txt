@@ -1,0 +1,13 @@
+============================
+Cerebus
+Base Type: blood spirit
+Item Level: 71
+Level Required: 63
+Required Strength: 86
++130-140% Enhanced Defense
++4-6 to [Class Skill Tab] Skills
+10-7% Life stolen per hit
+120-60% Bonus to Attack Rating
+33% Chance of Open Wounds
++1-2 to feral rage ([Class] only)
+

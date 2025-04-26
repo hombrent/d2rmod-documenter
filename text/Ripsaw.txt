@@ -1,0 +1,12 @@
+============================
+Ripsaw
+Base Type: Flamberge
+Item Level: 35
+Level Required: 26
+Required Strength: 70
+Required Dexterity: 49
+80% Chance of Open Wounds
++15 to Maximum Damage
+6% Mana stolen per hit
++100-80% Enhanced Damage
+

@@ -1,0 +1,15 @@
+============================
+Stormguild
+Base Type: Large Shield
+Item Level: 18
+Level Required: 13
+Required Strength: 34
+Magic Damage Reduced by 1
+Lightning Resist +25%
++30 Defense
+Adds 1-6 Lightning Damage
++50-60% Enhanced Defense
+30% Increased Chance of Blocking
+Attacker Takes Lightning Damage of 3
+Durability: 10-15 of 10-15
+

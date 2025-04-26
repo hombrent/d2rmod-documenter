@@ -1,0 +1,10 @@
+============================
+Nokozan Relic
+Base Type: Amulet
+Item Level: 14
+Level Required: 10
+Adds 3-6 Fire Damage
++10% to Maximum Fire Resist
+Fire Resist +50%
++20% Faster Hit Recovery
+

@@ -1,0 +1,23 @@
+============================
+M'avina's True Sight
+Base Type: Diadem
+Item Level: 21
+Level Required: 59
+Set: M'avina's Battle Hymn
++150 Defense
+Replenish Life +10
++30% Increased Attack Speed
++25 to Mana
+
+== Set Bonus for 2 Items ==
++2 to All Skills
+
+== Set Bonus for 3 Items ==
+50% Bonus to Attack Rating
+
+== Set Bonus for 4 Items ==
+All Resistances +25
+
+== Set Bonus for 5 Items ==
++5% to Maximum Cold Resist
+

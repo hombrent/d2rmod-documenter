@@ -1,0 +1,13 @@
+============================
+Cow King's Hoofs
+Base Type: Heavy Boots
+Item Level: 20
+Level Required: 13
+Set: Cow King's Leathers
+Required Strength: 18
++25-35 Defense
++30% Faster Run/Walk
+25% Better Chance of Getting Magic Items
++20 to Dexterity
+Adds 25-35 Fire Damage
+

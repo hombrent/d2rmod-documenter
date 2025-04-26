@@ -1,0 +1,14 @@
+============================
+Athena's Wrath
+Base Type: Battle Scythe
+Item Level: 50
+Level Required: 42
+Required Strength: 82
+Required Dexterity: 82
++1-3 to Druid Skill Levels
++15 to Dexterity
++30% Increased Attack Speed
++# to Life (Based on Character Level)
++# to Maximum Damage (Based on Character Level)
++150-180% Enhanced Damage
+

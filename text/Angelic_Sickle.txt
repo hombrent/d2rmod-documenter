@@ -1,0 +1,19 @@
+============================
+Angelic Sickle
+Base Type: Saber
+Item Level: 17
+Level Required: 1
+Set: Angelical Raiment
+Required Strength: 25
+Required Dexterity: 25
++75% Enhanced Damage
++250% Damage to Undead
++8% Damage to Undead (Based on Character Level)
+
+== Set Bonus for 2 Items ==
+Adds 20 Magic Damage
++16 to Maximum Damage (Based on Character Level)
+
+== Set Bonus for 3 Items ==
++30% Increased Attack Speed
+

@@ -1,0 +1,11 @@
+============================
+Griffon's Eye
+Base Type: diadem
+Item Level: 84
+Level Required: 76
++100-200 Defense
++25% Faster Cast Rate
++1 to All Skills
++10-15% to Lightning Skill Damage
+-15-20% to Enemy Lightning Resistance
+

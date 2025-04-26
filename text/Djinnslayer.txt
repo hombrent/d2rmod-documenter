@@ -1,0 +1,14 @@
+============================
+Djinnslayer
+Base Type: ataghan
+Item Level: 73
+Level Required: 65
+Required Strength: 138
+Required Dexterity: 95
++300-400% Damage to Demons
+Adds 500 Magic Damage
+25% Chance of Crushing Blow
++200-300 to Attack Rating against Demons
++20% Increased Attack Speed
+Level 7-9 Redemption Aura When Equipped
+

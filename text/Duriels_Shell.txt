@@ -1,0 +1,17 @@
+============================
+Duriel's Shell
+Base Type: Cuirass
+Item Level: 49
+Level Required: 41
+Required Strength: 65
++15-20 to Strength
++20% Faster Hit Recovery
++# to Life (Based on Character Level)
++180-220% Enhanced Defense
+Fire Resist +40%
+Lightning Resist +40%
+Poison Resist +40%
+Cold Resist +60%
+Cannot Be Frozen
+Durability: 100 of 100
+

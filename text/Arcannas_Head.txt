@@ -1,0 +1,17 @@
+============================
+Arcanna's Head
+Base Type: Skull Cap
+Item Level: 20
+Level Required: 1
+Set: Arcanna's Tricks
+Required Strength: 15
+Poison Resist +25%
++3 Life after each Kill
+10% Damage Taken Goes To Mana
+
+== Set Bonus for 2 Items ==
++10 to Energy
+
+== Set Bonus for 3 Items ==
+Lightning Resist +25%
+

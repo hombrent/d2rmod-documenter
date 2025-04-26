@@ -1,0 +1,14 @@
+============================
+Endlesshail
+Base Type: Double Bow
+Item Level: 44
+Level Required: 36
+Required Strength: 58
+Required Dexterity: 73
+Cold Resist +35%
++40 to Mana
++50 Defense vs. Missile
++3-5 to Strafe ([Class] only)
++180-220% Enhanced Damage
+Adds 15-30 Cold Damage
+

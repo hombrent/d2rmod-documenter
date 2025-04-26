@@ -1,0 +1,12 @@
+============================
+Treads of Cthon
+Base Type: Chain Boots
+Item Level: 20
+Level Required: 15
+Required Strength: 30
++30% Faster Run/Walk
++50 Defense vs. Missile
++20 to Life
++12 Defense
++30-40% Enhanced Defense
+

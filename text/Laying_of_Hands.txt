@@ -1,0 +1,13 @@
+============================
+Laying of Hands
+Base Type: Bramble Mitts
+Item Level: 39
+Level Required: 63
+Set: The Disciple
+Required Strength: 50
++25 Defense
++20% Increased Attack Speed
+Fire Resist +50%
++150-200% Damage to Demons
+10-3% Chance to cast level 10-3 Holy Bolt on striking
+

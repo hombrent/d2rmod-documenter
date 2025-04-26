@@ -1,0 +1,11 @@
+============================
+The Stone of Jordan
+Base Type: Ring
+Item Level: 39
+Level Required: 29
++20 to Mana
+Increase Maximum Mana 25%
++1 to Minimum Lightning Damage
++1 to All Skills
++12 to Maximum Lightning Damage
+

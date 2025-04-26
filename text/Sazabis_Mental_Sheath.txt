@@ -1,0 +1,12 @@
+============================
+Sazabi's Mental Sheath
+Base Type: Basinet
+Item Level: 34
+Level Required: 43
+Set: Sazabi's Grand Tribute
+Required Strength: 82
++100 Defense
++1 to All Skills
+Fire Resist +15-20%
+Lightning Resist +15-20%
+

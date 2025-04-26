@@ -1,0 +1,19 @@
+============================
+Tal Rasha's Fire-Spun Cloth
+Base Type: Mesh Belt
+Item Level: 26
+Level Required: 53
+Set: Tal Rasha's Wrappings
+Required Strength: 58
+Requirements -20%
++30 to Mana
++20 to Dexterity
+37% Damage Taken Goes To Mana
+10-15% Better Chance of Getting Magic Items
+
+== Set Bonus for 2 Items ==
++60 Defense
+
+== Set Bonus for 3 Items ==
++10% Faster Cast Rate
+

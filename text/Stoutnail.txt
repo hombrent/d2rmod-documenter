@@ -1,0 +1,10 @@
+============================
+Stoutnail
+Base Type: Spiked Club
+Item Level: 7
+Level Required: 5
+Attacker Takes Damage of 10-3
++100% Enhanced Damage
++7 to Vitality
+Magic Damage Reduced by 2
+

@@ -1,0 +1,17 @@
+============================
+Lightsabre
+Base Type: Phase Blade
+Item Level: 66
+Level Required: 58
+Required Strength: 25
+Required Dexterity: 136
+0-5% Chance to cast level 0-5 Chain Lightning on attack
+Ignore Target's Defense
++25 Lightning Absorb
++20% Increased Attack Speed
+Adds 120-60 Magic Damage
+Adds 1-200 Lightning Damage
+5-7% Mana stolen per hit
++150-200% Enhanced Damage
+Adds 10-30 Damage
+

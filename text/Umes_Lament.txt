@@ -1,0 +1,11 @@
+============================
+Umes Lament
+Base Type: Grim Wand
+Item Level: 38
+Level Required: 28
++2 to Necromancer Skill Levels
++40 to Mana
++20% Faster Cast Rate
++3 to Terror ([Class] only)
++2 to Decrepify ([Class] only)
+

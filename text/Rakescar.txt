@@ -1,0 +1,14 @@
+============================
+Rakescar
+Base Type: War Axe
+Item Level: 36
+Level Required: 27
+Required Strength: 67
++128 to Minimum Poison Damage
++128 to Maximum Poison Damage
+Poison Length 3 seconds
++50 to Attack Rating
+Poison Resist +50%
++150-75% Enhanced Damage
++30% Increased Attack Speed
+

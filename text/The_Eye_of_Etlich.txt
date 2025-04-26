@@ -1,0 +1,12 @@
+============================
+The Eye of Etlich
+Base Type: Amulet
+Item Level: 20
+Level Required: 15
++10-40 Defense vs. Missile
++1 to All Skills
+3-7% Life stolen per hit
++1-2 to Minimum Cold Damage
++3-5 to Maximum Cold Damage
+
+

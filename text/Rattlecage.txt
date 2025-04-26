@@ -1,0 +1,14 @@
+============================
+Rattlecage
+Base Type: Gothic Plate
+Item Level: 39
+Level Required: 29
+Required Strength: 70
++20% Faster Hit Recovery
+35-40% Chance of Crushing Blow
++200% Enhanced Defense
+Requirements -40%
+15-20% Deadly Strike
++10-15 to Strength
+Level 10 blessed aim Aura When Equipped
+

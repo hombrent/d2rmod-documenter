@@ -1,0 +1,15 @@
+============================
+Heart Carver
+Base Type: Rondel
+Item Level: 44
+Level Required: 36
+Required Strength: 25
+Required Dexterity: 58
+35% Deadly Strike
+Ignore Target's Defense
+Adds 15-35 Damage
++190-240% Enhanced Damage
++4 to Find Potion ([Class] only)
++4 to Find Item ([Class] only)
++4 to Grim Ward ([Class] only)
+

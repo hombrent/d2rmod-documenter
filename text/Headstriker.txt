@@ -1,0 +1,13 @@
+============================
+Headstriker
+Base Type: Battle Sword
+Item Level: 47
+Level Required: 39
+Required Strength: 92
+Required Dexterity: 43
+Prevent Monster Heal
++15 to Strength
+#% Deadly Strike (Based on Character Level)
++# to Maximum Damage (Based on Character Level)
++150% Enhanced Damage
+

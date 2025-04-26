@@ -1,0 +1,17 @@
+============================
+Magewrath
+Base Type: Rune Bow
+Item Level: 51
+Level Required: 43
+Required Strength: 73
+Required Dexterity: 103
+15% Mana stolen per hit
+Magic Damage Reduced by 13-9
++3 to Guided Arrow ([Class] only)
++200-250 to Attack Rating
++10 to Dexterity
+Hit Blinds Target +1
+Adds 25-50 Damage
++120-150% Enhanced Damage
++1 to Amazon Skill Levels
+

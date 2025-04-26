@@ -1,0 +1,14 @@
+============================
+Krintizs Skewer
+Base Type: Saber
+Item Level: 14
+Level Required: 10
+Required Strength: 25
+Required Dexterity: 25
+Ignore Target's Defense
++10 to Strength
++10 to Dexterity
+7% Mana stolen per hit
++50% Enhanced Damage
+Adds 3-7 Damage
+

@@ -1,0 +1,11 @@
+============================
+The Dragon Chang
+Base Type: Spear
+Item Level: 11
+Level Required: 8
+Required Dexterity: 20
++35 to Attack Rating
++10 to Minimum Damage
++100% Damage to Undead
+Adds 3-6 Fire Damage
+

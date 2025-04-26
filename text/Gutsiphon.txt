@@ -1,0 +1,13 @@
+============================
+Gutsiphon
+Base Type: demon crossbow
+Item Level: 79
+Level Required: 71
+Required Strength: 141
+Required Dexterity: 98
++160-220% Enhanced Damage
++33% Piercing Attack
+12-18% Life stolen per hit
+Slows Target by 25%
+33% Chance of Open Wounds
+

@@ -1,0 +1,12 @@
+============================
+Visceratuant
+Base Type: Defender
+Item Level: 36
+Level Required: 28
+Required Strength: 38
++1 to Sorceress Skill Levels
++30% Faster Block Rate
+30% Increased Chance of Blocking
++100-150% Enhanced Defense
+Attacker Takes Lightning Damage of 10
+

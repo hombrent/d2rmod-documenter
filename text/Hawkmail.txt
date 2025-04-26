@@ -1,0 +1,14 @@
+============================
+Hawkmail
+Base Type: Scale Mail
+Item Level: 20
+Level Required: 15
+Required Strength: 44
++100-120% Enhanced Defense
++20% to Maximum Cold Resist
+Cold Resist +40%
+Cannot Be Frozen
++25% Faster Run/Walk
++20% Faster Hit Recovery
++20% Increased Attack Speed
+

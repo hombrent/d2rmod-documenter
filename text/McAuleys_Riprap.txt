@@ -1,0 +1,12 @@
+============================
+McAuley's Riprap
+Base Type: Heavy Boots
+Item Level: 20
+Level Required: 20
+Set: McAuley's Folly
+Required Strength: 18
++40% Faster Run/Walk
++100 to Attack Rating
++5 to Strength
++10 to Dexterity
+

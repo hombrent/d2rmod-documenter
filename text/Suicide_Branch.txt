@@ -1,0 +1,13 @@
+============================
+Suicide Branch
+Base Type: Burnt Wand
+Item Level: 41
+Level Required: 33
+Required Strength: 25
+Attacker Takes Damage of 25
++50% Faster Cast Rate
+All Resistances +10
+Increase Maximum Mana 10%
++40 to Life
++1 to All Skills
+

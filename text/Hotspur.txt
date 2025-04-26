@@ -1,0 +1,12 @@
+============================
+Hotspur
+Base Type: Leather Boots
+Item Level: 7
+Level Required: 5
++15% to Maximum Fire Resist
++15 to Life
+Adds 3-6 Fire Damage
++6 Defense
+Fire Resist +45%
++10-20% Enhanced Defense
+

@@ -1,0 +1,18 @@
+============================
+Gargoyle's Bite
+Base Type: winged harpoon
+Item Level: 78
+Level Required: 70
+Required Strength: 76
+Required Dexterity: 145
++250-350% Enhanced Damage
+Replenishes quantity
++292 Poison Damage over 10.0 Seconds
+11-15% Life stolen per hit
++3 to Plague Javelin ([Class] only)
++3 to Poison Javelin ([Class] only)
+-20-25% to Enemy Poison Resistance
++1-3 to Poison Skills
++30% Increased Attack Speed
+Required Level: 10
+

@@ -1,0 +1,15 @@
+============================
+Undead Crown
+Base Type: Crown
+Item Level: 39
+Level Required: 29
+Required Strength: 55
+5% Life stolen per hit
++40 Defense
+Poison Resist +50%
+Half Freeze Duration
++30-60% Enhanced Defense
++50% Damage to Undead
++100-50 to Attack Rating against Undead
++3 to Skeleton Mastery ([Class] only)
+

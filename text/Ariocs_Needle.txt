@@ -1,0 +1,14 @@
+============================
+Arioc's Needle
+Base Type: hyperion spear
+Item Level: 85
+Level Required: 81
+Required Strength: 155
+Required Dexterity: 120
++180-230% Enhanced Damage
++393 Poison Damage over 10.0 Seconds
+50% Deadly Strike
+Ignore Target's Defense
++2-4 to All Skills
++30% Increased Attack Speed
+

@@ -1,0 +1,12 @@
+============================
+Credendum
+Base Type: Mithril Coil
+Item Level: 39
+Level Required: 65
+Set: The Disciple
+Required Strength: 106
++50 Defense
++10 to Strength
++10 to Dexterity
+All Resistances +15
+

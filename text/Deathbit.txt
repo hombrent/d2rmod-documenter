@@ -1,0 +1,15 @@
+============================
+Deathbit
+Base Type: battle dart
+Item Level: 52
+Level Required: 44
+Required Strength: 25
+Required Dexterity: 52
+50% Deadly Strike
++200-269% Enhanced Damage
+-50% Target Defense
+7-9% Life stolen per hit
+4-6% Mana stolen per hit
+Replenishes quantity
++30% Increased Attack Speed
+

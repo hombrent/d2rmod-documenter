@@ -1,0 +1,13 @@
+============================
+Lance Guard
+Base Type: Barbed Shield
+Item Level: 43
+Level Required: 35
+Required Strength: 65
++50 to Life
++30% Faster Hit Recovery
+15% Damage Taken Goes To Mana
+Attacker Takes Damage of 47
++120-70% Enhanced Defense
+20% Deadly Strike
+

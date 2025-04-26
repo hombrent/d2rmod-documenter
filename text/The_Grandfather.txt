@@ -1,0 +1,14 @@
+============================
+The Grandfather
+Base Type: Colossus Blade
+Item Level: 85
+Level Required: 81
+Required Strength: 189
+Required Dexterity: 110
++20 to all Attributes
+50% Bonus to Attack Rating
++80 to Life
++# to Maximum Damage (Based on Character Level)
+Repairs 1 durability in # seconds
++200-300% Enhanced Damage
+

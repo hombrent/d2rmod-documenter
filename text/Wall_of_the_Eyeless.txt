@@ -1,0 +1,13 @@
+============================
+Wall of the Eyeless
+Base Type: Bone Shield
+Item Level: 27
+Level Required: 20
+Required Strength: 25
++5 to Mana after each Kill
+3% Mana stolen per hit
++20% Faster Cast Rate
+Poison Resist +20%
++30-40% Enhanced Defense
++10 Defense
+

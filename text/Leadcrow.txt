@@ -1,0 +1,14 @@
+============================
+Leadcrow
+Base Type: Light Crossbow
+Item Level: 12
+Level Required: 9
+Required Strength: 21
+Required Dexterity: 27
++10 to Dexterity
++10 to Life
++70% Enhanced Damage
+Poison Resist +30%
+25% Deadly Strike
++40 to Attack Rating
+

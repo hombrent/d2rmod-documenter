@@ -1,0 +1,13 @@
+============================
+Runemaster
+Base Type: ettin axe
+Item Level: 80
+Level Required: 72
+Required Strength: 145
+Required Dexterity: 45
++270-320% Enhanced Damage
++20% Increased Attack Speed
++5% to Maximum Cold Resist
+Cannot Be Frozen
+Ignore Target's Defense
+

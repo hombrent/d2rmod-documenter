@@ -1,0 +1,7 @@
+============================
+Scale Charm
+Base Type: charm
+Item Level: 1
+Level Required: 90
+( 0.875% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
+

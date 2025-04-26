@@ -1,0 +1,12 @@
+============================
+Valkiry Wing
+Base Type: Winged Helm
+Item Level: 52
+Level Required: 44
+Required Strength: 115
++150-200% Enhanced Defense
++20% Faster Run/Walk
++20% Faster Hit Recovery
++1-2 to Amazon Skill Levels
++2-4 to Mana after each Kill
+

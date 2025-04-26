@@ -1,0 +1,17 @@
+============================
+Earthshifter
+Base Type: thunder maul
+Item Level: 77
+Level Required: 69
+Required Strength: 253
++250-300% Enhanced Damage
+50% Chance to cast level 50 Volcano on striking
+35% Chance of Crushing Blow
++60% Increased Attack Speed
++14 to Volcano
++7 to [Class Skill Tab] Skills
++60% Faster Cast Rate
+10-5% Chance to cast level 10-5 Lower Resist on striking
+Requirements -30-50%
+6% Mana stolen per hit
+

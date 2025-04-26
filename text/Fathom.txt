@@ -1,0 +1,12 @@
+============================
+Fathom
+Base Type: dimensional shard
+Item Level: 81
+Level Required: 73
++3 to Sorceress Skill Levels
++15-30% to Cold Skill Damage
++40% Faster Cast Rate
+Fire Resist +25-40%
+Lightning Resist +25-40%
+-10-20% to Enemy Cold Resistance
+

@@ -1,0 +1,14 @@
+============================
+Deathcleaver
+Base Type: berserker axe
+Item Level: 78
+Level Required: 70
+Required Strength: 138
+Required Dexterity: 59
++250-330% Enhanced Damage
+66% Deadly Strike
+-50% Target Defense
++40% Increased Attack Speed
++6-9 Life after each Kill
+10-15% Chance of Crushing Blow
+

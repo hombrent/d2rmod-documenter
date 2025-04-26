@@ -1,0 +1,13 @@
+============================
+Bloodthief
+Base Type: Brandistock
+Item Level: 23
+Level Required: 17
+Required Strength: 40
+Required Dexterity: 50
+35% Chance of Open Wounds
++10 to Strength
+12-8% Life stolen per hit
++26 to Life
++50-70% Enhanced Damage
+

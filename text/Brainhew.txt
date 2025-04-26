@@ -1,0 +1,13 @@
+============================
+Brainhew
+Base Type: Great Axe
+Item Level: 34
+Level Required: 25
+Required Strength: 63
+Required Dexterity: 39
++14 to Minimum Damage
++25 to Mana
+10-13% Mana stolen per hit
++50-80% Enhanced Damage
+Adds 15-35 Fire Damage
+

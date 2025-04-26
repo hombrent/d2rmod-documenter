@@ -1,0 +1,16 @@
+============================
+Herald of Zakarum
+Base Type: Aerin Shield
+Item Level: 50
+Level Required: 42
+Required Strength: 89
++2 to Paladin Skill Levels
++2 to [Class Skill Tab] Skills
++150-200% Enhanced Defense
++30% Faster Block Rate
+30% Increased Chance of Blocking
++20 to Strength
++20 to Vitality
+20% Bonus to Attack Rating
+All Resistances +50
+

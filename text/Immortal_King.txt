@@ -1,0 +1,179 @@
+============================
+Immortal King
+
+    ============================
+    Immortal King's Will
+    Base Type: Avenger Guard
+    Item Level: 37
+    Level Required: 47
+    Set: Immortal King
+    Required Strength: 65
+    +125 Defense
+    40-50% Extra Gold from Monsters
+    +1-3 to [Class Skill Tab] Skills
+    30-45% Better Chance of Getting Magic Items
+    Fire Resist +30%
+
+    == Set Bonus for 2 Items ==
+    +15 to Energy
+
+    == Set Bonus for 3 Items ==
+    +15 to Vitality
+
+    == Set Bonus for 4 Items ==
+    +15 to Strength
+
+    == Set Bonus for 5 Items ==
+    +15 to Dexterity
+
+
+    ============================
+    Immortal King's Soul Cage
+    Base Type: Sacred Armor
+    Item Level: 37
+    Level Required: 76
+    Set: Immortal King
+    Required Strength: 232
+    +400 Defense
+    20% Chance to cast level 5 Enchant when struck
+    +2-3  to Barbarian Skill Levels
+    Poison Resist +50%
+    Requirements -30-50%
+    +40% Faster Cast Rate
+
+    == Set Bonus for 2 Items ==
+    +25% Faster Hit Recovery
+
+    == Set Bonus for 3 Items ==
+    Cold Resist +40%
+
+    == Set Bonus for 4 Items ==
+    Fire Resist +40%
+
+    == Set Bonus for 5 Items ==
+    Lightning Resist +40%
+
+
+    ============================
+    Immortal King's Detail
+    Base Type: War Belt
+    Item Level: 37
+    Level Required: 29
+    Set: Immortal King
+    Required Strength: 110
+    +36 Defense
+    Fire Resist +28%
+    Lightning Resist +31%
+    +25 to Strength
+
+    == Set Bonus for 2 Items ==
+    +105 Defense
+
+    == Set Bonus for 3 Items ==
+    +25% Faster Hit Recovery
+
+    == Set Bonus for 4 Items ==
+    +100% Enhanced Defense
+
+    == Set Bonus for 5 Items ==
+    Damage Reduced by 30%
+
+
+    ============================
+    Immortal King's Forge
+    Base Type: War Gauntlets
+    Item Level: 37
+    Level Required: 30
+    Set: Immortal King
+    Required Strength: 110
+    +65 Defense
+    +20-30 to Strength
+    +20-30 to Dexterity
+    12% Chance to cast level 20 Static Field when struck
+    +40 to Life
+    +10-15 to Vitality
+
+    == Set Bonus for 2 Items ==
+    +25% Increased Attack Speed
+
+    == Set Bonus for 3 Items ==
+    +120 Defense
+
+    == Set Bonus for 4 Items ==
+    10% Life stolen per hit
+
+    == Set Bonus for 5 Items ==
+    10% Mana stolen per hit
+
+
+    ============================
+    Immortal King's Pillar
+    Base Type: War Boots
+    Item Level: 37
+    Level Required: 31
+    Set: Immortal King
+    Required Strength: 125
+    +75 Defense
+    +40% Faster Run/Walk
+    +110 to Attack Rating
+    Damage Reduced by 3-5%
+    Magic Resist +30-40%
+    +10% Faster Cast Rate
+
+    == Set Bonus for 2 Items ==
+    25% Better Chance of Getting Magic Items
+
+    == Set Bonus for 3 Items ==
+    +2 to [Class Skill Tab] Skills
+
+    == Set Bonus for 4 Items ==
+    +160 Defense
+
+    == Set Bonus for 5 Items ==
+    Half Freeze Duration
+
+
+    ============================
+    Immortal King's Stone Crusher
+    Base Type: Ogre Maul
+    Item Level: 37
+    Level Required: 76
+    Set: Immortal King
+    Required Strength: 225
+    Repairs 1 durability in # seconds
+    +40% Increased Attack Speed
+    +250-300% Enhanced Damage
+    +250% Damage to Undead
+    35-40% Chance of Crushing Blow
+    +250% Damage to Demons
+    Requirements -40%
+    +2 to [Class Skill Tab] Skills
+
+    == Set Bonus for 2 Items ==
+    Adds 211-397 Fire Damage
+
+    == Set Bonus for 3 Items ==
+    Adds 477-7 Lightning Damage
+
+    == Set Bonus for 4 Items ==
+    +204 Poison Damage over 6.0 Seconds
+
+    == Set Bonus for 5 Items ==
+    Adds 250-361 Magic Damage
+
+
+== Set Bonus for 2 Items ==
++50 to Attack Rating
+
+== Set Bonus for 3 Items ==
++75 to Attack Rating
+
+== Set Bonus for 4 Items ==
++125 to Attack Rating
+
+== Set Bonus for full Items ==
+All Resistances +50
++2 to All Skills
++150 to Life
+Magic Damage Reduced by 30
+

@@ -1,0 +1,10 @@
+============================
+The Gnasher
+Base Type: Hand Axe
+Item Level: 7
+Level Required: 5
++8 to Strength
+50% Chance of Open Wounds
+20% Chance of Crushing Blow
++60-70% Enhanced Damage
+

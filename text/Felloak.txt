@@ -1,0 +1,12 @@
+============================
+Felloak
+Base Type: Club
+Item Level: 4
+Level Required: 3
+Lightning Resist +60%
+Fire Resist +20%
+Knockback
++6 to Minimum Fire Damage
++8 to Maximum Fire Damage
++70-80% Enhanced Damage
+

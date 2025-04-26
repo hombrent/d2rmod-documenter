@@ -1,0 +1,15 @@
+============================
+Eaglehorn
+Base Type: Crusader Bow
+Item Level: 77
+Level Required: 69
+Required Strength: 97
+Required Dexterity: 121
+Ignore Target's Defense
++# to Attack Rating (Based on Character Level)
++#% Enhanced Maximum Damage (Based on Character Level)
++200% Enhanced Damage
++2 to Amazon Skill Levels
++25 to Dexterity
++7 to Valkyrie ([Class] only)
+

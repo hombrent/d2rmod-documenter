@@ -1,0 +1,13 @@
+============================
+Nightsmoke
+Base Type: Belt
+Item Level: 27
+Level Required: 20
+Required Strength: 25
+All Resistances +10
+50% Damage Taken Goes To Mana
++20 to Mana
+Damage Reduced by 2
++15 Defense
++30-50% Enhanced Defense
+

@@ -1,0 +1,14 @@
+============================
+Whichwild String
+Base Type: Short Siege Bow
+Item Level: 47
+Level Required: 39
+Required Strength: 65
+Required Dexterity: 80
+20-22% Chance to cast level 20-22 Amplify Damage on striking
+All Resistances +40
+#% Deadly Strike (Based on Character Level)
++180-200% Enhanced Damage
+Fires Magic Arrows
++20% Increased Attack Speed
+

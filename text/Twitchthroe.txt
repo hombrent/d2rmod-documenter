@@ -1,0 +1,15 @@
+============================
+Twitchthroe
+Base Type: Studded Leather
+Item Level: 22
+Level Required: 16
+Required Strength: 27
++25% Increased Attack Speed
++10-20 to Dexterity
+40% Increased Chance of Blocking
++30 to Life
++10-20 to Strength
++20% Faster Hit Recovery
+Magic Damage Reduced by 6-9
++25-35% Piercing Attack
+

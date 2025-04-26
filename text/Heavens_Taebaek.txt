@@ -1,0 +1,16 @@
+============================
+Heaven's Taebaek
+Base Type: Ward
+Item Level: 55
+Level Required: 81
+Set: Heaven's Brethren
+Required Strength: 185
++50 Defense
++100 to Mana
+Lightning Resist +30%
+Attacker Takes Damage of 30
+Repairs 1 durability in # seconds
+25% Increased Chance of Blocking
++30% Faster Block Rate
++40% Faster Cast Rate
+

@@ -1,0 +1,10 @@
+============================
+Neverfrost
+Base Type: jewel
+Item Level: 78
+Level Required: 29
++1-3% Faster Cast Rate
++10-5% Increased Attack Speed
+Cannot Be Frozen
++2% to Experience Gained
+

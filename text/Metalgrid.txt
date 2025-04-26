@@ -1,0 +1,12 @@
+============================
+Metalgrid
+Base Type: amulet
+Item Level: 85
+Level Required: 81
++300-350 Defense
+All Resistances +25-35
++400-450 to Attack Rating
++20 to IronGolem
++20 to Summon Resist
++20 to Golem Mastery
+

@@ -1,0 +1,15 @@
+============================
+Coldsteel Eye
+Base Type: Cutlass
+Item Level: 39
+Level Required: 31
+Required Strength: 25
+Required Dexterity: 52
+Hit Blinds Target +1
+Slows Target by 30%
+50% Deadly Strike
+Durability: 50 of 50
++200-250% Enhanced Damage
++20% Increased Attack Speed
+6% Mana stolen per hit
+

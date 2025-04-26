@@ -1,0 +1,16 @@
+============================
+Cathan's Sigil
+Base Type: Amulet
+Item Level: 15
+Level Required: 1
+Set: Cathan's Traps
++23% Faster Hit Recovery
+Attacker Takes Lightning Damage of 10
+Regenerate Mana 15%
+
+== Set Bonus for 2 Items ==
++10 to Energy
+
+== Set Bonus for 3 Items ==
+40% Better Chance of Getting Magic Items
+

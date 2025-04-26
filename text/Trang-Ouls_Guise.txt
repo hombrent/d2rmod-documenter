@@ -1,0 +1,27 @@
+============================
+Trang-Oul's Guise
+Base Type: Bone Visage
+Item Level: 32
+Level Required: 65
+Set: Trang-Oul's Avatar
+Required Strength: 106
++100 Defense
++25% Faster Hit Recovery
+Level 15 Thorns Aura When Equipped
++150 to Mana
++2 to [Class Skill Tab] Skills
++2 to All Skills
++2 to [Class Skill Tab] Skills
+
+== Set Bonus for 2 Items ==
++15 to Energy
+
+== Set Bonus for 3 Items ==
+-25% to Enemy Fire Resistance
+
+== Set Bonus for 4 Items ==
++15 to Dexterity
+
+== Set Bonus for 5 Items ==
++5% to Maximum Lightning Resist
+

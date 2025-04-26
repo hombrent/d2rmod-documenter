@@ -1,0 +1,13 @@
+============================
+Arkaine's Valor
+Base Type: Balrog Skin
+Item Level: 85
+Level Required: 85
+Required Strength: 165
++150-180% Enhanced Defense
++30% Faster Hit Recovery
++2 to All Skills
+Damage Reduced by 10-15
++# to Vitality (Based on Character Level)
+Requirements -20%
+

@@ -1,0 +1,14 @@
+============================
+Pullspite
+Base Type: Short Battle Bow
+Item Level: 34
+Level Required: 25
+Required Strength: 30
+Required Dexterity: 40
+Adds 1-30 Lightning Damage
++8 to Strength
++28 to Attack Rating
++25% Piercing Attack
+Lightning Resist +25%
++70-90% Enhanced Damage
+

@@ -1,0 +1,15 @@
+============================
+Rockfleece
+Base Type: Field Plate
+Item Level: 38
+Level Required: 28
+Required Strength: 55
+Requirements -20%
++100-169% Enhanced Defense
+Damage Reduced by 15-20%
+Damage Reduced by 12-15
++15-20 to Strength
++20% Faster Hit Recovery
++30 to Life
++15% Faster Run/Walk
+

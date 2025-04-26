@@ -1,0 +1,8 @@
+============================
+Startin Charm
+Base Type: charm
+Item Level: 1
+Level Required: 90
+-199% Better Chance of Getting Magic Items
+All Resistances -30
+

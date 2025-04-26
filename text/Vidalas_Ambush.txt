@@ -1,0 +1,18 @@
+============================
+Vidala's Ambush
+Base Type: Leather Armor
+Item Level: 19
+Level Required: 1
+Set: Vidala's Rig
+Required Strength: 15
+Fire Resist +20%
++15 to Dexterity
+Lightning Resist +20%
+12% Chance to cast level 1 Poison Nova when struck
+
+== Set Bonus for 2 Items ==
++2 to Amazon Skill Levels
+
+== Set Bonus for 3 Items ==
++# Defense (Based on Character Level)
+

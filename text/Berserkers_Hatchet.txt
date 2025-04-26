@@ -1,0 +1,20 @@
+============================
+Berserker's Hatchet
+Base Type: Double Axe
+Item Level: 5
+Level Required: 1
+Set: Berserker's Garb
+Required Strength: 43
+Adds 10-20 Damage
+5% Mana stolen per hit
+5% Life stolen per hit
+10% Chance of Open Wounds
++20% Increased Attack Speed
+
+== Set Bonus for 2 Items ==
++50% Enhanced Damage
++10 to Strength
+
+== Set Bonus for 3 Items ==
++10 to Maximum Damage (Based on Character Level)
+

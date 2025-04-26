@@ -1,0 +1,14 @@
+============================
+Medusa's Gaze
+Base Type: aegis
+Item Level: 84
+Level Required: 76
+Required Strength: 219
++150-180% Enhanced Defense
+Slows Target by 40%
+20% Chance to cast level 10 Decrepify when struck
+5-9% Life stolen per hit
+100% Chance to cast level 44 Nova when you Die
+Cold Resist +40-80%
+Requirements -30%
+

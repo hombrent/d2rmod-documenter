@@ -1,0 +1,81 @@
+============================
+Milabrega's Regalia
+
+    ============================
+    Milabrega's Orb
+    Base Type: Kite Shield
+    Item Level: 23
+    Level Required: 1
+    Set: Milabrega's Regalia
+    Required Strength: 47
+    ( 0.625% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
+    +60 Defense
+    +25% Faster Block Rate
+
+    == Set Bonus for 2 Items ==
+    Lightning Resist +40%
+
+    == Set Bonus for 3 Items ==
+    +100% Enhanced Defense
+
+
+    ============================
+    Milabrega's Rod
+    Base Type: War Scepter
+    Item Level: 23
+    Level Required: 1
+    Set: Milabrega's Regalia
+    Required Strength: 55
+    +1 to All Skills
+    +100% Enhanced Damage
+
+    == Set Bonus for 2 Items ==
+    Adds 18-9 Cold Damage
+
+
+    ============================
+    Milabrega's Diadem
+    Base Type: Crown
+    Item Level: 23
+    Level Required: 1
+    Set: Milabrega's Regalia
+    Required Strength: 55
+    +30 to Life
+    +30 to Mana
+
+    == Set Bonus for 2 Items ==
+    Cold Resist +40%
+
+
+    ============================
+    Milabrega's Robe
+    Base Type: Ancient Armor
+    Item Level: 23
+    Level Required: 1
+    Set: Milabrega's Regalia
+    Required Strength: 100
+    +10% Faster Run/Walk
+    Damage Reduced by 5
+    Magic Damage Reduced by 5
+    +10% Faster Cast Rate
+    Requirements -45%
+
+    == Set Bonus for 2 Items ==
+    +100% Enhanced Defense
+    Fire Resist +40%
+
+
+== Set Bonus for 2 Items ==
++125 to Attack Rating
++# to Maximum Cold Damage (Based on Character Level)
+
+== Set Bonus for 3 Items ==
++125 to Attack Rating
+Cannot Be Frozen
+
+== Set Bonus for full Items ==
+8% Life stolen per hit
++2 to All Skills
+10% Mana stolen per hit
+Poison Resist +40%
+

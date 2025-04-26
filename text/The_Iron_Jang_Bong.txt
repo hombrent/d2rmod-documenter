@@ -1,0 +1,14 @@
+============================
+The Iron Jang Bong
+Base Type: War Staff
+Item Level: 38
+Level Required: 28
++30 Defense
++20% Faster Cast Rate
++100% Enhanced Damage
+50% Bonus to Attack Rating
++2 to Nova ([Class] only)
++2 to Blaze ([Class] only)
++3 to Frost Nova ([Class] only)
++2 to Sorceress Skill Levels
+

@@ -1,0 +1,11 @@
+============================
+Eschuta's temper
+Base Type: eldritch orb
+Item Level: 80
+Level Required: 72
++2-3 to Sorceress Skill Levels
++40% Faster Cast Rate
+-15-5% to Enemy Fire Resistance
+-15-5% to Enemy Lightning Resistance
++20-30 to Energy
+

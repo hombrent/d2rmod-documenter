@@ -1,0 +1,11 @@
+============================
+Telling of Beads
+Base Type: Amulet
+Item Level: 39
+Level Required: 30
+Set: The Disciple
+Poison Resist +35-50%
++1 to All Skills
+Cold Resist +18%
+Attacker Takes Damage of 10-8
+

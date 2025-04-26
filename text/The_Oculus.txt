@@ -1,0 +1,15 @@
+============================
+The Oculus
+Base Type: Swirling Crystal
+Item Level: 50
+Level Required: 42
++3 to Sorceress Skill Levels
+5% Chance to cast level 1 Teleport when struck
+All Resistances +20
++30% Faster Cast Rate
++20% Enhanced Defense
++20 to Vitality
++20 to Energy
++5 to Mana after each Kill
+50% Better Chance of Getting Magic Items
+

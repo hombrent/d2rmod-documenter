@@ -1,0 +1,16 @@
+============================
+Angelic Halo
+Base Type: Ring
+Item Level: 17
+Level Required: 1
+Set: Angelical Raiment
+Replenish Life +8
++30 to Life
++5 to Strength
+
+== Set Bonus for 2 Items ==
++# to Attack Rating (Based on Character Level)
+
+== Set Bonus for 3 Items ==
+25% Better Chance of Getting Magic Items
+

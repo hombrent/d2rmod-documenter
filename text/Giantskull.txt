@@ -1,0 +1,13 @@
+============================
+Giantskull
+Base Type: bone visage
+Item Level: 73
+Level Required: 65
+Required Strength: 106
++250-320 Defense
++25-35 to Strength
+25% Chance of Crushing Blow
+Damage Reduced by 12-21
++30-60% Enhanced Damage
++25-35 to Dexterity
+

@@ -1,0 +1,15 @@
+============================
+Spirit Ward
+Base Type: ward
+Item Level: 76
+Level Required: 68
+Required Strength: 185
++130-180% Enhanced Defense
+Cold Absorb 11-6%
+All Resistances +30-40
+20-30% Increased Chance of Blocking
++25% Faster Block Rate
+35% Chance to cast level 8 Fade when struck
+Requirements -30%
++0-6 to [Class] Skill Levels
+

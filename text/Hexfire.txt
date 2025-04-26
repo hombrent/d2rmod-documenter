@@ -1,0 +1,15 @@
+============================
+Hexfire
+Base Type: Shamshir
+Item Level: 41
+Level Required: 33
+Required Strength: 58
+Required Dexterity: 58
++6 to Hydra
+Ignore Target's Defense
+Fire Resist +25%
++10% to Maximum Fire Resist
+Adds 35-40 Damage
++140-160% Enhanced Damage
++3 to Fire Skills
+

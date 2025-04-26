@@ -1,0 +1,13 @@
+============================
+Arachnid Mesh
+Base Type: spiderweb sash
+Item Level: 87
+Level Required: 80
+Required Strength: 50
++120-90% Enhanced Defense
++20% Faster Cast Rate
++3 to Venom
++1 to All Skills
+Slows Target by 10%
+Increase Maximum Mana 5%
+

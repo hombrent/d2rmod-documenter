@@ -1,0 +1,13 @@
+============================
+Blinkbats Form
+Base Type: Leather Armor
+Item Level: 16
+Level Required: 12
+Required Strength: 15
++100 Defense vs. Missile
++30% Faster Run/Walk
++25 to Life
++25 to Mana
++3-5 to Mana after each Kill
++40% Faster Hit Recovery
+

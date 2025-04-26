@@ -1,0 +1,12 @@
+============================
+Mara's Kaleidoscope
+Base Type: Amulet
+Item Level: 80
+Level Required: 67
++2 to All Skills
+All Resistances +20-30
++5 to Strength
++5 to Dexterity
++5 to Vitality
++5 to Energy
+

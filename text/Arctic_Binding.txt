@@ -1,0 +1,15 @@
+============================
+Arctic Binding
+Base Type: Light Belt
+Item Level: 3
+Level Required: 1
+Set: Arctic Gear
+Cold Resist +40%
++30 to Mana
+
+== Set Bonus for 2 Items ==
++10% Faster Run/Walk
+
+== Set Bonus for 3 Items ==
+40% Better Chance of Getting Magic Items
+

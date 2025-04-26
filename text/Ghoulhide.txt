@@ -1,0 +1,12 @@
+============================
+Ghoulhide
+Base Type: Heavy Bracers
+Item Level: 44
+Level Required: 36
+Required Strength: 58
++# to Attack Rating against Undead (Based on Character Level)
++#% Damage to Undead (Based on Character Level)
+4-5% Mana stolen per hit
++20 to Life
++150-190% Enhanced Defense
+

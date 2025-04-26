@@ -1,0 +1,15 @@
+============================
+Lazarus Spire
+Base Type: Gnarled Staff
+Item Level: 24
+Level Required: 18
+Lightning Resist +75%
+Damage Reduced by 5
++15 to Energy
++1 to Chain Lightning ([Class] only)
++2 to Lightning ([Class] only)
++3 to Static Field ([Class] only)
+Regenerate Mana 43%
+Adds 1-28 Lightning Damage
++1 to Sorceress Skill Levels
+

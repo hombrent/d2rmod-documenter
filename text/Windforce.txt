@@ -1,0 +1,15 @@
+============================
+Windforce
+Base Type: Hydra Bow
+Item Level: 80
+Level Required: 73
+Required Strength: 134
+Required Dexterity: 167
++5 to Dexterity
++# to Maximum Damage (Based on Character Level)
+6-8% Mana stolen per hit
+Knockback
++250% Enhanced Damage
++20% Increased Attack Speed
++10 to Strength
+

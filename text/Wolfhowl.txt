@@ -1,0 +1,17 @@
+============================
+Wolfhowl
+Base Type: fury visor
+Item Level: 85
+Level Required: 79
+Required Strength: 129
++120-150% Enhanced Defense
++2-3 to [Class Skill Tab] Skills
++10-15 to Strength
++10-15 to Dexterity
++10 to Vitality
++4-6 to Wearwolf
++15 to Summon Fenris
++4-6 to Shape Shifting
++4-6 to Feral Rage
++4-6 to Fury
+

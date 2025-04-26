@@ -1,0 +1,13 @@
+============================
+Vampiregaze
+Base Type: Grim Helm
+Item Level: 49
+Level Required: 41
+Required Strength: 58
+6-8% Mana stolen per hit
+6-8% Life stolen per hit
+Damage Reduced by 15-20%
+Magic Damage Reduced by 10-15
++100% Enhanced Defense
+Adds 22-6 Cold Damage
+

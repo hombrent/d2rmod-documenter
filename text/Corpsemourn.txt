@@ -1,0 +1,14 @@
+============================
+Corpsemourn
+Base Type: Ornate Armor
+Item Level: 63
+Level Required: 55
+Required Strength: 170
++8 to Strength
++10 to Vitality
+Cold Resist +35%
+6% Chance to cast level 2 Iron Maiden when struck
++150-180% Enhanced Defense
+Adds 12-36 Fire Damage
++5 to Corpse Explosion
+

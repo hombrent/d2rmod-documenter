@@ -1,0 +1,14 @@
+============================
+Razorswitch
+Base Type: Jo Stalf
+Item Level: 36
+Level Required: 28
+Required Strength: 25
++30% Faster Cast Rate
+Attacker Takes Damage of 15
++175 to Mana
++80 to Life
+Magic Damage Reduced by 15
+All Resistances +50
++1 to All Skills
+

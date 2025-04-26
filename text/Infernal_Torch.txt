@@ -1,0 +1,12 @@
+============================
+Infernal Torch
+Base Type: Grim Wand
+Item Level: 7
+Level Required: 1
+Set: Infernal Tools
++20% Faster Cast Rate
++2 to Necromancer Skill Levels
+
+== Set Bonus for 2 Items ==
++# to Mana
+

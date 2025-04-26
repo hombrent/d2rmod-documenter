@@ -1,0 +1,14 @@
+============================
+Civerb's Cudgel
+Base Type: Grand Scepter
+Item Level: 13
+Level Required: 1
+Set: Civerb's Vestments
+Required Strength: 37
++16 to Attack Rating (Based on Character Level)
++23 to Maximum Damage
+Adds 1-20 Lightning Damage
+
+== Set Bonus for 2 Items ==
++# to Maximum Damage (Based on Character Level)
+

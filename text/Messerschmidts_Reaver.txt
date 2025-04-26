@@ -1,0 +1,17 @@
+============================
+Messerschmidt's Reaver
+Base Type: Champion Axe
+Item Level: 75
+Level Required: 70
+Required Strength: 167
+Required Dexterity: 59
++#% Enhanced Maximum Damage (Based on Character Level)
++200% Enhanced Damage
++15 to Strength
++15 to Dexterity
++15 to Vitality
++15 to Energy
+Adds 20-240 Fire Damage
+Durability: 25 of 25
+100% Bonus to Attack Rating
+

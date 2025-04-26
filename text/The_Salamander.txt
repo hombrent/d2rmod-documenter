@@ -1,0 +1,12 @@
+============================
+The Salamander
+Base Type: Battle Staff
+Item Level: 28
+Level Required: 21
+Adds 15-32 Fire Damage
+Fire Resist +30%
++1 to Fire Wall ([Class] only)
++2 to Fire Ball ([Class] only)
++3 to Warmth ([Class] only)
++2 to Fire Skills
+

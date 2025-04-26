@@ -1,0 +1,13 @@
+============================
+Skullder's Ire
+Base Type: Russet Armor
+Item Level: 50
+Level Required: 42
+Required Strength: 97
++1 to All Skills
+( 1.25% per clvl ) Better Chance of Getting Magic Items (Based on Character Level)
++160-200% Enhanced Defense
+Durability: 60 of 60
+Magic Damage Reduced by 10
+Repairs 1 durability in # seconds
+

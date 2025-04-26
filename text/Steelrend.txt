@@ -1,0 +1,13 @@
+============================
+Steelrend
+Base Type: ogre gauntlets
+Item Level: 78
+Level Required: 70
+Required Strength: 185
++100-150% Enhanced Defense
++20-25 to Strength
++100-70% Enhanced Damage
+15% Chance of Crushing Blow
+15-20% Deadly Strike
+Requirements -30-40%
+

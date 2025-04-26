@@ -1,0 +1,13 @@
+============================
+Milabrega's Rod
+Base Type: War Scepter
+Item Level: 23
+Level Required: 1
+Set: Milabrega's Regalia
+Required Strength: 55
++1 to All Skills
++100% Enhanced Damage
+
+== Set Bonus for 2 Items ==
+Adds 18-9 Cold Damage
+

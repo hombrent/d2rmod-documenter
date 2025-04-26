@@ -1,0 +1,19 @@
+============================
+Tancred's Crowbill
+Base Type: Military Pick
+Item Level: 27
+Level Required: 1
+Set: Tancred's Battlegear
+Required Strength: 49
+Required Dexterity: 33
++4 to Attack Rating (Based on Character Level)
++100% Enhanced Damage
+35% Chance of Crushing Blow
++12 to Maximum Damage (Based on Character Level)
+
+== Set Bonus for 2 Items ==
++20 to Mana
+
+== Set Bonus for 3 Items ==
++30% Increased Attack Speed
+

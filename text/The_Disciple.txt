@@ -1,0 +1,82 @@
+============================
+The Disciple
+
+    ============================
+    Telling of Beads
+    Base Type: Amulet
+    Item Level: 39
+    Level Required: 30
+    Set: The Disciple
+    Poison Resist +35-50%
+    +1 to All Skills
+    Cold Resist +18%
+    Attacker Takes Damage of 10-8
+
+
+    ============================
+    Laying of Hands
+    Base Type: Bramble Mitts
+    Item Level: 39
+    Level Required: 63
+    Set: The Disciple
+    Required Strength: 50
+    +25 Defense
+    +20% Increased Attack Speed
+    Fire Resist +50%
+    +150-200% Damage to Demons
+    10-3% Chance to cast level 10-3 Holy Bolt on striking
+
+
+    ============================
+    Rite of Passage
+    Base Type: Demonhide Boots
+    Item Level: 39
+    Level Required: 29
+    Set: The Disciple
+    Required Strength: 20
+    +25 Defense
+    +30% Faster Run/Walk
+    Cannot Be Frozen
+    +15-25 to Life
+
+
+    ============================
+    Spiritual Custodian
+    Base Type: Dusk Shroud
+    Item Level: 39
+    Level Required: 43
+    Set: The Disciple
+    Required Strength: 77
+    +305-415 Defense
+    Fire Resist +24%
+    25% Chance to cast level 3 Nova when struck
+    +24-34 Poison Damage over 2.0 Seconds
+
+
+    ============================
+    Credendum
+    Base Type: Mithril Coil
+    Item Level: 39
+    Level Required: 65
+    Set: The Disciple
+    Required Strength: 106
+    +50 Defense
+    +10 to Strength
+    +10 to Dexterity
+    All Resistances +15
+
+
+== Set Bonus for 2 Items ==
++150 Defense
+
+== Set Bonus for 3 Items ==
++21 Poison Damage over 3.0 Seconds
+
+== Set Bonus for 4 Items ==
++10 to Strength
+
+== Set Bonus for full Items ==
+All Resistances +50
++2 to All Skills
++100 to Mana
+

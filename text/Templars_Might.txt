@@ -1,0 +1,16 @@
+============================
+Templar's Might
+Base Type: sacred armor
+Item Level: 82
+Level Required: 74
+Required Strength: 232
++180-230% Enhanced Defense
++24-30% Faster Hit Recovery
++250-300 Defense vs. Missile
++20-30 to Strength
++30-40 to Life
++4-6 to [Class Skill Tab] Skills
+Level 6 conviction Aura When Equipped
+Requirements -50%
+Poison Length Reduced by 75%
+

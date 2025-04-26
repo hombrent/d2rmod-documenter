@@ -1,0 +1,9 @@
+============================
+Lenyms Cord
+Base Type: Sash
+Item Level: 10
+Level Required: 7
++15 to Mana
+Regenerate Mana 30%
+All Resistances +5
+

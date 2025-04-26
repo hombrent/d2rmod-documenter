@@ -1,0 +1,15 @@
+============================
+Toothrow
+Base Type: Sharktooth Armor
+Item Level: 56
+Level Required: 48
+Required Strength: 103
++200-240% Enhanced Defense
+10% Deadly Strike
++10-20 to Strength
+40-50% Chance of Open Wounds
+Fire Resist +30-40%
++40 to Life
++120-90% Enhanced Damage
++30% Faster Hit Recovery
+

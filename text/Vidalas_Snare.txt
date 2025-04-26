@@ -1,0 +1,13 @@
+============================
+Vidala's Snare
+Base Type: Amulet
+Item Level: 19
+Level Required: 1
+Set: Vidala's Rig
++15 to Life
+Cold Resist +20%
+Poison Resist +20%
+
+== Set Bonus for 2 Items ==
+50% Better Chance of Getting Magic Items
+

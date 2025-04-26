@@ -1,0 +1,13 @@
+============================
+Magefist
+Base Type: Light Gauntlets
+Item Level: 31
+Level Required: 23
+Required Strength: 45
++20% Faster Cast Rate
+Regenerate Mana 25%
++1 to Fire Skills
+Adds 1-6 Fire Damage
++10 Defense
++20-30% Enhanced Defense
+

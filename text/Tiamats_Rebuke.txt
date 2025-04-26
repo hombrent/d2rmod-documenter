@@ -1,0 +1,16 @@
+============================
+Tiamat's Rebuke
+Base Type: Dragon Shield
+Item Level: 46
+Level Required: 38
+Required Strength: 91
+Adds 27-53 Cold Damage
+Adds 35-95 Fire Damage
+Adds 1-120 Lightning Damage
+All Resistances +25-35
++140-200% Enhanced Defense
+5% Chance to cast level 9 Frost Nova when struck
+5% Chance to cast level 7 Nova when struck
+3% Chance to cast level 6 Hydra when struck
+Durability: 40 of 40
+

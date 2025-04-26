@@ -1,0 +1,12 @@
+============================
+Deathspade
+Base Type: Axe
+Item Level: 12
+Level Required: 9
+Required Strength: 32
+Hit Blinds Target +1
++8 to Minimum Damage
+15% Bonus to Attack Rating
++4 to Mana after each Kill
++60-70% Enhanced Damage
+

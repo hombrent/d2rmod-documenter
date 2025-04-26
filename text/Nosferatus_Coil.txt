@@ -1,0 +1,12 @@
+============================
+Nosferatu's Coil
+Base Type: vampirefang belt
+Item Level: 68
+Level Required: 51
+Required Strength: 50
++15 to Strength
++2 to Mana after each Kill
+Slows Target by 10%
+5-7% Life stolen per hit
++10% Increased Attack Speed
+

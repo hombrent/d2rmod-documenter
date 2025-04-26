@@ -1,0 +1,13 @@
+============================
+Milabrega's Diadem
+Base Type: Crown
+Item Level: 23
+Level Required: 1
+Set: Milabrega's Regalia
+Required Strength: 55
++30 to Life
++30 to Mana
+
+== Set Bonus for 2 Items ==
+Cold Resist +40%
+

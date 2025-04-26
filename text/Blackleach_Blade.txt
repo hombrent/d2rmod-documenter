@@ -1,0 +1,12 @@
+============================
+Blackleach Blade
+Base Type: Bill
+Item Level: 50
+Level Required: 42
+Required Strength: 95
+Requirements -25%
+5% Chance to cast level 5 Weaken on striking
+8% Life stolen per hit
++# to Maximum Damage (Based on Character Level)
++100-140% Enhanced Damage
+

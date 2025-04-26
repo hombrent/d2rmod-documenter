@@ -1,0 +1,14 @@
+============================
+Bloodtree Stump
+Base Type: War Club
+Item Level: 56
+Level Required: 48
+Required Strength: 124
+50% Chance of Crushing Blow
++180-220% Enhanced Damage
+All Resistances +20
++25 to Strength
++2 to [Class Skill Tab] Skills
++3 to Mace Mastery ([Class] only)
+Durability: 40 of 40
+

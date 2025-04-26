@@ -1,0 +1,12 @@
+============================
+Hwanin's Splendor
+Base Type: Grand Crown
+Item Level: 28
+Level Required: 45
+Set: Hwanin's Majesty
+Required Strength: 103
+Replenish Life +20
+Magic Damage Reduced by 10
+Cold Resist +37%
++100% Enhanced Defense
+

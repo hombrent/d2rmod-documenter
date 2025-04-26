@@ -1,0 +1,13 @@
+============================
+Hellmouth
+Base Type: War Gauntlets
+Item Level: 55
+Level Required: 47
+Required Strength: 110
+Adds 15-72 Fire Damage
+Fire Absorb 15%
++150-200% Enhanced Defense
+Durability: 15 of 15
+2-4% Chance to cast level 2-4 Meteor on striking
+12-4% Chance to cast level 12-4 Firestorm on striking
+

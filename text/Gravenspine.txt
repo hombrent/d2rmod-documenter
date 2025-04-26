@@ -1,0 +1,14 @@
+============================
+Gravenspine
+Base Type: Bone Wand
+Item Level: 27
+Level Required: 20
++10 to Strength
++10 to Dexterity
++4 to Minimum Cold Damage
++8 to Maximum Cold Damage
+
+5% Mana stolen per hit
++2 to Necromancer Skill Levels
++25-50 to Mana
+

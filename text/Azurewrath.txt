@@ -1,0 +1,15 @@
+============================
+Azurewrath
+Base Type: phase blade
+Item Level: 87
+Level Required: 85
+Required Strength: 25
+Required Dexterity: 136
+Adds 250-500 Magic Damage
++230-270% Enhanced Damage
+Level 10-13 Sanctuary Aura When Equipped
+Adds 250-500 Cold Damage
++30% Increased Attack Speed
++10-5 to all Attributes
++2 to All Skills
+

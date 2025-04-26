@@ -1,0 +1,14 @@
+============================
+The Fetid Sprinkler
+Base Type: Holy Water Sprinkler
+Item Level: 46
+Level Required: 38
+Required Strength: 76
++2 to Paladin Skill Levels
+1-5% Chance to cast level 1-5 Decrepify on striking
+1-10% Chance to cast level 1-10 Confuse on striking
++159 Poison Damage over 4.0 Seconds
++160-190% Enhanced Damage
++150-200 to Attack Rating
+Adds 15-25 Damage
+

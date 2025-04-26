@@ -1,0 +1,17 @@
+============================
+The Scalper
+Base Type: Francisca
+Item Level: 65
+Level Required: 57
+Required Strength: 25
+Required Dexterity: 80
+Replenishes quantity
++200-269% Enhanced Damage
+50% Bonus to Attack Rating
++30% Increased Attack Speed
+35% Chance of Open Wounds
+6-9% Life stolen per hit
++4 to Mana after each Kill
+Prevent Monster Heal
++20% Faster Run/Walk
+

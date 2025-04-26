@@ -1,0 +1,16 @@
+============================
+The Atlantian
+Base Type: Ancient Sword
+Item Level: 50
+Level Required: 42
+Required Strength: 127
+Required Dexterity: 88
+Durability: 100 of 100
++75 Defense
++16 to Strength
++12 to Dexterity
++8 to Vitality
++200-250% Enhanced Damage
++2 to Paladin Skill Levels
+50% Bonus to Attack Rating
+

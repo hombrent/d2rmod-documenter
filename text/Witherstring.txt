@@ -1,0 +1,13 @@
+============================
+Witherstring
+Base Type: Hunter\92s Bow
+Item Level: 18
+Level Required: 13
+Required Dexterity: 28
++30% Increased Attack Speed
++1 to Minimum Damage
++3 to Maximum Damage
++50 to Attack Rating
+Fires Magic Arrows
++40-50% Enhanced Damage
+

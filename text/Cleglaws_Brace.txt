@@ -1,0 +1,60 @@
+============================
+Cleglaw's Brace
+
+    ============================
+    Cleglaw's Tooth
+    Base Type: Long Sword
+    Item Level: 6
+    Level Required: 1
+    Set: Cleglaw's Brace
+    Required Strength: 55
+    Required Dexterity: 39
+    30% Bonus to Attack Rating
+    75% Deadly Strike
+    Adds 10 Damage
+
+    == Set Bonus for 2 Items ==
+    -11 to Maximum Damage (Based on Character Level)
+
+
+    ============================
+    Cleglaw's Claw
+    Base Type: Small Shield
+    Item Level: 6
+    Level Required: 1
+    Set: Cleglaw's Brace
+    Required Strength: 22
+    +55 Defense
+    Poison Length Reduced by 75%
+    Cold Resist +10%
+    Damage Reduced by 5
+
+    == Set Bonus for 2 Items ==
+    All Resistances +20
+
+
+    ============================
+    Cleglaw's Pincers
+    Base Type: Chain Gloves
+    Item Level: 6
+    Level Required: 1
+    Set: Cleglaw's Brace
+    Required Strength: 25
+    Fire Resist +10%
+    Slows Target by 25%
+    +20% Increased Attack Speed
+
+    == Set Bonus for 2 Items ==
+    +# to Attack Rating (Based on Character Level)
+
+
+== Set Bonus for 2 Items ==
+35% Chance of Open Wounds
+Adds 1-10 Damage
+
+== Set Bonus for full Items ==
++50 Defense
+6% Mana stolen per hit
+6% Life stolen per hit
++25% Increased Attack Speed
+

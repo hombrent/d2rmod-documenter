@@ -1,0 +1,14 @@
+============================
+Iratha's Cord
+Base Type: Heavy Belt
+Item Level: 21
+Level Required: 1
+Set: Iratha's Finery
+Required Strength: 45
++20 to Life
++8 to Minimum Damage
++15 to Dexterity
+
+== Set Bonus for 2 Items ==
++10 to Dexterity
+

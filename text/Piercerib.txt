@@ -1,0 +1,14 @@
+============================
+Piercerib
+Base Type: Composite Bow
+Item Level: 27
+Level Required: 20
+Required Strength: 25
+Required Dexterity: 35
+All Resistances +10
+30% Deadly Strike
++60 to Attack Rating
++100% Damage to Undead
++40-60% Enhanced Damage
++50% Increased Attack Speed
+

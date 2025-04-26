@@ -1,0 +1,14 @@
+============================
+Plague Bearer
+Base Type: Rune Sword
+Item Level: 49
+Level Required: 41
+Required Strength: 103
+Required Dexterity: 79
+4-5% Chance to cast level 4-5 Poison Nova on striking
++300 Poison Damage over 8.0 Seconds
+Adds 10-45 Damage
++150% Enhanced Damage
+Poison Resist +45%
++5 to Rabies ([Class] only)
+

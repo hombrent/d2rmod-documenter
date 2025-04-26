@@ -1,0 +1,13 @@
+============================
+Warpspear
+Base Type: Gothic Staff
+Item Level: 47
+Level Required: 39
+Required Strength: 25
++3 to Sorceress Skill Levels
+Ignore Target's Defense
++3 to Teleport ([Class] only)
++3 to Telekinesis ([Class] only)
++3 to Energy Shield ([Class] only)
++250 Defense vs. Missile
+

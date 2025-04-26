@@ -1,0 +1,28 @@
+============================
+Immortal King's Stone Crusher
+Base Type: Ogre Maul
+Item Level: 37
+Level Required: 76
+Set: Immortal King
+Required Strength: 225
+Repairs 1 durability in # seconds
++40% Increased Attack Speed
++250-300% Enhanced Damage
++250% Damage to Undead
+35-40% Chance of Crushing Blow
++250% Damage to Demons
+Requirements -40%
++2 to [Class Skill Tab] Skills
+
+== Set Bonus for 2 Items ==
+Adds 211-397 Fire Damage
+
+== Set Bonus for 3 Items ==
+Adds 477-7 Lightning Damage
+
+== Set Bonus for 4 Items ==
++204 Poison Damage over 6.0 Seconds
+
+== Set Bonus for 5 Items ==
+Adds 250-361 Magic Damage
+

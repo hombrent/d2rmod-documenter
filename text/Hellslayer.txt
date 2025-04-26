@@ -1,0 +1,15 @@
+============================
+Hellslayer
+Base Type: Decapitator
+Item Level: 71
+Level Required: 66
+Required Strength: 189
+Required Dexterity: 33
++# to Strength (Based on Character Level)
++# to Vitality (Based on Character Level)
++#% Enhanced Maximum Damage (Based on Character Level)
+Adds 150-250 Fire Damage
++25 to Life
++100% Enhanced Damage
+0-10% Chance to cast level 0-10 Fire Ball on attack
+

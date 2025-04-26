@@ -1,0 +1,11 @@
+============================
+Steeldriver
+Base Type: Great Maul
+Item Level: 39
+Level Required: 29
+Required Strength: 99
+Requirements -50%
++40% Increased Attack Speed
++25 to Life
++150-250% Enhanced Damage
+

@@ -54,7 +54,7 @@ class d2rmoddocumenter:
         return self.armor_objects
 
     def make_unique_item_objects(self):
-        with open("../../btdiablo.mpq/data/global/excel/uniqueitems.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/uniqueitems.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 if row["enabled"] != "1":
@@ -102,7 +102,7 @@ class d2rmoddocumenter:
                 self.item_objects_by_type[base_type][name] = item
 
     def make_set_objects(self):
-        with open("../../btdiablo.mpq/data/global/excel/sets.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/sets.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 #print(row)
@@ -146,7 +146,7 @@ class d2rmoddocumenter:
 
 
     def make_set_item_objects(self):
-        with open("../../btdiablo.mpq/data/global/excel/setitems.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/setitems.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 if row["*ID"]:
@@ -214,7 +214,7 @@ class d2rmoddocumenter:
 
 
     def make_weapon_objects(self):
-        with open("../../btdiablo.mpq/data/global/excel/weapons.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/weapons.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 #print(row)
@@ -266,7 +266,7 @@ class d2rmoddocumenter:
 
 
     def make_armor_objects(self):
-        with open("../../btdiablo.mpq/data/global/excel/armor.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/armor.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 #print(row)
@@ -338,7 +338,7 @@ class d2rmoddocumenter:
         return self.properties
 
     def read_properties(self):
-        with open("../../btdiablo.mpq/data/global/excel/properties.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/properties.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 self.properties[row["code"]] = row
@@ -368,7 +368,7 @@ class d2rmoddocumenter:
 
 
     def read_skills(self):
-        with open("../../btdiablo.mpq/data/global/excel/skills.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/skills.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 self.skills[row["*Id"]] = row 
@@ -377,13 +377,13 @@ class d2rmoddocumenter:
         return self.skills[id]
 
     def read_sets(self):
-        with open("../../btdiablo.mpq/data/global/excel/sets.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/sets.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 self.sets[row["index"]] = row 
 
     def read_item_types(self):
-        with open("../../btdiablo.mpq/data/global/excel/itemtypes.txt") as csvfile:
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/itemtypes.txt") as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 if not row["Code"]:

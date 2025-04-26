@@ -1,0 +1,14 @@
+============================
+Gorefoot
+Base Type: Heavy Boots
+Item Level: 12
+Level Required: 9
+Required Strength: 18
+
++20% Faster Run/Walk
+2% Mana stolen per hit
+Attacker Takes Damage of 2
++12 Defense
++20-30% Enhanced Defense
++2 to Leap ([Class] only)
+

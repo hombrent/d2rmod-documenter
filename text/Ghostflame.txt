@@ -1,0 +1,16 @@
+============================
+Ghostflame
+Base Type: legend spike
+Item Level: 70
+Level Required: 62
+Required Strength: 65
+Required Dexterity: 67
++4 to Fire Skills
+-10-5% to Enemy Fire Resistance
+Adds 108 Magic Damage
++10-5% to Fire Skill Damage
+Ethereal
+Indestructible
++30% Faster Cast Rate
++5% to Maximum Fire Resist
+

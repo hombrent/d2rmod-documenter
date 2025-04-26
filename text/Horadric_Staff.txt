@@ -1,0 +1,12 @@
+============================
+Horadric Staff
+Base Type: Staff
+Item Level: 0
+Level Required: 0
+Required Strength: 30
++10 to Mana
+Poison Resist +25%
++10 to Life
+All Resistances +10
++50% Increased Attack Speed
+

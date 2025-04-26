@@ -1,0 +1,12 @@
+============================
+Crushflange
+Base Type: Mace
+Item Level: 12
+Level Required: 9
+Required Strength: 27
++15 to Strength
+Knockback
+Fire Resist +50%
++50-60% Enhanced Damage
+33% Chance of Crushing Blow
+

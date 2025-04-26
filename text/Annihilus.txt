@@ -1,0 +1,10 @@
+============================
+Annihilus
+Base Type: charm
+Item Level: 110
+Level Required: 70
++1 to All Skills
++10-20 to all Attributes
+All Resistances +10-20
++10-15% to Experience Gained
+

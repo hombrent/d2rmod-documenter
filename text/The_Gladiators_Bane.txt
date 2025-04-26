@@ -1,0 +1,17 @@
+============================
+The Gladiator's Bane
+Base Type: Wire Fleece
+Item Level: 85
+Level Required: 85
+Required Strength: 111
++150% Enhanced Defense
+Magic Damage Reduced by 20-30
+Damage Reduced by 20-30
+Damage Reduced by 10-15%
+Poison Length Reduced by 125%
+Ethereal
++50% Faster Hit Recovery
++40-50 to Life
+Cannot Be Frozen
++10% Faster Run/Walk
+

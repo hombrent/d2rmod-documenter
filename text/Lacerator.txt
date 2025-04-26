@@ -1,0 +1,14 @@
+============================
+Lacerator
+Base Type: winged axe
+Item Level: 76
+Level Required: 68
+Required Strength: 96
+Required Dexterity: 122
++240-280% Enhanced Damage
+Replenishes quantity
++30% Increased Attack Speed
+Prevent Monster Heal
+33% Chance of Open Wounds
+3-33% Chance to cast level 3-33 Amplify Damage on striking
+

@@ -1,0 +1,16 @@
+============================
+Stormchaser
+Base Type: Scutum
+Item Level: 43
+Level Required: 35
+Required Strength: 71
+Adds 1-60 Lightning Damage
+20% Increased Chance of Blocking
+Half Freeze Duration
+Lightning Resist +50%
++150 to Attack Rating
++160-220% Enhanced Defense
++10% Faster Block Rate
+4% Chance to cast level 6 Blizzard when struck
+4% Chance to cast level 5 Tornado when struck
+

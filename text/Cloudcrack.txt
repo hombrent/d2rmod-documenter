@@ -1,0 +1,16 @@
+============================
+Cloudcrack
+Base Type: Gothic Sword
+Item Level: 53
+Level Required: 45
+Required Strength: 113
+Required Dexterity: 20
+6-7% Chance to cast level 6-7 Fist of the Heavens on striking
+Adds 1-240 Lightning Damage
++30 Defense
++10% to Maximum Lightning Resist
++150-200% Enhanced Damage
+Attacker Takes Lightning Damage of 15
++2 to [Class Skill Tab] Skills
++2 to [Class Skill Tab] Skills
+

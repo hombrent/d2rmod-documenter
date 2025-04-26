@@ -1,0 +1,15 @@
+============================
+Infernostride
+Base Type: Demonhide Boots
+Item Level: 37
+Level Required: 29
+Required Strength: 20
+Adds 12-33 Fire Damage
++20% Faster Run/Walk
++10% to Maximum Fire Resist
+Fire Resist +30%
++120-150% Enhanced Defense
+40-70% Extra Gold from Monsters
++15 Defense
+5% Chance to cast level 8 Blaze when struck
+

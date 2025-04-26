@@ -1,0 +1,13 @@
+============================
+Razortail
+Base Type: Sharkskin Belt
+Item Level: 39
+Level Required: 32
+Required Strength: 20
+Attacker Takes Damage of # (Based on Character Level)
++15 to Dexterity
++33% Piercing Attack
++15 Defense
++120-150% Enhanced Defense
++10 to Maximum Damage
+

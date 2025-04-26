@@ -1,0 +1,13 @@
+============================
+Stormspike
+Base Type: Stilleto
+Item Level: 49
+Level Required: 41
+Required Strength: 47
+Required Dexterity: 97
+Adds 1-120 Lightning Damage
+Attacker Takes Lightning Damage of 20
+25% Chance to cast level 3 Charged Bolt when struck
++150% Enhanced Damage
+Lightning Resist +#% (Based on Character Level)
+

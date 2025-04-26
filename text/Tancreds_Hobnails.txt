@@ -1,0 +1,15 @@
+============================
+Tancred's Hobnails
+Base Type: Boots
+Item Level: 27
+Level Required: 1
+Set: Tancred's Battlegear
++25 to Life
++10 to Dexterity
+
+== Set Bonus for 2 Items ==
++30% Faster Run/Walk
+
+== Set Bonus for 3 Items ==
++10 to Strength
+

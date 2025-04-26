@@ -1,0 +1,14 @@
+============================
+Lavagout
+Base Type: Battle Guantlets
+Item Level: 50
+Level Required: 42
+Required Strength: 88
+Fire Resist +24%
+Half Freeze Duration
+10-2% Chance to cast level 10-2 Enchant on striking
++20% Increased Attack Speed
++150-200% Enhanced Defense
+Adds 13-46 Fire Damage
+Durability: 20 of 20
+

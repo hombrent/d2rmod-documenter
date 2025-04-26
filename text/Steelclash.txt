@@ -1,0 +1,15 @@
+============================
+Steelclash
+Base Type: Kite Shield
+Item Level: 23
+Level Required: 17
+Required Strength: 47
+25% Increased Chance of Blocking
++1 to Paladin Skill Levels
+Damage Reduced by 3
++100-60% Enhanced Defense
++20% Faster Block Rate
+All Resistances +15
++20 Defense
+Durability: 15-20 of 15-20
+

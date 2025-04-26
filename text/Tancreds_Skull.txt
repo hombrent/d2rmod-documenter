@@ -1,0 +1,13 @@
+============================
+Tancred's Skull
+Base Type: Bone Helm
+Item Level: 27
+Level Required: 1
+Set: Tancred's Battlegear
+Required Strength: 25
++25% Enhanced Damage
++80 to Attack Rating
+
+== Set Bonus for 2 Items ==
+All Resistances +15
+

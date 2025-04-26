@@ -1,0 +1,17 @@
+============================
+Shadowkiller
+Base Type: battle cestus
+Item Level: 85
+Level Required: 78
+Required Strength: 110
+Required Dexterity: 110
++170-220% Enhanced Damage
+-25% Target Defense
++20% Increased Attack Speed
++10-15 to Mana after each Kill
++3-5 to [Class Skill Tab] Skills
+Ethereal
+Indestructible
++3 to Blade Shield ([Class] only)
+Ignore Target's Defense
+

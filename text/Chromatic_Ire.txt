@@ -1,0 +1,15 @@
+============================
+Chromatic Ire
+Base Type: Cedar Staff
+Item Level: 43
+Level Required: 35
+Required Strength: 25
++3 to Sorceress Skill Levels
+All Resistances +20-40
++20% Faster Cast Rate
+Attacker Takes Lightning Damage of 20
+Increase Maximum Life 20-25%
++1 to Fire Mastery ([Class] only)
++1 to Lightning Mastery ([Class] only)
++1 to Cold Mastery ([Class] only)
+

@@ -1,0 +1,14 @@
+============================
+Gorerider
+Base Type: War Boots
+Item Level: 55
+Level Required: 47
+Required Strength: 125
+Requirements -25%
+15% Deadly Strike
++30% Faster Run/Walk
+15% Chance of Crushing Blow
+10% Chance of Open Wounds
++160-200% Enhanced Defense
+Durability: 10 of 10
+

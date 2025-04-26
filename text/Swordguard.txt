@@ -1,0 +1,17 @@
+============================
+Swordguard
+Base Type: Executioner Sword
+Item Level: 55
+Level Required: 48
+Required Strength: 170
+Required Dexterity: 110
+Requirements -50%
++# Defense (Based on Character Level)
+All Resistances +10-20
++100 Defense vs. Missile
+30% Damage Taken Goes To Mana
++170-180% Enhanced Damage
++200 Defense vs. Melee
++20% Faster Hit Recovery
+20% Increased Chance of Blocking
+

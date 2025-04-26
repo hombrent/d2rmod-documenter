@@ -1,0 +1,12 @@
+============================
+Rite of Passage
+Base Type: Demonhide Boots
+Item Level: 39
+Level Required: 29
+Set: The Disciple
+Required Strength: 20
++25 Defense
++30% Faster Run/Walk
+Cannot Be Frozen
++15-25 to Life
+

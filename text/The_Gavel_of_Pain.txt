@@ -1,0 +1,14 @@
+============================
+The Gavel of Pain
+Base Type: Martel de Fer
+Item Level: 53
+Level Required: 45
+Required Strength: 169
+20-4% Chance to cast level 20-4 Amplify Damage on striking
+5% Chance to cast level 1 Iron Maiden when struck
+Attacker Takes Damage of 26
+Repairs 1 durability in # seconds
+Adds 12-30 Damage
++130-160% Enhanced Damage
++8 to Amplify Damage
+

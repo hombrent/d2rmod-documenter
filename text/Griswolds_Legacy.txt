@@ -1,0 +1,120 @@
+============================
+Griswold's Legacy
+
+    ============================
+    Griswold's Valor
+    Base Type: Corona
+    Item Level: 44
+    Level Required: 69
+    Set: Griswold's Legacy
+    Required Strength: 174
+    +50-75% Enhanced Defense
+    Absorbs Cold Damage (Based on Character Level)
+    +1-2 to All Skills
+    Requirements -40%
+    20-30% Better Chance of Getting Magic Items
+    All Resistances +25
+    #% Deadly Strike (Based on Character Level)
+    Poison Length Reduced by 100%
+
+    == Set Bonus for 2 Items ==
+    +2 to [Class Skill Tab] Skills
+
+    == Set Bonus for 3 Items ==
+    15% Mana stolen per hit
+
+    == Set Bonus for 4 Items ==
+    +5% to Maximum Poison Resist
+
+
+    ============================
+    Griswold's Heart
+    Base Type: Ornate Armor
+    Item Level: 44
+    Level Required: 45
+    Set: Griswold's Legacy
+    Required Strength: 170
+    +600 Defense
+    +1-3 to [Class Skill Tab] Skills
+    +20-30 to Strength
+    Requirements -40%
+    +1-3 to [Class Skill Tab] Skills
+    +1-3 to [Class Skill Tab] Skills
+    +6-9 to Mana after each Kill
+
+    == Set Bonus for 2 Items ==
+    +2 to [Class Skill Tab] Skills
+
+    == Set Bonus for 3 Items ==
+    Increase Maximum Life 27%
+
+    == Set Bonus for 4 Items ==
+    +5% to Maximum Lightning Resist
+
+
+    ============================
+    Griswolds's Redemption
+    Base Type: Caduceus
+    Item Level: 44
+    Level Required: 53
+    Set: Griswold's Legacy
+    Required Strength: 97
+    Required Dexterity: 70
+    +300-350% Enhanced Damage
+    +60% Increased Attack Speed
+    Damage +190-250
+    Requirements -20%
+    -50% Target Defense
+    15-5% Chance to cast level 15-5 Frost Nova on striking
+
+    == Set Bonus for 2 Items ==
+    +2 to [Class Skill Tab] Skills
+
+    == Set Bonus for 3 Items ==
+    15% Life stolen per hit
+
+    == Set Bonus for 4 Items ==
+    +5% to Maximum Cold Resist
+
+
+    ============================
+    Griswold's Honor
+    Base Type: Vortex Shield
+    Item Level: 44
+    Level Required: 68
+    Set: Griswold's Legacy
+    Required Strength: 148
+    Damage Reduced by 20-30
+    +3 to All Skills
+    +65% Faster Block Rate
+    60% Increased Chance of Blocking
+    All Resistances +45
+    Magic Damage Reduced by 20-30
+    +45% Faster Cast Rate
+    +150-200% Enhanced Defense
+
+    == Set Bonus for 2 Items ==
+    +15 to Strength
+
+    == Set Bonus for 3 Items ==
+    +25% Faster Hit Recovery
+
+    == Set Bonus for 4 Items ==
+    +5% to Maximum Fire Resist
+
+
+== Set Bonus for 2 Items ==
++20 to Strength
+
+== Set Bonus for 3 Items ==
++30 to Dexterity
+
+== Set Bonus for 4 Items ==
++40% Faster Run/Walk
+
+== Set Bonus for full Items ==
+All Resistances +50
++2 to All Skills
++300% Enhanced Damage
++150 to Life
+

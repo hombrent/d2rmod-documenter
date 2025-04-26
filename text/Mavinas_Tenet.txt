@@ -1,0 +1,25 @@
+============================
+M'avina's Tenet
+Base Type: Sharkskin Belt
+Item Level: 21
+Level Required: 45
+Set: M'avina's Battle Hymn
+Required Strength: 20
++50 Defense
++30% Faster Run/Walk
+5% Mana stolen per hit
+All Resistances +10-15
++3-5 to Mana after each Kill
+
+== Set Bonus for 2 Items ==
+-20% to Enemy Fire Resistance
+
+== Set Bonus for 3 Items ==
++15 to Strength
+
+== Set Bonus for 4 Items ==
+All Resistances +25
+
+== Set Bonus for 5 Items ==
++5% to Maximum Poison Resist
+

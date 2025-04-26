@@ -1,0 +1,26 @@
+============================
+Immortal King's Pillar
+Base Type: War Boots
+Item Level: 37
+Level Required: 31
+Set: Immortal King
+Required Strength: 125
++75 Defense
++40% Faster Run/Walk
++110 to Attack Rating
+Damage Reduced by 3-5%
+Magic Resist +30-40%
++10% Faster Cast Rate
+
+== Set Bonus for 2 Items ==
+25% Better Chance of Getting Magic Items
+
+== Set Bonus for 3 Items ==
++2 to [Class Skill Tab] Skills
+
+== Set Bonus for 4 Items ==
++160 Defense
+
+== Set Bonus for 5 Items ==
+Half Freeze Duration
+

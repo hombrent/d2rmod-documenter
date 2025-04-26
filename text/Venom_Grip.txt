@@ -1,0 +1,14 @@
+============================
+Venom Grip
+Base Type: Demonhide Gloves
+Item Level: 37
+Level Required: 29
+Required Strength: 20
+Poison Resist +30%
++5% to Maximum Poison Resist
++59 Poison Damage over 4.0 Seconds
+5% Chance of Crushing Blow
+5% Life stolen per hit
++15-25 Defense
++130-160% Enhanced Defense
+

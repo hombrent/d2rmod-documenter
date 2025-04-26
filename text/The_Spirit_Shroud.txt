@@ -1,0 +1,15 @@
+============================
+The Spirit Shroud
+Base Type: Ghost Armor
+Item Level: 36
+Level Required: 28
+Required Strength: 38
+Cannot Be Frozen
++1 to All Skills
+Magic Damage Reduced by 11-15
++50-69 to Mana
++180% Enhanced Defense
++25% Faster Cast Rate
++10-15 to Energy
++20% Faster Hit Recovery
+

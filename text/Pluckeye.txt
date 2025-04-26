@@ -1,0 +1,12 @@
+============================
+Pluckeye
+Base Type: Short Bow
+Item Level: 10
+Level Required: 7
+Required Dexterity: 15
++28 to Attack Rating
++100% Enhanced Damage
++10 to Life
+3% Mana stolen per hit
++2 to Mana after each Kill
+

@@ -1,0 +1,14 @@
+============================
+Stormeye
+Base Type: War Scepter
+Item Level: 31
+Level Required: 23
+Required Strength: 55
+Adds 1-6 Lightning Damage
+Adds 3-5 Cold Damage
+Replenish Life +10
++120-80% Enhanced Damage
++3-5 to Resist Lightning ([Class] only)
++3 to Holy Shock ([Class] only)
++1 to Fist of the Heavens ([Class] only)
+
