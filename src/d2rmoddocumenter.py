@@ -1,6 +1,7 @@
 #!env python
 
 import csv,sys
+import urllib.parse
 
 class d2rmoddocumenter:
 
@@ -133,11 +134,15 @@ class d2rmoddocumenter:
                         #print(f"type='item', code={prop}, par={par}, min={min}, max={max}")
                         type = f"setfull"
                         set.add_property(type=type, code=prop, par=par, min=min, max=max)
+                #######################
+                # Set Items
                 for set_item_name in self.set_item_objects.keys():
                     item = self.set_item_objects[set_item_name]
                     item_set = item.get_set()
                     if item.get_set() == name:
+                        # set up the relationship between set and item in both directions
                         set.add_set_item(item)
+                        item.add_set_object(set)
 
                 self.set_objects[name] = set
 
@@ -404,6 +409,7 @@ class Item:
     base_stats = {}
     properties = {}
     set_items = []
+    set_object = None
 
     def __init__(self, name="", base_type=""):
         if not name or not base_type:
@@ -423,6 +429,9 @@ class Item:
         if self.base_type != "set":
             raise Exception("Tried to add a set item to something that is not a set")
         self.set_items.append(item)
+
+    def add_set_object(self, set):
+        self.set_object=set
 
     def add_property(self, type="", code="", par="", min="", max=""):
         if not type or not code:
@@ -449,28 +458,65 @@ class Item:
         else:
             return None
 
-    def get_text(self, show_hidden=False, html=False, indent=0):
+    def get_nice_name(self):
+        nn = self.name.replace("'", "")
+        nn = nn.replace(" ", "_")
+        nn = urllib.parse.quote(nn)
+        return nn
 
-        if html:
+    def get_base_filename(self, output_format="html"):
+        nn = self.get_nice_name()
+        if output_format == "html":
+            link = f"{nn}.html"
+        elif output_format == "txt":
+            link = f"{nn}.txt"
+        else:
+            link = nn
+        return link
+
+    def get_link(self, output_format="html"):
+        if self.base_type == "set":
+            if output_format=="html":
+                #link = f"<a href=\"{self.get_base_filename(output_format=output_format)}#{self.get_nice_name()}\">{self.name}</a>"
+                link = f"<a href=\"{self.get_base_filename(output_format=output_format)}\">{self.name}</a>"
+            elif output_format=="txt":
+                link = self.name
+            else:
+                link = self.get_base_filename(output_format=output_format)
+        else:
+            link = self.get_base_filename(output_format=output_format)
+        return link
+
+
+
+    def get_text(self, show_hidden=False, output_format="html", indent=0):
+
+        if output_format == "html":
             newline = "<br>\n"
+            indenttext = indent * "&nbsp;&nbsp;&nbsp;&nbsp;"
+            opener = f"<div id=\"{self.get_nice_name()}\">\n"
+            closer = "</div>\n"
         else:
             newline = "\n"
+            indenttext = indent * "    "
+            opener = f"{indenttext}============================{newline}\n"
+            closer = ""
 
-        indenttext = indent * "    "
-
-        item_text = f"{indenttext}============================{newline}"
-
+        item_text = opener
         item_text += f"{indenttext}{self.name}{newline}"
         if self.base_type != "set":
             item_text += f"{indenttext}Base Type: {self.base_type}{newline}"
         #print(self.base_stats)
         for base_stat_name in self.base_stats.keys():
             if not self.base_stats[base_stat_name]["hidden"]:
-                item_text += f"{indenttext}{base_stat_name}: {self.base_stats[base_stat_name]['value']}{newline}"
+                if base_stat_name == "Set":
+                    item_text += f"{indenttext}Set: {self.set_object.get_link(output_format=output_format)}{newline}"
+                else:
+                    item_text += f"{indenttext}{base_stat_name}: {self.base_stats[base_stat_name]['value']}{newline}"
 
         for set_item in self.set_items:
-            item_text += f"{newline}"
-            item_text += set_item.get_text(show_hidden, html, indent+1)
+            item_text += newline
+            item_text += set_item.get_text(show_hidden, output_format=output_format, indent=indent+1)
             
         for property_type in self.properties.keys():
             if "set" in property_type:
@@ -478,7 +524,8 @@ class Item:
                 item_text += f"{newline}{indenttext}== Set Bonus for {items_required} Items =={newline}"
             for property in self.properties[property_type]:
                 item_text += f"{indenttext}{property['tooltip']}{newline}"
-        item_text += f"{newline}"
+        item_text += newline
+        item_text += closer
         return item_text
 
     
