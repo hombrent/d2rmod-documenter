@@ -1,6 +1,6 @@
 #!env python
 
-import csv,sys
+import csv,sys,os
 import d2rmoddocumenter
 import urllib.parse
 
@@ -21,6 +21,9 @@ all_set_items_out = {"html": "", "txt": ""}
 all_unique_items_out = {"html": "", "txt": ""}
 all_items_out = {"html": "", "txt": ""}
 all_sets_out = {"html": "", "txt": ""}
+
+os.makedirs("../html", exist_ok=True)
+os.makedirs("../txt", exist_ok=True)
 
 items = documenter.get_set_item_objects()
 for name in items.keys():
@@ -83,25 +86,22 @@ with open("../html/all_items.html", "w") as f:
     f.write(make_html_header("BTDiablo Items", "BTDiablo_Items") + all_items_out["html"] + make_html_footer())
     f.close()
 
-with open("../text/all_unique_items.txt", "w") as f:
+with open("../txt/all_unique_items.txt", "w") as f:
     f.write(all_unique_items_out["txt"])
     f.close()
 
-with open("../text/all_set_items.txt", "w") as f:
+with open("../txt/all_set_items.txt", "w") as f:
     f.write(all_set_items_out["txt"])
     f.close()
 
-with open("../text/all_items.txt", "w") as f:
+with open("../txt/all_items.txt", "w") as f:
     f.write(all_items_out["txt"])
     f.close()
-
-
-
 
 with open("../html/all_sets.html", "w") as f:
     f.write(make_html_header("BTDiablo Sets", "Sets_Items") + all_sets_out["html"] + make_html_footer())
     f.close()
 
-with open("../text/all_sets.text", "w") as f:
+with open("../txt/all_sets.text", "w") as f:
     f.write(all_sets_out["txt"])
     f.close()
