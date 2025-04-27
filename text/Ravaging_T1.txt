@@ -1,6 +1,0 @@
-============================
-Ravaging T1
-Base Type: charm
-Item Level: 1
-Level Required: 1
-

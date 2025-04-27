@@ -1,9 +1,0 @@
-============================
-Gheed's Fortune
-Base Type: charm
-Item Level: 70
-Level Required: 62
-20-40% Better Chance of Getting Magic Items
-160-80% Extra Gold from Monsters
-Reduces all Vendor Prices 10-15%
-
