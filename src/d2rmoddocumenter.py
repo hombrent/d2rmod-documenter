@@ -3,6 +3,45 @@
 import csv,sys
 import urllib.parse
 
+
+def get_rune_by_code(code):
+    runes_by_code = {
+        "r01": "El",
+        "r02": "Eld",
+        "r03": "Tir",
+        "r04": "Nef",
+        "r05": "Eth",
+        "r06": "Ith",
+        "r07": "Tal",
+        "r08": "Ral",
+        "r09": "Ort",
+        "r10": "Thul",
+        "r11": "Amn",
+        "r12": "Sol",
+        "r13": "Shael",
+        "r14": "Dol",
+        "r15": "Hel",
+        "r16": "Io",
+        "r17": "Lum",
+        "r18": "Ko",
+        "r19": "Fal",
+        "r20": "Lem",
+        "r21": "Pul",
+        "r22": "Um",
+        "r23": "Mal",
+        "r24": "Ist",
+        "r25": "Gul",
+        "r26": "Vex",
+        "r27": "Ohm",
+        "r28": "Lo",
+        "r29": "Sur",
+        "r30": "Ber",
+        "r31": "Jah",
+        "r32": "Cham",
+        "r33": "Zod",
+    }
+    return runes_by_code[code]
+
 class d2rmoddocumenter:
 
     properties = {}
@@ -12,12 +51,15 @@ class d2rmoddocumenter:
     weapon_objects = {}
     armor_objects = {}
     unique_item_objects = {}
+    runeword_item_objects = {}
     base_type_objects = {}
     set_item_objects = {}
     set_objects = {}
     all_item_objects = {}
     item_objects_by_type = {}
     item_types = {}
+
+
  
 
     def __new__(cls):
@@ -41,6 +83,7 @@ class d2rmoddocumenter:
         self.make_unique_item_objects()
         self.make_set_item_objects()
         self.make_set_objects()
+        self.make_runeword_item_objects()
 
     def get_set_objects(self):
         return self.set_objects
@@ -101,6 +144,44 @@ class d2rmoddocumenter:
                 if base_type not in self.item_objects_by_type:
                     self.item_objects_by_type[base_type] = {}
                 self.item_objects_by_type[base_type][name] = item
+
+    def make_runeword_item_objects(self):
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/runes.txt") as csvfile:
+            reader = csv.DictReader(csvfile, delimiter="\t")
+            for row in reader:
+                if row["complete"] != "1":
+                    continue
+                #print(row)
+
+                #base_type_code = row['code']
+                #base_type = row['*ItemName']
+                name = row['*Rune Name']
+                item = Item(name=name, base_type="runeword")
+                #print("---------------")
+                #print(f"Runeword {name}")
+                #item.add_base_stat("Item Level", row['lvl'])
+                #item.add_base_stat("Level Required", row['lvl req'])
+                #item.add_base_stat(name="Rarity", value=row['rarity'], hidden=True)
+                #item.add_base_stat("base_type_code", base_type_code, hidden=True)
+                ##################
+                # Item Properties
+                for propnum in range(1,7):
+                    prop = row[f"T1Code{propnum}"]
+                    par = row[f"T1Param{propnum}"]
+                    min = row[f"T1Min{propnum}"]
+                    max = row[f"T1Max{propnum}"]
+                    if prop:
+                        #print(f"type='item', code={prop}, par={par}, min={min}, max={max}")
+                        item.add_property(type="item", code=prop, par=par, min=min, max=max)
+                        #print(f"property {prop} {par} {min} {max}")
+                for runenum in range(1,6):
+                    rune_code = row[f"Rune{runenum}"]
+                    if rune_code:
+                        item.add_rune(rune_code)
+                #################
+                # Save the item
+                self.runeword_item_objects[name] = item
+
 
     def make_set_objects(self):
         with open("../../BTDiablo/btdiablo.mpq/data/global/excel/sets.txt") as csvfile:
@@ -329,9 +410,15 @@ class d2rmoddocumenter:
                 self.base_type_objects[code] = base_type
 
 
+
+
+
  
     def get_unique_item_objects(self):
         return self.unique_item_objects
+
+    def get_runeword_item_objects(self):
+        return self.runeword_item_objects
 
     def get_all_item_objects(self):
         return self.all_item_objects
@@ -409,6 +496,7 @@ class Item:
     base_stats = {}
     properties = {}
     set_items = []
+    runes = []
     set_object = None
 
     def __init__(self, name="", base_type=""):
@@ -419,11 +507,15 @@ class Item:
         self.properties = {}
         self.base_stats = {}
         self.set_items = []
+        self.runes = []
 
     def add_base_stat(self, name="", value="", hidden=False):
         if not name or not value:
             raise Exception("Tried to add a base stat without a name or value")
         self.base_stats[name] = {"name": name, "value": value, "hidden": hidden}
+
+    def add_rune(self, rune_code):
+        self.runes.append(rune_code)
 
     def add_set_item(self, item):
         if self.base_type != "set":
@@ -506,6 +598,13 @@ class Item:
         item_text += f"{indenttext}{self.name}{newline}"
         if self.base_type != "set":
             item_text += f"{indenttext}Base Type: {self.base_type}{newline}"
+        if len(self.runes) > 0:
+            item_text += f"{indenttext}Runes:"
+            for rune_code in self.runes:
+                rune = get_rune_by_code(rune_code) 
+                item_text += f" {rune}"
+            item_text += f"{newline}"
+
         #print(self.base_stats)
         for base_stat_name in self.base_stats.keys():
             if not self.base_stats[base_stat_name]["hidden"]:

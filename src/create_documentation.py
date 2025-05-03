@@ -24,7 +24,7 @@ os.makedirs("../txt", exist_ok=True)
 
 def generate_individual_output_files(items):
     items_out = {"html": "", "txt": ""}
-    items = documenter.get_set_item_objects()
+    #items = documenter.get_set_item_objects()
     for name in items.keys():
         for output_format in ["html", "txt"]:
             base_filename = items[name].get_base_filename(output_format=output_format)
@@ -82,6 +82,16 @@ with open("../txt/all_sets.txt", "w") as f:
     f.write(sets_out["txt"])
     f.close()
 
+runewords_out = generate_individual_output_files(documenter.get_runeword_item_objects())
+with open("../html/all_runewords.html", "w") as f:
+    f.write(
+            make_html_header("BTDiablo Runewords", "Runewords_Unique_Items") + 
+            sets_out["html"] + 
+            make_html_footer())
+    f.close()
+with open("../txt/all_runewords.txt", "w") as f:
+    f.write(sets_out["txt"])
+    f.close()
 
 
 
