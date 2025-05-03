@@ -153,27 +153,20 @@ class d2rmoddocumenter:
                     continue
                 #print(row)
 
-                #base_type_code = row['code']
-                #base_type = row['*ItemName']
                 name = row['*Rune Name']
                 item = Item(name=name, base_type="runeword")
-                #print("---------------")
-                #print(f"Runeword {name}")
-                #item.add_base_stat("Item Level", row['lvl'])
-                #item.add_base_stat("Level Required", row['lvl req'])
-                #item.add_base_stat(name="Rarity", value=row['rarity'], hidden=True)
-                #item.add_base_stat("base_type_code", base_type_code, hidden=True)
+
                 ##################
-                # Item Properties
+                # Runeword Properties
                 for propnum in range(1,7):
                     prop = row[f"T1Code{propnum}"]
                     par = row[f"T1Param{propnum}"]
                     min = row[f"T1Min{propnum}"]
                     max = row[f"T1Max{propnum}"]
                     if prop:
-                        #print(f"type='item', code={prop}, par={par}, min={min}, max={max}")
                         item.add_property(type="item", code=prop, par=par, min=min, max=max)
-                        #print(f"property {prop} {par} {min} {max}")
+                ###################
+                # Required Runes
                 for runenum in range(1,6):
                     rune_code = row[f"Rune{runenum}"]
                     if rune_code:
@@ -556,75 +549,49 @@ class Item:
         nn = urllib.parse.quote(nn)
         return nn
 
-    def get_base_filename(self, output_format="html"):
+    def get_base_filename(self):
         nn = self.get_nice_name()
-        if output_format == "html":
-            link = f"{nn}.html"
-        elif output_format == "txt":
-            link = f"{nn}.txt"
-        else:
-            link = nn
+        link = f"{nn}.txt"
         return link
 
-    def get_link(self, output_format="html"):
-        if self.base_type == "set":
-            if output_format=="html":
-                #link = f"<a href=\"{self.get_base_filename(output_format=output_format)}#{self.get_nice_name()}\">{self.name}</a>"
-                link = f"<a href=\"{self.get_base_filename(output_format=output_format)}\">{self.name}</a>"
-            elif output_format=="txt":
-                link = self.name
-            else:
-                link = self.get_base_filename(output_format=output_format)
-        else:
-            link = self.get_base_filename(output_format=output_format)
+    def get_link(self):
+        link = self.get_base_filename()
         return link
 
 
 
-    def get_text(self, show_hidden=False, output_format="html", indent=0):
+    def get_text(self, show_hidden=False):
 
-        if output_format == "html":
-            newline = "<br>\n"
-            indenttext = indent * "&nbsp;&nbsp;&nbsp;&nbsp;"
-            opener = f"<div id=\"{self.get_nice_name()}\">\n"
-            closer = "</div>\n"
-        else:
-            newline = "\n"
-            indenttext = indent * "    "
-            opener = f"{indenttext}============================{newline}\n"
-            closer = ""
-
-        item_text = opener
-        item_text += f"{indenttext}{self.name}{newline}"
+        item_text = ""
+        item_text += f"{self.name}\n"
         if self.base_type != "set":
-            item_text += f"{indenttext}Base Type: {self.base_type}{newline}"
+            item_text += f"Base Type: {self.base_type}\n"
         if len(self.runes) > 0:
-            item_text += f"{indenttext}Runes:"
+            item_text += f"Runes:"
             for rune_code in self.runes:
                 rune = get_rune_by_code(rune_code) 
                 item_text += f" {rune}"
-            item_text += f"{newline}"
+            item_text += f"\n"
 
         #print(self.base_stats)
         for base_stat_name in self.base_stats.keys():
             if not self.base_stats[base_stat_name]["hidden"]:
                 if base_stat_name == "Set":
-                    item_text += f"{indenttext}Set: {self.set_object.get_link(output_format=output_format)}{newline}"
+                    item_text += f"Set: {self.set_object.get_link()}\n"
                 else:
-                    item_text += f"{indenttext}{base_stat_name}: {self.base_stats[base_stat_name]['value']}{newline}"
+                    item_text += f"{base_stat_name}: {self.base_stats[base_stat_name]['value']}\n"
 
         for set_item in self.set_items:
-            item_text += newline
-            item_text += set_item.get_text(show_hidden, output_format=output_format, indent=indent+1)
+            item_text += "\n"
+            item_text += set_item.get_text(show_hidden)
             
         for property_type in self.properties.keys():
             if "set" in property_type:
                 items_required = property_type[3:]
-                item_text += f"{newline}{indenttext}== Set Bonus for {items_required} Items =={newline}"
+                item_text += f"\n== Set Bonus for {items_required} Items ==\n"
             for property in self.properties[property_type]:
-                item_text += f"{indenttext}{property['tooltip']}{newline}"
-        item_text += newline
-        item_text += closer
+                item_text += f"{property['tooltip']}\n"
+        item_text += "\n"
         return item_text
 
     
