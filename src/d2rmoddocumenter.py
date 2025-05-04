@@ -4,43 +4,6 @@ import csv,sys
 import urllib.parse
 
 
-def get_rune_by_code(code):
-    runes_by_code = {
-        "r01": "El",
-        "r02": "Eld",
-        "r03": "Tir",
-        "r04": "Nef",
-        "r05": "Eth",
-        "r06": "Ith",
-        "r07": "Tal",
-        "r08": "Ral",
-        "r09": "Ort",
-        "r10": "Thul",
-        "r11": "Amn",
-        "r12": "Sol",
-        "r13": "Shael",
-        "r14": "Dol",
-        "r15": "Hel",
-        "r16": "Io",
-        "r17": "Lum",
-        "r18": "Ko",
-        "r19": "Fal",
-        "r20": "Lem",
-        "r21": "Pul",
-        "r22": "Um",
-        "r23": "Mal",
-        "r24": "Ist",
-        "r25": "Gul",
-        "r26": "Vex",
-        "r27": "Ohm",
-        "r28": "Lo",
-        "r29": "Sur",
-        "r30": "Ber",
-        "r31": "Jah",
-        "r32": "Cham",
-        "r33": "Zod",
-    }
-    return runes_by_code[code]
 
 class d2rmoddocumenter:
 
@@ -55,11 +18,10 @@ class d2rmoddocumenter:
     base_type_objects = {}
     set_item_objects = {}
     set_objects = {}
+    gem_objects = {}
     all_item_objects = {}
     item_objects_by_type = {}
     item_types = {}
-
-
  
 
     def __new__(cls):
@@ -78,6 +40,7 @@ class d2rmoddocumenter:
         self.read_properties()
         self.read_sets()
         self.read_skills()
+        self.make_gem_objects()
         self.make_weapon_objects()
         self.make_armor_objects()
         self.make_unique_item_objects()
@@ -110,6 +73,7 @@ class d2rmoddocumenter:
                 base_type = row['*ItemName']
                 name = row['index']
                 item = Item(name=name, base_type=base_type)
+                item.add_category("Unique")
                 item.add_base_stat("Item Level", row['lvl'])
                 item.add_base_stat("Level Required", row['lvl req'])
                 item.add_base_stat(name="Rarity", value=row['rarity'], hidden=True)
@@ -155,6 +119,7 @@ class d2rmoddocumenter:
 
                 name = row['*Rune Name']
                 item = Item(name=name, base_type="runeword")
+                item.add_category("RuneWord")
 
                 ##################
                 # Runeword Properties
@@ -166,6 +131,13 @@ class d2rmoddocumenter:
                     if prop:
                         item.add_property(type="item", code=prop, par=par, min=min, max=max)
                 ###################
+                # Allowed types
+                for typenum in range(1,6):
+                    runeword_type = row[f"itype{typenum}"]
+                    if runeword_type:
+                        item.add_runeword_type(runeword_type)
+                
+                ###################
                 # Required Runes
                 for runenum in range(1,6):
                     rune_code = row[f"Rune{runenum}"]
@@ -174,6 +146,55 @@ class d2rmoddocumenter:
                 #################
                 # Save the item
                 self.runeword_item_objects[name] = item
+
+    def make_gem_objects(self):
+        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/gems.txt") as csvfile:
+            reader = csv.DictReader(csvfile, delimiter="\t")
+            for row in reader:
+                #print(row)
+
+                name = row['name']
+                code = row['code']
+                if "Chipped" in name or "Flawed" in name:
+                    continue
+
+                if "Rune" in name:
+                    base_type = "rune"
+                    category = "Rune"
+                else:
+                    base_type = "gem"
+                    category = "Gem"
+
+                item = Item(name=name, base_type=base_type)
+                item.add_category(category)
+
+                ##################
+                # Weapon Properties
+                for propnum in range(1,4):
+                    prop = row[f"weaponMod{propnum}Code"]
+                    par = row[f"weaponMod{propnum}Param"]
+                    min = row[f"weaponMod{propnum}Min"]
+                    max = row[f"weaponMod{propnum}Max"]
+                    if prop:
+                        item.add_property(type="gem_weapon", code=prop, par=par, min=min, max=max)
+                for propnum in range(1,4):
+                    prop = row[f"helmMod{propnum}Code"]
+                    par = row[f"helmMod{propnum}Param"]
+                    min = row[f"helmMod{propnum}Min"]
+                    max = row[f"helmMod{propnum}Max"]
+                    if prop:
+                        item.add_property(type="gem_helm", code=prop, par=par, min=min, max=max)
+                for propnum in range(1,4):
+                    prop = row[f"shieldMod{propnum}Code"]
+                    par = row[f"shieldMod{propnum}Param"]
+                    min = row[f"shieldMod{propnum}Min"]
+                    max = row[f"shieldMod{propnum}Max"]
+                    if prop:
+                        item.add_property(type="gem_shield", code=prop, par=par, min=min, max=max)
+
+                #################
+                # Save the item
+                self.gem_objects[code] = item
 
 
     def make_set_objects(self):
@@ -185,6 +206,8 @@ class d2rmoddocumenter:
                 if not name:
                     continue
                 set = Item(name=name, base_type="set")
+                set.add_category("Set")
+
                 ##########################
                 # Partial Set Bonuses
                 for setpropnum in range(2,5):
@@ -244,6 +267,7 @@ class d2rmoddocumenter:
                     if not name:
                         continue
                     item = Item(name=name, base_type=base_type)
+                    item.add_category("SetItem")
                     item.add_base_stat("Item Level", row['lvl'])
                     item.add_base_stat("Level Required", row['lvl req'])
                     item.add_base_stat("Set", row['set'])
@@ -290,6 +314,9 @@ class d2rmoddocumenter:
                     if base_type not in self.item_objects_by_type:
                         self.item_objects_by_type[base_type] = {}
                     self.item_objects_by_type[base_type][name] = item
+
+
+
 
 
     def make_weapon_objects(self):
@@ -405,7 +432,20 @@ class d2rmoddocumenter:
 
 
 
+    def get_gem(self, code):
+        if code in self.gem_objects:
+            return self.gem_objects[code]
+        else:
+            return None
 
+    def get_gem_by_name(self, name):
+        for code in self.gem_objects.keys():
+            if self.gem_objects[code].get_name() == name:
+                return self.gem_objects[code]
+        return None
+
+    def get_gem_objects(self):
+        return self.gem_objects
  
     def get_unique_item_objects(self):
         return self.unique_item_objects
@@ -478,6 +518,7 @@ class d2rmoddocumenter:
                 self.item_types[row["Code"]] = row 
 
 
+
               
 #############################################################
 # The item class provides a bit of a standardized version of 
@@ -486,10 +527,12 @@ class Item:
 
     name = None
     base_type = None
+    category = None
     base_stats = {}
     properties = {}
     set_items = []
     runes = []
+    runeword_types = []
     set_object = None
 
     def __init__(self, name="", base_type=""):
@@ -501,14 +544,56 @@ class Item:
         self.base_stats = {}
         self.set_items = []
         self.runes = []
+        self.runeword_types = []
+        self.category = "Unknown_Category"
 
     def add_base_stat(self, name="", value="", hidden=False):
         if not name or not value:
             raise Exception("Tried to add a base stat without a name or value")
         self.base_stats[name] = {"name": name, "value": value, "hidden": hidden}
 
+    def add_runeword_type(self, type):
+        self.runeword_types.append(type)
+
     def add_rune(self, rune_code):
+        documenter = d2rmoddocumenter()
+        rune = documenter.get_gem(rune_code)
         self.runes.append(rune_code)
+
+        rune_properties = rune.get_properties()
+
+        ####################
+        # properties for shields
+        shield_types = ["shld", "pala"]
+        l = [t for t in self.runeword_types if t in shield_types ]
+        if len(l) > 0:
+            if "gem_shield" not in self.properties:
+                self.properties["gem_shield"] = []
+            self.properties["gem_shield"].extend(rune_properties["gem_shield"])
+
+        #####################
+        # Properties for helms and armor
+        helm_and_armor_types = ["tors", "helm"]
+        l = [t for t in self.runeword_types if t in helm_and_armor_types ]
+        if len(l) > 0:
+            if "gem_helm" not in self.properties:
+                self.properties["gem_helm"] = []
+            self.properties["gem_helm"].extend(rune_properties["gem_helm"])
+
+        #####################
+        # Properties for weapons
+        weapon_types = [
+            "mele", "club", "hamm", "mace", "swor", "miss", "weap", "h2h", "axe", "pole",
+            "spear", "staf", "scep", "knif", "wand" ]
+        l = [t for t in self.runeword_types if t in weapon_types ]
+        if len(l) > 0:
+            if "gem_weapon" not in self.properties:
+                self.properties["gem_weapon"] = []
+            self.properties["gem_weapon"].extend(rune_properties["gem_weapon"])
+
+
+
+
 
     def add_set_item(self, item):
         if self.base_type != "set":
@@ -517,6 +602,12 @@ class Item:
 
     def add_set_object(self, set):
         self.set_object=set
+
+    def add_category(self, category):
+        self.category = category
+
+    def get_category(self):
+        return self.category
 
     def add_property(self, type="", code="", par="", min="", max=""):
         if not type or not code:
@@ -537,11 +628,26 @@ class Item:
         property["tooltip"] = self.get_property_tooltip(property)
         self.properties[type].append(property)
 
+    def get_properties_by_type(self, type):
+        if type in self.properties:
+            return self.properties[type]
+        else:
+            return []
+
+    def get_properties(self):
+        return self.properties
+
     def get_set(self):
         if "Set" in self.base_stats:
             return self.base_stats["Set"]["value"]
         else:
             return None
+
+    def get_name(self):
+        return self.name
+
+    def get_rune_shortname(self):
+        return self.name.replace(" Rune", "")
 
     def get_nice_name(self):
         nn = self.name.replace("'", "")
@@ -549,46 +655,74 @@ class Item:
         nn = urllib.parse.quote(nn)
         return nn
 
+    def get_path(self):
+        return self.category
+
     def get_base_filename(self):
         nn = self.get_nice_name()
-        link = f"{nn}.txt"
+        link = f"{nn}"
         return link
 
     def get_link(self):
-        link = self.get_base_filename()
+        if self.set_object is not None:
+            link = f"{self.set_object.get_link()}#{self.get_nice_name()}"
+        elif self.base_type == "gem":
+            link = f"Gems#{self.get_nice_name()}"
+        else:
+            link = f"{self.get_path()}/{self.get_base_filename()}"
         return link
 
 
 
-    def get_text(self, show_hidden=False):
+    def get_text(self, show_hidden=False, allow_redirect=True):
 
+        documenter = d2rmoddocumenter()
         item_text = ""
-        item_text += f"{self.name}\n"
+
+        # if accessed directly, set items should redirect onto the set page
+        if self.set_object is not None and allow_redirect:
+            return f"#REDIRECT {self.get_link()}\n"
+
+        if self.base_type in ["gem", "rune"]:
+            item_text += "{{" + self.get_nice_name() + "}}\n"
+
+        item_text += f"[[{self.get_link()}|{self.name}]]\n"
         if self.base_type != "set":
             item_text += f"Base Type: {self.base_type}\n"
         if len(self.runes) > 0:
             item_text += f"Runes:"
             for rune_code in self.runes:
-                rune = get_rune_by_code(rune_code) 
-                item_text += f" {rune}"
+                rune = documenter.get_gem(rune_code) 
+                item_text += f" {rune.get_rune_shortname()}"
             item_text += f"\n"
 
-        #print(self.base_stats)
         for base_stat_name in self.base_stats.keys():
             if not self.base_stats[base_stat_name]["hidden"]:
                 if base_stat_name == "Set":
-                    item_text += f"Set: {self.set_object.get_link()}\n"
+                    item_text += f"Set: [[{self.set_object.get_link()}|{self.set_object.get_name()}]]\n"
                 else:
                     item_text += f"{base_stat_name}: {self.base_stats[base_stat_name]['value']}\n"
 
         for set_item in self.set_items:
             item_text += "\n"
-            item_text += set_item.get_text(show_hidden)
+            item_text += "{{" + set_item.get_nice_name() + "}}\n"
+            item_text += set_item.get_text(show_hidden, allow_redirect=False)
             
         for property_type in self.properties.keys():
             if "set" in property_type:
                 items_required = property_type[3:]
                 item_text += f"\n== Set Bonus for {items_required} Items ==\n"
+            if "gem_" in property_type:
+                gem_property_type = property_type[4:]
+                if gem_property_type == "helm":
+                    gem_property_type_desc = "Helmet or Armor"
+                elif gem_property_type == "weapon":
+                    gem_property_type_desc = "Weapon"
+                elif gem_property_type == "shield":
+                    gem_property_type_desc = "Shield"
+                else:
+                    gem_property_type_desc = gem_property_type
+                item_text += f"\n== When used in a {gem_property_type_desc} ==\n"
             for property in self.properties[property_type]:
                 item_text += f"{property['tooltip']}\n"
         item_text += "\n"
