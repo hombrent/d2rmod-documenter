@@ -1,10 +1,19 @@
 #!env python
 
 import csv,sys,os
-import d2rmoddocumenter
+from d2rmoddocumenter import d2rmoddocumenter
 import urllib.parse
 
-documenter = d2rmoddocumenter.d2rmoddocumenter()
+if len(sys.argv) < 3:
+    print("Usage: python create_documentation.py <path_to_excel_files> <output_format>")
+    sys.exit(1)
+
+excel_path = sys.argv[1]
+output_format = sys.argv[2]
+
+
+# Initialize documenter with path from command line
+documenter = d2rmoddocumenter(excel_path)
 documenter.init()
 
 def make_header(name, nice_name):
@@ -23,17 +32,80 @@ all_items_out = ""
 os.makedirs("../docs", exist_ok=True)
 
 def generate_individual_output_files(items):
-    #items = documenter.get_set_item_objects()
     items_out = ""
     for name in items.keys():
+        item = items[name]
+        
+        # Debug prints for main item
+        print(f"\nDEBUG: Main item {name} dictionaries:")
+        print("DEBUG: Main __dict__:", item.__dict__)
+        print("DEBUG: Main properties:", item.properties if hasattr(item, 'properties') else "No properties")
+        print("DEBUG: Main base_stats:", item.base_stats if hasattr(item, 'base_stats') else "No base_stats")
+        
+        # Debug prints for set items
+        if hasattr(item, 'set_items'):
+            print("\nDEBUG: Set items details:")
+            for i, set_item in enumerate(item.set_items):
+                print(f"\nDEBUG: Set item {i+1}: {set_item.get_nice_name()}")
+                print("DEBUG: Set item __dict__:", set_item.__dict__)
+                print("DEBUG: Set item properties:", set_item.properties if hasattr(set_item, 'properties') else "No properties")
+                print("DEBUG: Set item base_stats:", set_item.base_stats if hasattr(set_item, 'base_stats') else "No base_stats")
+        
         path = items[name].get_path()
         base_filename = items[name].get_base_filename()
         os.makedirs(f"../docs/{path}", exist_ok=True)
         filename = f"../docs/{path}/{base_filename}"
-        out = items[name].get_text(show_hidden=False)
+        
+        if output_format == "mediawiki":
+            out = f"=== {item.get_nice_name()} ===\n\n"
+            
+            # Add individual set items and their properties first
+            if item.set_items:
+                out += "==== Set Items ====\n"
+                for set_item in item.set_items:
+                    out += f"===== {set_item.get_nice_name()} =====\n"
+                    out += "{| class=\"wikitable\"\n"
+                    out += "! Properties\n"
+                    
+                    # Base item properties
+                    if 'item' in set_item.properties:
+                        for prop in set_item.properties['item']:
+                            out += "|-\n"
+                            out += f"| {prop['tooltip']}\n"
+                    
+                    # Add partial set bonuses
+                    for i in range(2, 6):  # Check for set2 through set5
+                        set_key = f'set{i}'
+                        if set_key in set_item.properties:
+                            print(f"DEBUG: Found {set_key} bonus in {set_item.get_nice_name()}")
+                            print(f"DEBUG: {set_key} properties:", set_item.properties[set_key])
+                            out += "|-\n"
+                            out += f"| style=\"font-weight: bold\" | With {i} Set Items:\n"
+                            for prop in set_item.properties[set_key]:
+                                out += "|-\n"
+                                out += f"| {prop['tooltip']}\n"
+                    
+                    out += "|}\n\n"
+            
+            # Add full set bonus last
+            if 'properties' in item.__dict__ and 'setfull' in item.properties:
+                print("DEBUG: Found full set bonus properties:", item.properties['setfull'])
+                out += "==== Full Set Bonus ====\n"
+                out += "{| class=\"wikitable\"\n"
+                out += "! Properties\n"
+                for prop in item.properties['setfull']:
+                    out += "|-\n"
+                    out += f"| {prop['tooltip']}\n"
+                out += "|}\n\n"
+        else:
+            out = items[name].get_text(show_hidden=False)
+
         with open(filename, "w") as f:
             nn = items[name].get_nice_name()
-            file_out = make_header(name, nn) + out + make_footer()
+            if output_format == "mediawiki":
+                file_out = out
+            else:
+                file_out = make_header(name, nn) + out + make_footer()
             f.write(file_out)
             f.close()
         items_out += out
@@ -85,9 +157,9 @@ with open("../docs/Items/Uniques", "w") as f:
     f.close()
 if output_summary_pages:
     with open("../docs/all_unique_items.txt", "w") as f:
-        f.write(unique_items_out)
+        f.write(uniques_out)
         f.close()
-    all_items_out += unique_items_out
+    all_items_out += uniques_out
 
 runewords = documenter.get_runeword_item_objects()
 runewords_out = generate_individual_output_files(runewords)

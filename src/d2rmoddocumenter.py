@@ -24,18 +24,26 @@ class d2rmoddocumenter:
     all_item_objects = {}
     item_objects_by_type = {}
     item_types = {}
+    _instance = None
  
 
     def __new__(cls, *args, **kwargs):
         """ creates a singleton object, if it is not created, or else returns the previous singleton object"""
-        if not hasattr(cls, 'instance'):
-            cls.instance = super(d2rmoddocumenter, cls).__new__(cls)
-        return cls.instance
+        if not cls._instance:
+            cls._instance = super(d2rmoddocumenter, cls).__new__(cls)
+        return cls._instance
 
     def __init__(self, excel_path):
         if not excel_path:
             raise ValueError("excel_path must be provided when creating d2rmoddocumenter")
         self.excel_path = excel_path
+
+    @classmethod
+    def get_instance(cls):
+        """Get the singleton instance"""
+        if not cls._instance:
+            raise RuntimeError("d2rmoddocumenter must be initialized with excel_path first")
+        return cls._instance
 
     def init(self):
         print(f"Using excel_path: {self.excel_path}")
@@ -99,8 +107,18 @@ class d2rmoddocumenter:
                     base_type_object = self.get_base_type_object(base_type_code)            
                     #print(item.get_text())
                     #print(base_type_object.get_text())
-                    req_str = base_type_object.get_stat("Required Strength")
-                    req_dex = base_type_object.get_stat("Required Dexterity")
+                    try:
+                        req_str = base_type_object.get_stat("Required Strength")
+                    except Exception as e:
+                        print(f"DEBUG: Failed to get Required Strength for {base_type_code}: {str(e)}")
+                        req_str = None
+
+                    try:
+                        req_dex = base_type_object.get_stat("Required Dexterity")
+                    except Exception as e:
+                        print(f"DEBUG: Failed to get Required Dexterity for {base_type_code}: {str(e)}")
+                        req_dex = None
+
                     if req_str and int(req_str) > 0:
                         item.add_base_stat("Required Strength", req_str)
                     if req_dex and int(req_dex) > 0:
@@ -152,9 +170,11 @@ class d2rmoddocumenter:
                 self.runeword_item_objects[name] = item
 
     def make_gem_objects(self):
+        print(f"DEBUG: Starting make_gem_objects")
         with open(os.path.join(self.excel_path, "gems.txt")) as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
+                print(f"DEBUG: Processing gem row: {row['name']}")
                 #print(row)
 
                 name = row['name']
@@ -180,6 +200,7 @@ class d2rmoddocumenter:
                     min = row[f"weaponMod{propnum}Min"]
                     max = row[f"weaponMod{propnum}Max"]
                     if prop:
+                        print(f"DEBUG: Adding weapon property to gem {name}: {prop}")
                         item.add_property(type="gem_weapon", code=prop, par=par, min=min, max=max)
                 for propnum in range(1,4):
                     prop = row[f"helmMod{propnum}Code"]
@@ -524,7 +545,7 @@ class d2rmoddocumenter:
                 self.item_types[row["Code"]] = row 
 
     def read_misc(self):
-        with open("../../BTDiablo/btdiablo.mpq/data/global/excel/misc.txt") as csvfile:
+        with open(os.path.join(self.excel_path, "misc.txt")) as csvfile:
             reader = csv.DictReader(csvfile, delimiter="\t")
             for row in reader:
                 self.misc[row["name"]] = row 
@@ -569,7 +590,7 @@ class Item:
         self.runeword_types.append(type)
 
     def add_rune(self, rune_code):
-        documenter = d2rmoddocumenter()
+        documenter = d2rmoddocumenter.get_instance()
         rune = documenter.get_gem(rune_code)
         self.runes.append(rune_code)
 
@@ -629,7 +650,8 @@ class Item:
             self.properties[type] = []
         code = code.lower()
 
-        documenter = d2rmoddocumenter()
+        # Use the singleton instance
+        documenter = d2rmoddocumenter.get_instance()
         base_property = documenter.get_property(code)
         if not base_property:
             return
@@ -690,7 +712,7 @@ class Item:
 
     def get_text(self, show_hidden=False, allow_redirect=True, child=False):
 
-        documenter = d2rmoddocumenter()
+        documenter = d2rmoddocumenter.get_instance()
         item_text = ""
 
         # if accessed directly, set items should redirect onto the set page
@@ -750,7 +772,7 @@ class Item:
         par = property["par"]
         min = property["min"]
         max = property["max"]
-        documenter = d2rmoddocumenter()
+        documenter = d2rmoddocumenter.get_instance()
         base_property = documenter.get_property(name)
  
         if not base_property:
@@ -813,7 +835,7 @@ class Item:
     
         if "[Skill]" in tooltip:
             if par.isnumeric():
-                documenter = d2rmoddocumenter()
+                documenter = d2rmoddocumenter.get_instance()
                 skill = documenter.get_skill(par)["skill"]
             else: 
                 skill = par
