@@ -1,3 +1,6 @@
+# credientials file
+btd_wiki_creds.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

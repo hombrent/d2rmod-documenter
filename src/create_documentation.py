@@ -46,47 +46,84 @@ def generate_individual_output_files(items):
     #f.write(set_items_out)
     #f.close()
 #all_items_out += set_items_out
+output_summary_pages = False
 
-gems_out = ""
-for gemtype in [ "Sapphire", "Emerald", "Topaz", "Ruby", "Amethyst", "Diamond", "Skull" ]:
-    for quality in ["", "Flawless", "Perfect"]:
-        if quality:
-            gemname = f"{quality} {gemtype}"
-        else:
-            gemname = gemtype
-        gem = documenter.get_gem_by_name(gemname)
-        gems_out += gem.get_text()
-with open("../docs/Gem", "w") as f:
-    f.write(gems_out)
-    f.close()
+if output_summary_pages:
+    gems_out = ""
+    for gemtype in [ "Sapphire", "Emerald", "Topaz", "Ruby", "Amethyst", "Diamond", "Skull" ]:
+        for quality in ["", "Flawless", "Perfect"]:
+            if quality:
+                gemname = f"{quality} {gemtype}"
+            else:
+                gemname = gemtype
+            gem = documenter.get_gem_by_name(gemname)
+            gems_out += gem.get_text()
+    with open("../docs/Gem", "w") as f:
+        f.write(gems_out)
+        f.close()
 
-runes_out = ""
-for num in range(1,34):
-    rune_code = f"r{num:02}"
-    rune = documenter.get_gem(rune_code)
-    runes_out += rune.get_text()
-with open("../docs/Rune", "w") as f:
-    f.write(runes_out)
-    f.close()
+if output_summary_pages:
+    runes_out = ""
+    for num in range(1,34):
+        rune_code = f"r{num:02}"
+        rune = documenter.get_gem(rune_code)
+        runes_out += rune.get_text()
+    with open("../docs/Rune", "w") as f:
+        f.write(runes_out)
+        f.close()
 
-unique_items_out = generate_individual_output_files(documenter.get_unique_item_objects())
-with open("../docs/all_unique_items.txt", "w") as f:
-    f.write(unique_items_out)
+uniques = documenter.get_unique_item_objects()
+uniques_out = generate_individual_output_files(uniques)
+uniques_article = "== Uniques ==\n\n"
+#import pprint
+#pprint.pp(runewords)
+for name in uniques.keys():
+    link = uniques[name].get_link()
+    uniques_article += f"* [[{link}|{name}]]\n\n"
+with open("../docs/Items/Uniques", "w") as f:
+    f.write(uniques_article)
     f.close()
-all_items_out += unique_items_out
+if output_summary_pages:
+    with open("../docs/all_unique_items.txt", "w") as f:
+        f.write(unique_items_out)
+        f.close()
+    all_items_out += unique_items_out
 
-runewords_out = generate_individual_output_files(documenter.get_runeword_item_objects())
-with open("../docs/all_runewords.txt", "w") as f:
-    f.write(runewords_out)
+runewords = documenter.get_runeword_item_objects()
+runewords_out = generate_individual_output_files(runewords)
+runewords_article = "== Runewords ==\n\n"
+#import pprint
+#pprint.pp(runewords)
+for name in runewords.keys():
+    link = runewords[name].get_link()
+    runewords_article += f"* [[{link}|{name}]]\n\n"
+with open("../docs/Items/Runewords", "w") as f:
+    f.write(runewords_article)
     f.close()
-all_items_out += runewords_out
+if output_summary_pages:
+    with open("../docs/Items/Runewords", "w") as f:
+        f.write(runewords_out)
+        f.close()
+    all_items_out += runewords_out
 
-sets_out = generate_individual_output_files(documenter.get_set_objects())
-with open("../docs/all_sets.txt", "w") as f:
-    f.write(sets_out)
+sets = documenter.get_set_objects()
+sets_out = generate_individual_output_files(sets)
+sets_article = "== Sets ==\n\n"
+#import pprint
+#pprint.pp(runewords)
+for name in sets.keys():
+    link = sets[name].get_link()
+    sets_article += f"* [[{link}|{name}]]\n\n"
+with open("../docs/Items/Sets", "w") as f:
+    f.write(sets_article)
     f.close()
+if output_summary_pages:
+    with open("../docs/all_sets.txt", "w") as f:
+        f.write(sets_out)
+        f.close()
 
-with open("../docs/all_items.txt", "w") as f:
-    f.write(all_items_out)
-    f.close()
+if output_summary_pages:
+    with open("../docs/all_items.txt", "w") as f:
+        f.write(all_items_out)
+        f.close()
 
