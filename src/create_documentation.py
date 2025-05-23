@@ -67,14 +67,25 @@ def generate_individual_output_files(items):
                     out += "{| class=\"wikitable\"\n"
                     out += "! Properties\n"
                     
+                    # Base stats first
+                    if hasattr(set_item, 'base_stats'):
+                        print(f"DEBUG: Processing base_stats for {set_item.get_nice_name()}")
+                        for stat_name, stat_info in set_item.base_stats.items():
+                            if not stat_info['hidden']:  # Only show non-hidden stats
+                                print(f"DEBUG: Adding base stat: {stat_name} = {stat_info['value']}")
+                                out += "|-\n"
+                                out += f"| {stat_info['name']}: {stat_info['value']}\n"
+                    
                     # Base item properties
                     if 'item' in set_item.properties:
+                        print(f"DEBUG: Processing item properties for {set_item.get_nice_name()}")
                         for prop in set_item.properties['item']:
+                            print(f"DEBUG: Adding item property: {prop['tooltip']}")
                             out += "|-\n"
                             out += f"| {prop['tooltip']}\n"
                     
                     # Add partial set bonuses
-                    for i in range(2, 6):  # Check for set2 through set5
+                    for i in range(2, 6):
                         set_key = f'set{i}'
                         if set_key in set_item.properties:
                             print(f"DEBUG: Found {set_key} bonus in {set_item.get_nice_name()}")
