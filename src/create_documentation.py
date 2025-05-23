@@ -67,15 +67,34 @@ def generate_individual_output_files(items):
                     out += "{| class=\"wikitable\"\n"
                     out += "! Properties\n"
                     
+
                     # Base stats first
                     if hasattr(set_item, 'base_stats'):
                         print(f"DEBUG: Processing base_stats for {set_item.get_nice_name()}")
-                        for stat_name, stat_info in set_item.base_stats.items():
-                            if not stat_info['hidden']:  # Only show non-hidden stats
-                                print(f"DEBUG: Adding base stat: {stat_name} = {stat_info['value']}")
-                                out += "|-\n"
-                                out += f"| {stat_info['name']}: {stat_info['value']}\n"
-                    
+                        print(set_item.base_stats)
+                        try:
+                            base_type_object = documenter.base_type_objects[set_item.base_stats['base_type_code']['value']]
+                            if base_type_object:
+                                # Add base weapon/armor stats
+                                if 'damage' in base_type_object.__dict__:
+                                    for damage_type, damage_info in base_type_object.damage.items():
+                                        out += "|-\n"
+                                        out += f"| {damage_type} Damage: {damage_info['min']}-{damage_info['max']}\n"
+                                
+                                # Add other relevant base stats
+                                relevant_stats = [
+                                    'Item Level', 'Required Level', 'Required Strength', 'Required Dexterity',
+                                    'Max Sockets', 'Attack Speed', 'Range', 'Durability', 'Defense'
+                                ]
+                                
+                                for stat_name in relevant_stats:
+                                    if stat_name in base_type_object.stats and not base_type_object.stats[stat_name]['hidden']:
+                                        out += "|-\n"
+                                        out += f"| {base_type_object.stats[stat_name]['name']}: {base_type_object.stats[stat_name]['value']}\n"
+
+                        except KeyError as e:
+                            print(f"DEBUG: Failed to find base type object for code {set_item.base_stats['base_type_code']['value']}")
+
                     # Base item properties
                     if 'item' in set_item.properties:
                         print(f"DEBUG: Processing item properties for {set_item.get_nice_name()}")
@@ -108,6 +127,8 @@ def generate_individual_output_files(items):
                     out += "|-\n"
                     out += f"| {prop['tooltip']}\n"
                 out += "|}\n\n"
+
+
         else:
             out = items[name].get_text(show_hidden=False)
 

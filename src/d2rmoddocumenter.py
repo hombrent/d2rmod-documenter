@@ -104,7 +104,8 @@ class d2rmoddocumenter:
                 # Fill in stats from base type
                 #print(f"basetype {base_type}")
                 if base_type_code not in ["amu", "rin", "cm1", "cm2", "cm3", "jew", "mfc", "mfe", "mff"]:
-                    base_type_object = self.get_base_type_object(base_type_code)            
+                    base_type_object = self.get_base_type_object(base_type_code)
+
                     #print(item.get_text())
                     #print(base_type_object.get_text())
                     try:
