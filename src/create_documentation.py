@@ -56,7 +56,7 @@ def generate_individual_output_files(items):
         os.makedirs(f"../docs/{path}", exist_ok=True)
         filename = f"../docs/{path}/{base_filename}"
         
-        if output_format == "mediawiki":
+        if 0 and output_format == "mediawiki":
             out = f"=== {item.get_nice_name()} ===\n\n"
             
             # Add individual set items and their properties first
@@ -102,10 +102,7 @@ def generate_individual_output_files(items):
 
         with open(filename, "w") as f:
             nn = items[name].get_nice_name()
-            if output_format == "mediawiki":
-                file_out = out
-            else:
-                file_out = make_header(name, nn) + out + make_footer()
+            file_out = out
             f.write(file_out)
             f.close()
         items_out += out
@@ -120,19 +117,31 @@ def generate_individual_output_files(items):
 #all_items_out += set_items_out
 output_summary_pages = False
 
-if output_summary_pages:
-    gems_out = ""
-    for gemtype in [ "Sapphire", "Emerald", "Topaz", "Ruby", "Amethyst", "Diamond", "Skull" ]:
-        for quality in ["", "Flawless", "Perfect"]:
-            if quality:
-                gemname = f"{quality} {gemtype}"
-            else:
-                gemname = gemtype
-            gem = documenter.get_gem_by_name(gemname)
-            gems_out += gem.get_text()
-    with open("../docs/Gem", "w") as f:
-        f.write(gems_out)
-        f.close()
+gems_out = ""
+gems_out += "{| class=\"wikitable\"\n"
+gems_out += "|-\n! Name !! Helmet or Armor !! Weapon !! Shield\n"
+for gemtype in [ 
+                {"name": "Sapphire", "color": "blue"}, 
+                {"name": "Emerald", "color": "green"}, 
+                {"name": "Topaz", "color": "yellow"}, 
+                {"name": "Ruby", "color": "red"}, 
+                {"name": "Amethyst", "color": "purple"}, 
+                {"name": "Diamond", "color": "white"}, 
+                {"name": "Skull", "color": "grey"} 
+    ]:
+    for quality in ["", "Flawless", "Perfect"]:
+        if quality:
+            gemname = f"{quality} {gemtype['name']}"
+        else:
+            gemname = gemtype['name']
+        gem = documenter.get_gem_by_name(gemname)
+        gems_out += gem.get_text_gem(write_table=False, color=gemtype["color"])
+gems_out += "|}"
+with open("../docs/Items/Gems", "w") as f:
+    f.write(gems_out)
+    f.close()
+
+
 
 if output_summary_pages:
     runes_out = ""

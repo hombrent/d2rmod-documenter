@@ -1,4 +1,4 @@
-#!en python
+#!env python
 
 import csv,sys
 import urllib.parse
@@ -231,6 +231,7 @@ class d2rmoddocumenter:
                 name = row["name"]
                 if not name:
                     continue
+                name = name.replace("McAuley's", "Sander's")
                 set = Item(name=name, base_type="set")
                 set.add_category("Set")
 
@@ -292,11 +293,14 @@ class d2rmoddocumenter:
                     name = row['index'].strip()
                     if not name:
                         continue
+                    name = name.replace("McAuley's", "Sander's")
                     item = Item(name=name, base_type=base_type)
                     item.add_category("SetItem")
                     item.add_base_stat("Item Level", row['lvl'])
                     item.add_base_stat("Level Required", row['lvl req'])
-                    item.add_base_stat("Set", row['set'])
+                    parent_set = row['set']
+                    parent_set = parent_set.replace("McAuley's", "Sander's")
+                    item.add_base_stat("Set", parent_set)
                     item.add_base_stat("base_type_code", base_type_code, hidden=True)
                     item.add_base_stat(name="Rarity", value=row['rarity'], hidden=True)
                     #####################
@@ -709,46 +713,49 @@ class Item:
         return link
 
 
-
     def get_text(self, show_hidden=False, allow_redirect=True, child=False):
 
         documenter = d2rmoddocumenter.get_instance()
+
+        if self.base_type == "set":
+            return self.get_text_set(show_hidden=show_hidden, allow_redirect=allow_redirect, child=child)
+
         item_text = ""
 
         # if accessed directly, set items should redirect onto the set page
         if self.set_object is not None and allow_redirect:
             return f"#REDIRECT {self.get_link()}\n\n"
 
-        if self.base_type in ["gem", "rune"]:
-            item_text += "{{" + self.get_nice_name() + "}}\n\n"
+        item_text += "{| class=\"wikitable\"\n"
 
-        item_text += f"[[{self.get_link()}|{self.name}]]\n\n"
+        if self.base_type in ["gem", "rune"]:
+            item_text += "|-\n| {{" + self.get_nice_name() + "}}\n"
+
+        item_text += f'|-\n! colspan="2" | [[{self.get_link()}|{self.name}]]\n'
         if self.base_type not in ["set", "runeword"]:
-            item_text += f"Base Type: {self.base_type}\n\n"
+            item_text += f"|-\n| Base Type || {self.base_type}\n"
         if len(self.runes) > 0:
-            item_text += f"Runes:"
+            item_text += f"|-\n| Runes || "
             for rune_code in self.runes:
                 rune = documenter.get_gem(rune_code) 
                 item_text += f" {rune.get_rune_shortname()}"
-            item_text += f"\n\n"
+            item_text += f"\n"
 
         for base_stat_name in self.base_stats.keys():
             if not self.base_stats[base_stat_name]["hidden"]:
                 if base_stat_name == "Set":
-                    item_text += f"Set: [[{self.set_object.get_link()}|{self.set_object.get_name()}]]\n\n"
+                    item_text += f"|-\n| Set || [[{self.set_object.get_link()}|{self.set_object.get_name()}]]\n"
                 else:
-                    item_text += f"{base_stat_name}: {self.base_stats[base_stat_name]['value']}\n\n"
+                    item_text += f"|-\n| {base_stat_name} || {self.base_stats[base_stat_name]['value']}\n"
 
-        if len(self.set_items) > 0:
-            for set_item in self.set_items:
-                item_text += "\n\n"
-                item_text += set_item.get_text(show_hidden, allow_redirect=False)
-            item_text += "\n\n----\n\n"
             
+        item_text += '|-\n| colspan="2" style="text-align:center; font-weight:bold;" | Properties\n'
         for property_type in self.properties.keys():
+            # item_text += "|-\n"
             if "set" in property_type:
                 items_required = property_type[3:]
-                item_text += f"\n\n'''Set Bonus for {items_required} Items'''\n\n"
+                item_text += f'|-\n| colspan="2" style="text-align:center; font-weight:bold" | Set Bonus for {items_required} Items\n'
+            # I dont think we should be dealing with gems here, its too confusing
             if "gem_" in property_type:
                 gem_property_type = property_type[4:]
                 if gem_property_type == "helm":
@@ -759,10 +766,71 @@ class Item:
                     gem_property_type_desc = "Shield"
                 else:
                     gem_property_type_desc = gem_property_type
-                item_text += f"\n\n'''When used in a {gem_property_type_desc}'''\n\n"
+                item_text += f"| When used in a {gem_property_type_desc}\n"
             for property in self.properties[property_type]:
-                item_text += f"* {property['tooltip']}\n\n"
+                item_text += f"|-\n| colspan=\"2\" | {property['tooltip']}\n\n"
+        item_text += "|}\n"
         item_text += "\n\n"
+
+        return item_text
+
+
+    def get_text_gem(self, write_table=False, color=None):
+
+        documenter = d2rmoddocumenter.get_instance()
+
+        colortext = ""
+        if color:
+            colortext = f" style=\"color:{color};\" | "
+
+        item_text = ""
+
+        if write_table:
+            item_text += "{| class=\"wikitable\"\n"
+            item_text += "|-\n! Name !! Helmet or Armor !! Weapon !! Sheild\n"
+
+        item_text += "|-\n"
+        item_text += f"| {colortext}{self.get_name()}"
+
+            
+        property_types = ["gem_helm", "gem_weapon", "gem_shield"]
+        for ptype in property_types:
+            item_text += " ||"
+            for property in self.properties[ptype]:
+                item_text += f" {property['tooltip']}<br>"
+        item_text += "\n"
+
+        if write_table:
+            item_text += "|}\n"
+
+        return item_text
+
+
+    def get_text_set(self, show_hidden=False, allow_redirect=True, child=False):
+
+        documenter = d2rmoddocumenter.get_instance()
+        item_text = ""
+
+        if len(self.set_items) > 0:
+            for set_item in self.set_items:
+                item_text += "\n\n"
+                item_text += set_item.get_text(show_hidden, allow_redirect=False)
+
+        item_text += "{| class=\"wikitable\"\n"
+
+        item_text += f'|-\n! colspan="2" | Set Bonuses\n'
+
+        for property_type in self.properties.keys():
+            # item_text += "|-\n"
+            if "set" in property_type:
+                items_required = property_type[3:]
+                item_text += f'|-\n| colspan="2" style="text-align:center; font-weight:bold" | Set Bonus for {items_required} Items\n'
+            for property in self.properties[property_type]:
+                item_text += f"|-\n| colspan=\"2\" | {property['tooltip']}\n"
+        item_text += "|}\n"
+        item_text += "\n\n"
+
+
         return item_text
 
     
@@ -815,7 +883,7 @@ class Item:
                 tooltip = f"+{mindam}-{maxdam} Poison Damage over {seconds} Seconds"
 
         if name == "pois-len":
-            if par:
+            if par and par != "0":
                 length = int(int(par)/25)
             else:
                 if max == min:
@@ -823,6 +891,16 @@ class Item:
                 else:
                     length = f"{int(int(min)/25)}-{int(int(max)/25)}"
             tooltip = f"Poison Length {length} seconds"
+
+        if name == "cold-len":
+            if par and par != "0":
+                length = int(int(par)/25)
+            else:
+                if max == min:
+                    length = int(int(max)/25)
+                else:
+                    length = f"{int(int(min)/25)}-{int(int(max)/25)}"
+            tooltip = f"Cold Length {length} seconds"
     
         if name == "pierce":
             tooltip = "+#% Piercing Attack"
