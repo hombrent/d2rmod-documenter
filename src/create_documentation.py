@@ -103,16 +103,19 @@ with open("../docs/Items/Gems", "w") as f:
 
 
 
-if output_summary_pages:
-    runes_out = ""
-    for num in range(1,34):
-        rune_code = f"r{num:02}"
-        rune = documenter.get_gem(rune_code)
-        runes_out += rune.get_text()
-    with open("../docs/Rune", "w") as f:
-        f.write(runes_out)
-        f.close()
+runes_out = ""
+runes_out += "{| class=\"wikitable\"\n"
+runes_out += "|-\n! Name !! Helmet or Armor !! Weapon !! Shield\n"
+for num in range(1,34):
+    rune_code = f"r{num:02}"
+    rune = documenter.get_gem(rune_code)
+    runes_out += rune.get_text_gem()
+with open("../docs/Items/Runes", "w") as f:
+    f.write(runes_out)
+    f.close()
 
+###################
+# Uniques
 uniques = documenter.get_unique_item_objects()
 uniques_out = generate_individual_output_files(uniques)
 uniques_article = "== Uniques ==\n\n"
@@ -130,6 +133,10 @@ if output_summary_pages:
         f.close()
     all_items_out += uniques_out
 
+
+
+##################
+# Runewords
 runewords = documenter.get_runeword_item_objects()
 runewords_out = generate_individual_output_files(runewords)
 runewords_article = "== Runewords ==\n\n"
@@ -152,6 +159,10 @@ sets_out = generate_individual_output_files(sets)
 sets_article = "== Sets ==\n\n"
 #import pprint
 #pprint.pp(runewords)
+
+
+#################
+# Gems
 for name in sorted(sets.keys()):
     link = sets[name].get_link()
     sets_article += f"* [[{link}|{name}]]\n\n"
