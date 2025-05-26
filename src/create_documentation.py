@@ -33,72 +33,32 @@ os.makedirs("../docs", exist_ok=True)
 
 def generate_individual_output_files(items):
     items_out = ""
-    for name in items.keys():
+    for name in sorted(items.keys()):
+        print(f"name: {name}")
         item = items[name]
         
         # Debug prints for main item
-        print(f"\nDEBUG: Main item {name} dictionaries:")
-        print("DEBUG: Main __dict__:", item.__dict__)
-        print("DEBUG: Main properties:", item.properties if hasattr(item, 'properties') else "No properties")
-        print("DEBUG: Main base_stats:", item.base_stats if hasattr(item, 'base_stats') else "No base_stats")
+        #print(f"\nDEBUG: Main item {name} dictionaries:")
+        #print("DEBUG: Main __dict__:", item.__dict__)
+        #print("DEBUG: Main properties:", item.properties if hasattr(item, 'properties') else "No properties")
+        #print("DEBUG: Main base_stats:", item.base_stats if hasattr(item, 'base_stats') else "No base_stats")
         
         # Debug prints for set items
         if hasattr(item, 'set_items'):
-            print("\nDEBUG: Set items details:")
+            #print("\nDEBUG: Set items details:")
             for i, set_item in enumerate(item.set_items):
-                print(f"\nDEBUG: Set item {i+1}: {set_item.get_nice_name()}")
-                print("DEBUG: Set item __dict__:", set_item.__dict__)
-                print("DEBUG: Set item properties:", set_item.properties if hasattr(set_item, 'properties') else "No properties")
-                print("DEBUG: Set item base_stats:", set_item.base_stats if hasattr(set_item, 'base_stats') else "No base_stats")
+                pass
+                #print(f"\nDEBUG: Set item {i+1}: {set_item.get_nice_name()}")
+                #print("DEBUG: Set item __dict__:", set_item.__dict__)
+                #print("DEBUG: Set item properties:", set_item.properties if hasattr(set_item, 'properties') else "No properties")
+                #print("DEBUG: Set item base_stats:", set_item.base_stats if hasattr(set_item, 'base_stats') else "No base_stats")
         
         path = items[name].get_path()
         base_filename = items[name].get_base_filename()
         os.makedirs(f"../docs/{path}", exist_ok=True)
         filename = f"../docs/{path}/{base_filename}"
         
-        if 0 and output_format == "mediawiki":
-            out = f"=== {item.get_nice_name()} ===\n\n"
-            
-            # Add individual set items and their properties first
-            if item.set_items:
-                out += "==== Set Items ====\n"
-                for set_item in item.set_items:
-                    out += f"===== {set_item.get_nice_name()} =====\n"
-                    out += "{| class=\"wikitable\"\n"
-                    out += "! Properties\n"
-                    
-                    # Base item properties
-                    if 'item' in set_item.properties:
-                        for prop in set_item.properties['item']:
-                            out += "|-\n"
-                            out += f"| {prop['tooltip']}\n"
-                    
-                    # Add partial set bonuses
-                    for i in range(2, 6):  # Check for set2 through set5
-                        set_key = f'set{i}'
-                        if set_key in set_item.properties:
-                            print(f"DEBUG: Found {set_key} bonus in {set_item.get_nice_name()}")
-                            print(f"DEBUG: {set_key} properties:", set_item.properties[set_key])
-                            out += "|-\n"
-                            out += f"| style=\"font-weight: bold\" | With {i} Set Items:\n"
-                            for prop in set_item.properties[set_key]:
-                                out += "|-\n"
-                                out += f"| {prop['tooltip']}\n"
-                    
-                    out += "|}\n\n"
-            
-            # Add full set bonus last
-            if 'properties' in item.__dict__ and 'setfull' in item.properties:
-                print("DEBUG: Found full set bonus properties:", item.properties['setfull'])
-                out += "==== Full Set Bonus ====\n"
-                out += "{| class=\"wikitable\"\n"
-                out += "! Properties\n"
-                for prop in item.properties['setfull']:
-                    out += "|-\n"
-                    out += f"| {prop['tooltip']}\n"
-                out += "|}\n\n"
-        else:
-            out = items[name].get_text(show_hidden=False)
+        out = items[name].get_text(show_hidden=False)
 
         with open(filename, "w") as f:
             nn = items[name].get_nice_name()
@@ -158,7 +118,7 @@ uniques_out = generate_individual_output_files(uniques)
 uniques_article = "== Uniques ==\n\n"
 #import pprint
 #pprint.pp(runewords)
-for name in uniques.keys():
+for name in sorted(uniques.keys()):
     link = uniques[name].get_link()
     uniques_article += f"* [[{link}|{name}]]\n\n"
 with open("../docs/Items/Uniques", "w") as f:
@@ -175,7 +135,7 @@ runewords_out = generate_individual_output_files(runewords)
 runewords_article = "== Runewords ==\n\n"
 #import pprint
 #pprint.pp(runewords)
-for name in runewords.keys():
+for name in sorted(runewords.keys()):
     link = runewords[name].get_link()
     runewords_article += f"* [[{link}|{name}]]\n\n"
 with open("../docs/Items/Runewords", "w") as f:
@@ -192,7 +152,7 @@ sets_out = generate_individual_output_files(sets)
 sets_article = "== Sets ==\n\n"
 #import pprint
 #pprint.pp(runewords)
-for name in sets.keys():
+for name in sorted(sets.keys()):
     link = sets[name].get_link()
     sets_article += f"* [[{link}|{name}]]\n\n"
 with open("../docs/Items/Sets", "w") as f:
